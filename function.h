@@ -21,7 +21,6 @@ public:
 
     void getFileName(vector<pair<string,Node*>>& tab); // order: 1->5, get all file names in the same data set.
     void getAllWords(vector<pair<string,Node*>>& tab); // get all words in a specific file.
-    vector<char> splitWord(string word); // split a word into characters.
     string searchForKeyword(string keyword,vector<pair<string,Node*>>& tab);
     string searchForDef(string def,vector<pair<string,Node*>>& tab);
     void viewHistoryWords();
@@ -35,5 +34,5 @@ public:
     void guessDef(vector<pair<string,Node*>>& tab);
     void guessWord(vector<pair<string,Node*>>& tab);
 };
-
-
+int charToIndex(char a); // change a character to equivalent index in TrieNode
+vector<char> splitWord(string word); // split a word into characters.
