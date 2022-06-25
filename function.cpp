@@ -1,5 +1,5 @@
 #include"function.h"
-
+// supporting functions
 int charToIndex(char a){
     return a - 33;
 }
@@ -10,3 +10,5 @@ vector<char> splitWord(string word) {
     while (ss >> a) result.push_back(a);
     return result;
 }
+// main functions
+
