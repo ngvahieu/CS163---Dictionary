@@ -25,7 +25,7 @@ struct Node {
 struct word{
     string key;
     string def;
-}
+};
 class Dictionary{
 public: 
     Node* tree1; // tree1 stores emojis data set.
