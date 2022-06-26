@@ -22,9 +22,10 @@ struct Node {
     vector<pair<vector<string>,wstring>> defList; 
     // only save to first character Node for searching definition.
 };
-struct word{
+struct Word{
     string key;
     string def;
+    wstring vnese; // in case using viet-eng data set.
 };
 class Dictionary{
 public: 
@@ -34,20 +35,21 @@ public:
 	Node* tree4; // tree4 stores English to Vietnamese data set.
 	Node* tree5; // tree5 stores VietNamese to English data set.
 
-    void getAllWords(Node*& tree); // get all words in a specific file.
-    string searchForKeyword(string keyword,Node*& tree);
-    string searchForDef(string def,Node*& tree);
-    void viewHistoryWords();
-    void addNewWord(string word,string def,Node*& tree);
-    void editWord(string word,Node*& tree);
-    void removeWord(string word,Node*& tree);
-    void resetDictionary(Node*& tree);
-    void removeFavWord(string word);
-    void addFavWord(string word);
-    void viewRanWord(Node*& tree);
-    void guessDef(Node*& tree);
-    void guessWord(Node*& tree);
+    void getAllWordsToTree(Node*& tree,int choice); // get all words in a specific file.
+    string searchForKeyword(string keyword,Node*& tree,int choice);
+    string searchForDef(string def,Node*& tree,int choice);
+    void viewHistoryWords(int choice);
+    void addNewWord(string word,string def,Node*& tree,int choice);
+    void editWord(string word,Node*& tree,int choice);
+    void removeWord(string word,Node*& tree,int choice);
+    void resetDictionary(Node*& tree,int choice);
+    void removeFavWord(string word,int choice);
+    void addFavWord(string word,int choice);
+    void viewRanWord(Node*& tree,int choice);
+    void guessDef(Node*& tree,int choice);
+    void guessWord(Node*& tree,int choice);
 };
 int charToIndex(char a); // change a character to equivalent index in TrieNode.
 vector<char> splitWord(string word); // split a word into characters.
-void saveTreeToFile(Node*& tree); // save Trie tree to text file.
+vector<Word> getWordsFromFile(int choice);
+void saveTreeToFile(Node*& tree,int choice); // save Trie tree to text file.
