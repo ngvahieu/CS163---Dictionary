@@ -25,7 +25,7 @@ struct Node {
 struct Word{
     string key;
     string def;
-    wstring vnese; // in case using viet-eng data set.
+    wstring secondKey; // in case using viet-eng data set.
 };
 class Dictionary{
 public: 
