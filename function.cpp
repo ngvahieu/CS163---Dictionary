@@ -21,7 +21,7 @@ vector<Word> getWordsFromFile(int choice) {
     
     switch (choice) {
         case 1: { // emojis
-            ifstream fin; fin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/emotional.txt", ios::in);
+            ifstream fin; fin.open("/CS163-Dictionary/dataSets/emotional.txt", ios::in);
             Word temp;
             char check;
             string sp, firstTaken, secondTaken;
@@ -50,7 +50,7 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 2: { // slang
-            ifstream fin; fin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/slang.txt", ios::in);
+            ifstream fin; fin.open("/CS163-Dictionary/dataSets/slang.txt", ios::in);
             Word temp;
             char check;
             string sp, firstTaken, secondTaken;
@@ -79,7 +79,7 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 3: { // Eng to Eng
-            ifstream fin; fin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/eng-eng.txt", ios::in);
+            ifstream fin; fin.open("/CS163-Dictionary/dataSets/eng-eng.txt", ios::in);
             Word temp;
             string sp;
             while(!fin.eof()) {
@@ -91,7 +91,7 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 4: { // Eng to Viet
-            ifstream fin; fin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/eng-viet.txt", ios::in);
+            ifstream fin; fin.open("/CS163-Dictionary/dataSets/eng-viet.txt", ios::in);
             Word temp;
             string sp;;
             while(!fin.eof()) {
@@ -103,8 +103,8 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 5: { // Viet to Eng
-            ifstream fin; fin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/viet-eng.txt", ios::in);
-            wfstream wfin; wfin.open("/Users/apple/Documents/Tài Liệu đại học/Năm 1/HK3/Data Structure/project/projectHung/projectHung/dataSets/viet-eng.txt", ios::in);
+            ifstream fin; fin.open("/CS163-Dictionary/dataSets/viet-eng.txt", ios::in);
+            wfstream wfin; wfin.open("/CS163-Dictionary/dataSets/viet-eng.txt", ios::in);
             Word temp;
             string sp; wstring wp;
             while(!fin.eof()) {
