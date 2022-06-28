@@ -18,9 +18,9 @@ void StringToWString(std::wstring &ws, const std::string &s) {
 }
 vector<Word> getWordsFromFile(int choice) {
     vector<Word> dict;
-//    _setmode(fileno(stdin), _O_U16TEXT);
-//    _setmode(fileno(stdout), _O_U16TEXT);
-//    locale loc(locale(), new codecvt_utf8<wchar_t>);
+   _setmode(fileno(stdin), _O_U16TEXT);
+   _setmode(fileno(stdout), _O_U16TEXT);
+   locale loc(locale(), new codecvt_utf8<wchar_t>);
     
     switch (choice) {
         case 1: { // emojis
