@@ -12,8 +12,11 @@ vector<char> splitWord(string word) {
 }
 // main functions
 
+void StringToWString(std::wstring &ws, const std::string &s) {
+    std::wstring wsTmp(s.begin(), s.end());
+    ws = wsTmp;
+}
 vector<Word> getWordsFromFile(int choice) {
-    vector<Word> getWordsFromFile(int choice) {
     vector<Word> dict;
 //    _setmode(fileno(stdin), _O_U16TEXT);
 //    _setmode(fileno(stdout), _O_U16TEXT);
@@ -21,28 +24,33 @@ vector<Word> getWordsFromFile(int choice) {
     
     switch (choice) {
         case 1: { // emojis
-            ifstream fin; fin.open("/CS163-Dictionary/dataSets/emotional.txt", ios::in);
+            ifstream fin; fin.open("/dataSets/emotional.txt", ios::in);
             Word temp;
             char check;
-            string sp, firstTaken, secondTaken;
+            string firstTaken, secondTaken, s;
+            wstring w;
             while(!fin.eof()) {
                 getline(fin, firstTaken, ':');
                 fin.get(check);
                 if(check != ' ') {
                     if(check == ':') {
                         getline(fin, secondTaken, '\n');
-                        temp.key = firstTaken + check; temp.def = secondTaken;
+                        s = firstTaken + check; temp.key = s; temp.def = secondTaken;
+                        StringToWString(w, s); temp.secondKey = w;
                     }
                     else {
                         getline(fin, secondTaken, ':');
-                        temp.key = firstTaken + ':' + check + secondTaken;
+                        s = firstTaken + ':' + check + secondTaken; temp.key = s;
+                        StringToWString(w, s); temp.secondKey = w;
                         getline(fin, secondTaken, '\n');
                         temp.def = secondTaken;
                     }
                 }
                 else { // ...:(space)...
                     getline(fin, secondTaken, '\n');
-                    temp.key = firstTaken; temp.def = check + secondTaken;
+                    s = firstTaken;temp.key = s;
+                    StringToWString(w, s); temp.secondKey = w;
+                    temp.def = check + secondTaken;
                 }
                 dict.push_back(temp);
             }
@@ -50,28 +58,33 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 2: { // slang
-            ifstream fin; fin.open("/CS163-Dictionary/dataSets/slang.txt", ios::in);
+            ifstream fin; fin.open("/dataSets/emotional.txt", ios::in);
             Word temp;
             char check;
-            string sp, firstTaken, secondTaken;
+            string firstTaken, secondTaken, s;
+            wstring w;
             while(!fin.eof()) {
                 getline(fin, firstTaken, ':');
                 fin.get(check);
                 if(check != ' ') {
                     if(check == ':') {
                         getline(fin, secondTaken, '\n');
-                        temp.key = firstTaken + check; temp.def = secondTaken;
+                        s = firstTaken + check; temp.key = s; temp.def = secondTaken;
+                        StringToWString(w, s); temp.secondKey = w;
                     }
                     else {
                         getline(fin, secondTaken, ':');
-                        temp.key = firstTaken + ':' + check + secondTaken;
+                        s = firstTaken + ':' + check + secondTaken; temp.key = s;
+                        StringToWString(w, s); temp.secondKey = w;
                         getline(fin, secondTaken, '\n');
                         temp.def = secondTaken;
                     }
                 }
                 else { // ...:(space)...
                     getline(fin, secondTaken, '\n');
-                    temp.key = firstTaken; temp.def = check + secondTaken;
+                    s = firstTaken; temp.key = s;
+                    StringToWString(w, s); temp.secondKey = w;
+                    temp.def = check + secondTaken;
                 }
                 dict.push_back(temp);
             }
@@ -79,11 +92,12 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 3: { // Eng to Eng
-            ifstream fin; fin.open("/CS163-Dictionary/dataSets/eng-eng.txt", ios::in);
+            ifstream fin; fin.open("/dataSets/eng-eng.txt", ios::in);
             Word temp;
-            string sp;
+            string s; wstring w;
             while(!fin.eof()) {
                 getline(fin, temp.key, ':');
+                s = temp.key; StringToWString(w, s); temp.secondKey = w;
                 getline(fin, temp.def, '\n');
                 dict.push_back(temp);
             }
@@ -91,11 +105,12 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 4: { // Eng to Viet
-            ifstream fin; fin.open("/CS163-Dictionary/dataSets/eng-viet.txt", ios::in);
+            ifstream fin; fin.open("/dataSets/eng-viet.txt", ios::in);
             Word temp;
-            string sp;;
+            string s; wstring w;
             while(!fin.eof()) {
                 getline(fin, temp.key, ':');
+                s = temp.key; StringToWString(w, s); temp.secondKey = w;
                 getline(fin, temp.def, '\n');
                 dict.push_back(temp);
             }
@@ -103,8 +118,8 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
         case 5: { // Viet to Eng
-            ifstream fin; fin.open("/CS163-Dictionary/dataSets/viet-eng.txt", ios::in);
-            wfstream wfin; wfin.open("/CS163-Dictionary/dataSets/viet-eng.txt", ios::in);
+            ifstream fin; fin.open("dataSets/viet-eng.txt", ios::in);
+            wfstream wfin; wfin.open("dataSets/viet-eng.txt", ios::in);
             Word temp;
             string sp; wstring wp;
             while(!fin.eof()) {
@@ -121,6 +136,6 @@ vector<Word> getWordsFromFile(int choice) {
         }
             break;
     }
+
     return dict;
-}
 }
