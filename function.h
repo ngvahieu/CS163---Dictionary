@@ -51,5 +51,6 @@ public:
 };
 int charToIndex(char a); // change a character to equivalent index in TrieNode.
 vector<char> splitWord(string word); // split a word into characters.
+void StringToWString(std::wstring &ws, const std::string &s);
 vector<Word> getWordsFromFile(int choice);
 void saveTreeToFile(Node*& tree,int choice); // save Trie tree to text file.
