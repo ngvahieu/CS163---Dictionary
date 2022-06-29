@@ -1,7 +1,7 @@
 #include"function.h"
 // supporting functions
 int charToIndex(char a) {
-    return a - 33;
+    return a - 32;
 }
 vector<char> splitWord(string word) {
     vector<char> result;

@@ -11,12 +11,11 @@
 #include <io.h>
 using namespace std;
 struct Node {
-    Node* child[94]; // from 33->126 in ASCII
+    Node* child[95]; // from 32->126 in ASCII
     bool isLastChar;
     bool add;
     bool remove;
     vector<vector<string>> def;
-    // string saves a key 
     // vector<string> saves definitions.
     // just push if a node is a last character of a specific word.
 
@@ -24,7 +23,7 @@ struct Node {
     // only save to first character Node for searching definition.
     Node() {
         isLastChar = false; add = false; remove = false;
-        for (int i = 0; i < 94; i++) child[i] = nullptr;
+        for (int i = 0; i < 95; i++) child[i] = nullptr;
     }
 };
 struct Word {
