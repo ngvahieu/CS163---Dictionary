@@ -45,33 +45,10 @@ vector<Word> getWordsFromFile(int choice) {
                     temp.key = firstTaken;
                     temp.def = check + secondTaken;
                 }
+                temp.def.erase(temp.def.begin());
                 dict.push_back(temp);
             }
             fin.close();
-            int i = 0;
-            wfstream wfin; wfin.open("/dataSets/emotional.txt", ios::in);
-            wchar_t check1;
-            wstring firstTake, secondTake;
-            while(!wfin.eof()) {
-                getline(wfin, firstTake, L':');
-                wfin.get(check1);
-                if(check1 != ' ') {
-                    if(check1 == ':') {
-                        getline(wfin, secondTake, L'\n');
-                        dict[i].secondKey = firstTake + check1;
-                    }
-                    else {
-                        getline(wfin, secondTake, L':');
-                        dict[i].secondKey = firstTake + L':' + check1 + secondTake;                        getline(wfin, secondTake, L'\n');
-                    }
-                }
-                else { // ...:(space)...
-                    getline(wfin, secondTake, L'\n');
-                    dict[i].secondKey = firstTake;
-                }
-                ++i;
-            }
-            wfin.close();
         }
             break;
         case 2: { // slang
@@ -100,33 +77,10 @@ vector<Word> getWordsFromFile(int choice) {
                     temp.key = firstTaken;
                     temp.def = check + secondTaken;
                 }
+                temp.def.erase(temp.def.begin());
                 dict.push_back(temp);
             }
             fin.close();
-            int i = 0;
-            wfstream wfin; wfin.open("/dataSets/slang.txt", ios::in);
-            wchar_t check1;
-            wstring firstTake, secondTake;
-            while(!wfin.eof()) {
-                getline(wfin, firstTake, L':');
-                wfin.get(check1);
-                if(check1 != ' ') {
-                    if(check1 == ':') {
-                        getline(wfin, secondTake, L'\n');
-                        dict[i].secondKey = firstTake + check1;
-                    }
-                    else {
-                        getline(wfin, secondTake, L':');
-                        dict[i].secondKey = firstTake + L':' + check1 + secondTake;                        getline(wfin, secondTake, L'\n');
-                    }
-                }
-                else { // ...:(space)...
-                    getline(wfin, secondTake, L'\n');
-                    dict[i].secondKey = firstTake;
-                }
-                ++i;
-            }
-            wfin.close();
         }
             break;
         case 3: { // Eng to Eng
@@ -135,19 +89,11 @@ vector<Word> getWordsFromFile(int choice) {
             string s;
             while(!fin.eof()) {
                 getline(fin, temp.key, ':');
+                fin.ignore(1);
                 getline(fin, temp.def, '\n');
                 dict.push_back(temp);
             }
             fin.close();
-            int i = 0;
-            wfstream wfin; wfin.open("/dataSets/eng-eng.txt", ios::in);
-            wstring w;
-            while(!wfin.eof()) {
-                getline(wfin, dict[i].secondKey, L':');
-                getline(wfin, w, L'\n');
-                ++i;
-            }
-            wfin.close();
         }
             break;
         case 4: { // Eng to Viet
@@ -156,41 +102,25 @@ vector<Word> getWordsFromFile(int choice) {
             string s;
             while(!fin.eof()) {
                 getline(fin, temp.key, ':');
+                fin.ignore(1);
                 getline(fin, temp.def, '\n');
                 dict.push_back(temp);
             }
             fin.close();
-            int i = 0;
-            wfstream wfin; wfin.open("/dataSets/eng-viet.txt", ios::in);
-            wstring w;
-            while(!wfin.eof()) {
-                getline(wfin, dict[i].secondKey, L':');
-                getline(wfin, w, L'\n');
-                ++i;
-            }
-            wfin.close();
         }
             break;
         case 5: { // Viet to Eng
             ifstream fin; fin.open("/dataSets/viet-eng.txt", ios::in);
-            wfstream wfin; wfin.open("/dataSets/viet-eng.txt", ios::in);
             Word temp;
-            string sp; wstring wp;
             while(!fin.eof()) {
-                getline(fin, temp.key, '(');
-                getline(fin, sp, ':');
-                getline(wfin, wp, L'(');
-                getline(wfin, temp.secondKey, L')');
+                getline(fin, temp.key, ':');
+                fin.ignore(1);
                 getline(fin, temp.def, '\n');
-                getline(wfin, wp, L'\n');
                 dict.push_back(temp);
             }
             fin.close();
-            wfin.close();
         }
             break;
     }
-
     return dict;
 }
-
