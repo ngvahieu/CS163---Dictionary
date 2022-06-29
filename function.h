@@ -15,17 +15,16 @@ struct Node {
     bool isLastChar;
 	bool add;    
     bool remove;
-    vector<pair<wstring,vector<string>>> def; 
-    // wstring used for saving Vietnamese words in case some Vietnamese words coincide after eliminating signs.
+    vector<pair<string,vector<string>>> def; 
+    // string saves a key 
     // vector<string> saves definitions.
     // just push if a node is a last character of a specific word.
-    vector<pair<vector<string>,wstring>> defList; 
+    vector<pair<vector<string>,string>> defList; 
     // only save to first character Node for searching definition.
 };
 struct Word{
     string key;
     string def;
-    wstring secondKey; // in case using viet-eng data set.
 };
 class Dictionary{
 public: 
