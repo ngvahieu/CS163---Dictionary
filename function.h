@@ -37,18 +37,12 @@ public:
         for (auto x : tree) x = nullptr;
     }
     vector<Node*> tree;
-    // tree[0] stores emotional data set.
-    // tree[1] stores slang words data set
-    // tree[2] stores English to English data set.
-    // tree[3] stores English to Vietnamese data set.
-    // tree[4] stores VietNamese to English data set.
-
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
-    string searchForKeyword(string keyword, Node*& tree, int choice);
-    string searchForDef(string def, Node*& tree, int choice);
+    Node* searchByKey(Node* tree, string key);
+    string searchByDef(string def, Node*& tree, int choice);
     void viewHistoryWords(int choice);
     void addNewWord(string word, string def, Node*& tree, int choice);
-    void editWord(string word, Node*& tree, int choice);
+    void editKey(Dictionary dict, int choice, string key, string newKey);
     void removeWord(string word, Node*& tree, int choice);
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
@@ -62,4 +56,4 @@ vector<char> splitWord(string word); // split a word into characters.
 vector<Word> getWordsFromFile(int choice);
 void inputWordToTree(Node*& root, Word word); // put a word to tree
 void saveTreeToFile(Node*& tree, int choice); // save Trie tree to text file.
-void deleteTree(Node*& tree); // delete a Trie tree 
+void deleteTree(Node*& tree); // delete a Trie tree
