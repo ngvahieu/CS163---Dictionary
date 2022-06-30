@@ -32,11 +32,16 @@ struct Word {
 };
 class Dictionary {
 public:
-    Node* tree1; // tree1 stores emotional data set.
-    Node* tree2; // tree2 stores slang words data set
-    Node* tree3; // tree3 stores English to English data set.
-    Node* tree4; // tree4 stores English to Vietnamese data set.
-    Node* tree5; // tree5 stores VietNamese to English data set.
+     Dictionary() {
+        tree.resize(5);
+        for (auto x : tree) x = nullptr;
+    }
+    vector<Node*> tree;
+    // tree[0] stores emotional data set.
+    // tree[1] stores slang words data set
+    // tree[2] stores English to English data set.
+    // tree[3] stores English to Vietnamese data set.
+    // tree[4] stores VietNamese to English data set.
 
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
     string searchForKeyword(string keyword, Node*& tree, int choice);
