@@ -401,8 +401,6 @@ achromatous: khong mau, khong sac
 achromous: (vat ly) lam tieu sac
 acicular: hinh kim; ket tinh thanh hinh kim
 acid: (hoa hoc) Axit
-acid-proof: æsidri'zistiɳ/
-acid-resisting: æsidri'zistiɳ/
 acidic: co tinh chat axit
 acidification: (hoa hoc) su axit hoa
 acidifier: (hoa hoc) chat axit hoa
@@ -539,8 +537,6 @@ additional: them vao, phu vao, tang them
 additive: de cong vao, de them vao
 addle: lan, quan, roi tri
 addle-brained: dau oc lan quan, quan tri, roi tri
-addle-head: ædlpeit/
-addle-pate: ædlpeit/
 address: dia chi
 addressee: nguoi nhan (thu...)
 adduce: vien, vien dan (ly le, thi du, bang chung...)
@@ -560,8 +556,6 @@ adequation: su san bang
 adespota: nhung tac pham khuyet danh
 adhere: dinh chat vao, bam chat vao
 adherence: su dinh chat, su bam chat
-adherent: d'hiərə/
-adherer: d'hiərə/
 adhesion: su dinh chat vao, su bam chat vao
 adhesive: dinh, bam chac
 adhesiveness: dinh dinh
@@ -735,8 +729,6 @@ advocacy: nhiem vu luat su
 advocate: nguoi bien ho, nguoi bao chua, nguoi benh vuc; luat su, thay cai
 adynamia: (y hoc) chung met lu; su kiet suc
 adynamic: (y hoc) met lu, kiet suc
-adyta: æditə/
-adytum: æditə/
 adz: riu luoi vom
 adze: riu luoi vom
 aeger: giay chung nhan om (cho hoc sinh cac truong dai hoc Anh)
@@ -955,8 +947,6 @@ aglow: do ruc, chay do, sang choi, ngoi sang
 agnail: cho xuoc mang ro (o canh mong tay)
 agnate: than thuoc phia cha, cung ho cha
 agnation: quan he phia cha
-agnomen: g'nɔminə/
-agnomina: g'nɔminə/
 agnostic: (triet hoc) (thuoc) thuyet khong the biet
 agnosticism: (triet hoc) thuyet khong the biet
 ago: truoc day, ve truoc
@@ -1027,7 +1017,6 @@ air: (quan su) thuong tuong khong quan (Anh)
 air: (quan su) thieu tuong khong quan (Anh)
 air: toan the nguoi lai va nhan vien tren may bay
 air: (quan su) khong quan
-air: eə,kwentʃiɳ/
 air: (ky thuat) thang may khi dong; may nhac khi dong
 air: buu pham gui bang may bay, thu gui bang may bay
 air: ban do hang khong
@@ -1088,20 +1077,15 @@ air-photography: su chup anh tu may bay
 air-pipe: ong thong hoi
 air-pocket: (hang khong) lo hong khong khi
 air-port: san bay (thuong la dan dung)
-air-proof: eəpru:f/
 air-pump: bom hoi
-air-quenching: eə,kwentʃiɳ/
 air-raid: (thuoc) su oanh tac bang may bay, phong khong
 air-route: duong hang khong
 air-shaft: ham mo thong gio
 air-sick: say gio (khi di may bay)
 air-sickness: chung say gio (khi di may bay)
 air-speed: toc do cua may bay
-air-speed: ɜəspi:d'mi:t:ə/
-air-speed: ɜəspi:d'mi:t:ə/
 air-stop: ga may bay truc thang (cho hanh khach)
 air-strip: duong bang
-air-tight: eəpru:f/
 air-to-air: khong doi khong
 air-to-ground: khong doi dat
 air-track: duong hang khong
@@ -1158,7 +1142,6 @@ albata: hop kim mayso
 albatross: chim hai au lon
 albeit: (tu co,nghia co) mac du, du, dau
 albert: day dong ho anbe ((cung)[Albert chain]) (lay ten cua ong hoang An-be, chong nu hoang Vich-to-ri-a)
-albescent: albinism /'ælbinizm/
 albino: nguoi bach tang
 albion: (tho ca) nuoc Anh
 albite: (khoang chat) Fenspat trang
@@ -1209,8 +1192,6 @@ alexin: (y hoc) chat alexin
 alexipharmic: giai doc
 alfalfa: (thuc vat hoc) co linh lang
 alfresco: o ngoai troi
-alga: ældʤi:/
-algae: ældʤi:/
 algebra: dai so hoc
 algebraic: dai so
 algebraical: dai so
@@ -1268,7 +1249,6 @@ alkalization: (hoa hoc) su kiem hoa
 alkalize: (hoa hoc) kiem hoa
 alkaloid: (hoa hoc) Ancaloit
 all: tat ca, het thay, toan bo, suot tron, moi
-all: eiprəl'fu:ldei/
 all: binh yen vo su; khoe manh
 all: (ton giao) ngay le cac thanh
 all: (ton giao) ngay le vong hon
@@ -1310,7 +1290,6 @@ alleviate: lam nhe bot, lam giam bot, lam do, lam diu, lam khuay (su dau, noi da
 alleviation: su lam nhe bot, su lam giam bot, su lam do, su lam diu, su lam khuay (su dau, noi dau kho, noi phien muon)
 alleviative: lam giam dau, lam diu, lam khuay
 alleviator: nguoi an ui, nguon an ui
-alleviatory: æli,wei/
 alleyway
 -: (thuc vat hoc) (thuoc) loai hanh toi
 alliance: su lien minh, khoi lien minh khoi dong minh
@@ -1444,16 +1423,9 @@ alumina: Alumin
 aluminium: nhom
 aluminous: (thuoc) phen; co phen
 aluminum: (tu My,nghia My) (nhu) aluminium
-alumna: 'lʌmni:/
-alumnae: 'lʌmni:/
-alumni: 'lʌmnai/
-alumnus: 'lʌmnai/
 alveolar: (thuoc) tui phoi
 alveolate: co lo nhu to ong
-alveoli: l'viəlai/
-alveolus: l'viəlai/
 always: luon luon, luc nao cung, bao gio cung, mai mai, hoai
-am: amah /'ɑ:mə/
 amain: (tu co,nghia co),  (tho ca) het suc soi noi, het suc nhiet tinh, manh liet
 amalgam: (hoa hoc) hon hong
 amalgamate: (hoa hoc) hon hong hoa
@@ -1490,11 +1462,8 @@ ambassadorial: (thuoc) dai su
 ambassadress: nu dai su
 amber: ho phach
 ambergris: long dien huong
-ambidexter: æmbi'dekstrəs/ (ambidextrous) 
 ambidexterity: su thuan ca hai tay
-ambidexterous: æmbi'dekstrəs/ (ambidextrous) 
 ambidexterousness: su thuan ca hai tay
-ambidextrous: æmbi'dekstrəs/ (ambidextrous) 
 ambidextrousness: su thuan ca hai tay
 ambient: bao quanh, o xung quanh
 ambiguity: su toi nghia, su khong ro nghia
@@ -1510,7 +1479,6 @@ amble: su di nuoc kieu; nuoc kieu
 ambler: ngua di nuoc kieu
 amblyopia: (y hoc) chung giam suc nhin
 amblyopic: bi giam suc nhin
-ambo: ambrosia /æm'brouzjə/
 ambrosial: thom tho nhu thuc an cua than tien
 ambs-ace: eimzeis/
 ambulance: xe cuu thuong, xe cap cuu
@@ -1520,8 +1488,6 @@ ambulatory: (thuoc) su di lai, dung de di lai
 ambury: u mem (o ngua va bo)
 ambuscade: phuc kich, mai phuc
 ambush: cuoc phuc kich, cuoc mai phuc
-ameba: 'mi:bəz/,  amebas 
-amebae: 'mi:bəz/,  amebas 
 ameliorate: lam tot hon, cai thien
 amelioration: su lan cho tot hon, su cai thien
 ameliorative: lam cho tot hon, de cai thien
@@ -1538,13 +1504,10 @@ amends: su den, su boi thuong; su den bu, su bu lai
 amenity: tinh nha nhan, tinh hoa nha
 amenorrhea: (y hoc) su mat kinh
 amenorrhoea: (y hoc) su mat kinh
-ament: 'mentə/,  ament 
-amenta: 'mentə/,  ament 
 amentaceous: (thuc vat hoc) co cum hoa duoi soc
 amentia: su ngu si, su dan don
 amentiferous: (thuc vat hoc) mang cum hoa duoi soc
 amentiform: (thuc vat hoc) hinh duoi soc (cum hoa)
-amentum: 'mentə/,  ament 
 amerce: bat nop phat, phat va
 amercement: su bat nop phat, su phat va
 american: (thuoc) Chau My; (thuoc) nuoc My
@@ -1589,8 +1552,6 @@ ammonium: (hoa hoc) Amoni
 ammunition: dan duoc
 amnesia: chung quen
 amnesty: su an xa
-amnia: æmniə/
-amnion: æmniə/
 amoeba: Amip
 amoebae: Amip
 amoebic: (thuoc) amip; nhu amip
@@ -1612,7 +1573,6 @@ amount: so luong, so nhieu
 amour: chuyen tinh; chuyen yeu duong ((thuong) la bat chinh)
 amour-propre: long tu ai, tinh tu ai
 amourette: tinh yeu phu phiem; chuyen yeu duong lang nhang
-amp: amperage /'æmpeəridʤ/
 ampere: (dien hoc) Ampere
 ampere-hour: Ampe gio
 ampere-second: (dien hoc) Ampe giay
@@ -1680,7 +1640,6 @@ amylic: (hoa hoc) Amylic
 amyloid: dang tinh bot
 amylopsin: (sinh vat hoc) Amilopxin (chat men tieu hoa)
 an: (tu co,nghia co); (thong tuc); (tieng dia phuong) neu
-an't: ana /'ɑ:nə/
 anabaptism: su lam le rua toi lai
 anabaptist: nguoi lam le rua toi lai
 anabaptistical: (thuoc) giao phai rua toi lai
@@ -1698,21 +1657,15 @@ anachronism: su sai nam thang, su sai nien dai
 anachronistic: sai nam thang, sai nien dai
 anaclastic: (thuoc) khuc xa; co tinh khuc xa
 anaclastics: khuc xa hoc
-anacolutha: ænəkə'lu:θə/
-anacoluthon: ænəkə'lu:θə/
 anaconda: (dong vat hoc) con tran (Nam My), con boa
 anacreontic: theo phong cach tho tru tinh cua A-na-cre-on (nha tho co Hy lap)
 anacrusis: am tiet khong trong am dau cau (tho ca)
 anadromous: nguoc song de de (ca bien)
 anaemia: (y hoc) benh thieu mau
 anaemic: (y hoc) thieu mau; xanh xao vi thieu mau
-anaerobe: 'neiroubiə/
-anaerobia: 'neiroubiə/
 anaerobian: ky khi
 anaerobic: ky khi
-anaerobium: 'neiroubiə/
 anaesthesia: su mat cam giac
-anaesthetic: ænis'θetik/
 anaesthetise: lam mat canh giac
 anaesthetist: (y hoc) nguoi gay me
 anaesthetization: su lam mat cam giac
@@ -1865,7 +1818,6 @@ anemoscope: may nghiem gio
 anent: (tu co,nghia co), (E-cot) ve, lien quan voi, quan he voi
 aneroid: cai do khi ap hop ((cung) aneroid barometer)
 anesthesia: su mat cam giac
-anesthetic: ænis'θetik/
 anethum: (thuc vat hoc) cay thi la
 aneurism: (y hoc) chung phinh mach
 aneurismal: (y hoc) (thuoc) chung phinh mach
@@ -2068,14 +2020,10 @@ answerable: co the tra loi duoc
 answerer: nguoi tra loi, nguoi dap lai
 ant: (dong vat hoc) con kien
 ant-bear: thu an kien lon
-ant-catcher: ænt'θrʌʃ/
 ant-eater: (dong vat hoc) loai thu an kien
 ant-eggs: trung kien
 ant-fly: kien canh (dung lam moi cau)
-ant-heap: ænthi:p/
-ant-hill: ænthi:p/
 ant-lion: (dong vat hoc) kien su tu
-ant-thrush: ænt'θrʌʃ/
 antacid: (y hoc) lam giam do axit, chong axit
 antagonise: gay phan tac dung; trung hoa (luc)
 antagonism: su phan doi; su phan khang
@@ -2300,8 +2248,6 @@ antisudorific: (y hoc) chong do mo hoi
 antitetanic: chong uon van
 antitheism: thuyet vo than
 antitheist: nguoi vo than; nguoi theo thuyet vo than
-antitheses: n'tiθisi:z/
-antithesis: n'tiθisi:z/
 antithetic: (thuoc) phep doi choi
 antithetical: (thuoc) phep doi choi
 antitorpedo: chong ngu loi
@@ -2319,9 +2265,7 @@ antler: gac (huou, nai)
 antlered: co gac
 antonomasia: (van hoc) phep hoan xung
 antonym: tu trai nghia
-antra: æntrə/
 antre: (tu co,nghia co),  (tho ca) hang dong
-antrum: æntrə/
 antwerp: loai bo cau actec ((cung) antwerp pigeon)
 anura: (dong vat hoc) bo khong duoi
 anurous: (dong vat hoc) khong co duoi
@@ -2329,8 +2273,6 @@ anury: (y hoc) benh khong dai, benh vo nieu
 anus: (giai phau) hau mon, lo dit
 anvil: cai de
 anvil-beak: mui de
-anvil-bed: ænvilblɔk/
-anvil-block: ænvilblɔk/
 anxiety: moi lo, moi lo au, moi ban khoan; su lo lang
 anxious: ay nay, lo au, lo lang, ban khoan
 anxiously: ay nay, lo au, lo lang, ban khoan
@@ -2374,8 +2316,6 @@ aphaeresis: (ngon ngu hoc) hien tuong mat am dau
 aphasia: (y hoc) chung mat ngon ngu
 aphasiac: (y hoc) nguoi mac chung mat ngon ngu
 aphasic: (y hoc) (thuoc) chung mat ngon ngu
-aphelia: 'fi:ljə/
-aphelion: 'fi:ljə/
 apheliotropic: (thuc vat hoc) huong nguoc mat troi
 apheliotropism: (thuc vat hoc) tinh huong nguoc mat troi
 aphesis: hien tuong mat nguyen am dau (khong phai trong am, o mot tu)
@@ -2392,8 +2332,6 @@ aphorism: cach ngon
 aphorismic: (thuoc) cach ngon; co tinh chat cach ngon
 aphoristic: (thuoc) cach ngon; co tinh chat cach ngon
 aphrodisiac: kich thich tinh duc
-aphtha: æfθi:/
-aphthae: æfθi:/
 aphyllous: (thuc vat hoc) khong la
 apiarian: (thuoc) nghe nuoi ong
 apiarist: nguoi nuoi ong
@@ -2449,8 +2387,6 @@ apologist: nguoi bien ho, nguoi bien giai cho ton giao
 apologize: xin loi, ta loi
 apologue: chuyen ngu ngon, cau chuyen ngu y
 apology: loi bien bach, loi bien giai
-aponeuroses: æpounjuə'rousi:z/
-aponeurosis: æpounjuə'rousi:z/
 apophthegm: cach ngon
 apophthegmatic: (thuoc) cach ngon; co tinh chat cach ngon
 apophysis: (giai phau) mom, mau
@@ -2472,18 +2408,13 @@ apostrophe: (ngon ngu hoc) ho ngu
 apostrophic: dau luoc
 apostrophize: dung ho ngu
 apothecary: (tu co,nghia co) nguoi bao che (thuoc)
-apothecia: æpə'θiʃiə/
-apothecium: æpə'θiʃiə/
 apothegm: cach ngon
 apothem: (toan hoc) duong trung doan
-apotheoses: ,pɔθi'ousi:z/
-apotheosis: ,pɔθi'ousi:z/
 apotheosize: ton lam than
 appal: lam kinh hoang, lam kinh so, lam that kinh
 appalling: lam kinh hoang, lam kinh so, lam kinh hai, lam that kinh; kinh khung
 appallingly: lam kinh hoang, lam kinh so, lam kinh hai, lam that kinh; kinh khung
 appanage: thai ap (cua cac bac than vuong)
-apparatus: æpə'reitəsiz/
 apparatus: chu thich di ban (cua mot tac pham)
 apparel: do theu trang tri tren ao thay tu
 apparent: ro rang, bay to ra ngoai, thay ro ra ngoai
@@ -2626,9 +2557,7 @@ aquamarine: ngoc xanh bien aquamarin
 aquaplane: (the duc,the thao) van truot nuoc
 aquarelle: (nghe thuat) tranh mau nuoc
 aquarellist: hoa si chuyen mau nuoc
-aquaria: 'kweəriəmz/,  aquaria 
 aquarist: nguoi trong nom noi trung bay be nuoi ca (ca, loai thuy sinh)
-aquarium: 'kweəriəmz/,  aquaria 
 aquarius: (thien van hoc) cung Bao binh (o hoang dao)
 aquatic: song o nuoc, moc o nuoc
 aquatics: (the duc,the thao) nhung mon the thao duoi nuoc (boi loi, bong nuoc...)
@@ -2754,11 +2683,8 @@ arduousness: su kho khan, su gian kho, su gay go
 are: A (don vi dien tich ruong dat, bang 100m2)
 area: dien tich, be mat
 areca: (thuc vat hoc) cay cau
-aren't: arena /ə'ri:nə/
 arenaceous: giong cat, co cat
 arenicolous: (dong vat hoc) song trong cat; dao hang trong cat
-areola: 'riəli:/,  (sinh vat hoc)
-areolae: 'riəli:/,  (sinh vat hoc)
 areometer: cai do do dam, phao do ty trong
 arete: cai do do dam, phao do ty trong
 argala: (dong vat hoc) co gia (An do)
@@ -2887,7 +2813,6 @@ arrow-head: dau mui ten
 arrow-headed: hinh mui ten
 arrowroot: (thuc vat hoc) cay hoang tinh, cay dong
 arrowy: hinh ten, giong mui ten
-arse: nhuoi at['ɑ:sinl]
 arsenal: kho chua vu khi dan duoc ((nghia den) & (nghia bong))
 arsenic: (hoa hoc) Asen
 arsenical: (hoa hoc) Asen
@@ -2927,8 +2852,6 @@ artillerist: (quan su) phao thu, bo doi phao binh
 artillery: (quan su) phao
 artilleryman: (quan su) phao thu, bo doi phao binh
 artiness: su lam ra ve nghe si, su lam ra ve co my thuat
-artiodactyl: ɑ:tiou'dæktiləs/
-artiodactylous: ɑ:tiou'dæktiləs/
 artisan: tho thu cong
 artisanal: thu cong
 artist: nghe si
@@ -2959,8 +2882,6 @@ ascent: su treo len, su di len, su len
 ascertain: biet chac; xac dinh; tim hieu chac chan
 ascertainable: co the biet chac, co the thay chac; co the xac dinh; co the tim hieu chac chan
 ascertainment: su biet chac, su thay chac; su xac dinh; su tim hieu chac chan
-ascetic: 'setikəl/
-ascetical: 'setikəl/
 asceticism: su tu kho hanh
 asci: (thuc vat hoc) nang (nam)
 ascidium: (dong vat hoc) hai tieu
@@ -2978,17 +2899,11 @@ aseptic: vo trung, vo khuan
 asexual: (sinh vat hoc)
 asexuality: (sinh vat hoc) tinh chat vo tinh
 ash: ((thuong) so nhieu) tro; tan (thuoc la)
-ash: æʃbin/
 ash: (hoa hoc) su loai tro, su khu tro
 ash: (hoa hoc) chat khu tro
 ash-bin: (nhu)[ash can]
-ash-box: æʃbin/ (ash-pan) 
 ash-content: (hoa hoc); ky phan tro
 ash-fire: (hoa hoc) lua am i (de lam thi nghiem hoa...)
-ash-pan: æʃbin/ (ash-pan) 
-ash-pit: æʃbin/ (ash-pan) 
-ash-pot: æʃtrei/
-ash-stand: æʃbin/ (ash-pan) 
 ash-tray: (nhu) ash-pot
 ashake: run (vi ret...)
 ashamed: xau ho, ho then, nguong
@@ -3329,7 +3244,6 @@ auditory: (thuoc) su nghe; (thuoc) thinh giac
 auger: cai khoan, mui khoan
 aught: cai gi
 augitə: (dia ly,dia chat) Ogit
-augment: (ngon ngu hoc) gia to, yeu to them[ɔ:g'ment]
 augmentation: su lam tang len; su lam rong ra; su tang len; su them vao
 augmentative: lam tang them
 augur: (tu co,nghia co) thay boi
@@ -3607,10 +3521,7 @@ b: b
 b.a.: (viet tat) cua Bachelor-of-Arts tu tai van chuong
 b.b.c: b.c /'bi:'si:/
 baa: tieng be be (cuu)
-baa-lamb: khuay khoan['bæbit'metl]
 babbit-metal: (ky thuat) hop kim babit
-babble: bæblmənt/
-babblement: bæblmənt/
 babbler: nguoi noi nhieu; nguoi hay bep xep
 babe: (tho ca) tre so sinh, 
 babel: (kinh thanh) (Babel) thap Ba-ben
@@ -3645,9 +3556,7 @@ bachelor: nguoi chua vo
 bachelorhood: doi song doc than
 bachelorship: (nhu) bachelorhood
 bacillary: (thuoc) khuan que
-bacilli: ə'silai/
 bacilliform: hinh que
-bacillus: ə'silai/
 back: lung (nguoi, vat)
 back: hang ghe sau (danh cho nghi vien thu yeu cua moi dang co dai dien, o nghi vien Anh)
 back: cua sau, cong sau (nghia den) & bong
@@ -3658,8 +3567,6 @@ back-bencher: nghi vien ngoi hang ghe sau (danh cho nghi vien thu yeu cua moi da
 back-blocks: dat hoang vu (o sau trong luc dia) (Uc)
 back-breaking: phai lam cat luc, lam sum lung (cong viec...)
 back-chat: loi dap lai, loi cai lai
-back-cloth: bækdrɔp/
-back-drop: bækdrɔp/
 back-end: cuoi (mua) thu
 back-field: (the duc,the thao) hang tam ve (bong da)
 back-fire: lua dot chan (cho mot dam chay khoi lan het canh dong co)
@@ -3709,14 +3616,12 @@ backwood: (thuoc) rung xa xoi heo lanh; o vung rung xa xoi heo lanh
 backwoods: (so nhieu) rung xa xoi heo lanh
 backwoodsman: nguoi song o rung
 bacon: thit lung lon muoi xong khoi; thit hong lon muoi xong khoi
-bacteria: æk'tiəriə/
 bacterial: (thuoc) vi khuan; do vi khuan
 bacteriological: (thuoc) vi khuan hoc
 bacteriologist: nha vi khuan hoc
 bacteriology: khoa nghien cuu vi khuan
 bacteriolysis: su tieu vi khuan, su tan vi khuan
 bacteriophage: vat an vi khuan
-bacterium: æk'tiəriə/
 baculine: bang roi vot, bang don vot
 bad:  tinh tu
 bad: (tu My,nghia My) vung dat dai can coi
@@ -3724,8 +3629,6 @@ bad-tempered: xau tinh hay cau, de noi nong
 bade: su dat gia, su tra gia (trong mot cuoc ban dau gia)
 badge: huy hieu, phu hieu; quan ham, lon
 badger: (tieng dia phuong) nguoi ban hang rong
-badger-baiting: bædʤə,drɔ:iɳ/
-badger-drawing: bædʤə,drɔ:iɳ/
 badger-fly: ruoi gia lam moi cau (bang long con lung)
 badger-legged: thot chan
 badinage: su dua cot, su dua bon
@@ -3734,9 +3637,7 @@ badminton: (the duc,the thao) cau long
 badness: su xau, su toi
 baedeker: so tay huong dan du lich
 baffle: su can tro, su tro ngai
-baffle-board: bæflwɔ:l/
 baffle-plate: (ky thuat) mang ngan, vach ngan
-baffle-wall: bæflwɔ:l/
 baffler: (ky thuat) bo giam am
 baffy: (the duc,the thao) gay danh gon
 bag: bao, tui, bi, xac
@@ -3800,9 +3701,7 @@ balcony: bao lon
 bald: hoi (dau)
 bald: (thuc vat hoc) cay but moc
 bald-coot: (dong vat hoc) chim sam cam
-bald-head: bɔ:ldpeit/
 bald-headed: hoi dau
-bald-pate: bɔ:ldpeit/
 baldachin: man treo, truong (tren ban tho)
 baldaquin: man treo, truong (tren ban tho)
 balderdash: loi noi vo nghia khong ra dau vao dau; loi noi bay ba nham nhi
@@ -3878,9 +3777,7 @@ bandeaux: dai buoc toc (phu nu)
 banderol: bang bieu ngu
 banderole: bang bieu ngu
 bandicoot: (dong vat hoc) chuot goc (An-do)
-bandit: bændits/,  banditti 
 banditry: nghe an cuop, tro an cuop
-banditti: bændits/,  banditti 
 bandmaster: nhac truong, nguoi chi huy dan nhac
 bandog: cho bi xich
 bandoleer: deo sung (co o gai dan)
@@ -3936,7 +3833,6 @@ banteringly: dua, gieu cot
 banting: (y hoc) phep chua kieng mo duong (de chua benh beo phi)
 bantling: dua tre, dua be, tre con
 banyan: nha buon nguoi An
-banzai: baobab /'beiəbæd/
 bap: (E-cot) o banh nho
 baptise: (ton giao) rua toi
 baptism: (ton giao) le rua toi
@@ -3946,7 +3842,6 @@ baptistery: (ton giao) noi rua toi (o nha tho)
 baptistry: (ton giao) noi rua toi (o nha tho)
 baptize: (ton giao) rua toi
 bar: baro (don vi ap suat)
-barb: (dong vat hoc) ngua bac (nhap tu Bac oi (7ʃ) ri)
 barbarian: da man, man ro
 barbaric: da man, man ro
 barbarise: lam cho tro thanh da man (mot dan toc)
@@ -4045,12 +3940,8 @@ barratry: tinh hay gay su, tinh hay sinh su, tinh hay kien cao loi thoi
 barred: co vach ke doc
 barrel: thung tron, thung ruou
 barrel-head: mat thung, day thung
-barrel-house: bærəlʃɔp/
 barrel-organ: (am nhac) dan thung
 barrel-roll: (hang khong) dong tac lon minh (theo truc doc)
-barrel-shaped: bærəlʃeipt/
-barrel-shop: bærəlʃɔp/
-barrelled: bærəlʃeipt/
 barren: can coi (dat)
 barrenness: su can coi
 barricade: vat chuong ngai (de chan, phong thu)
@@ -4058,15 +3949,12 @@ barrier: dat vat chuong ngai (de chan, phong thu)
 barring: tru, tru ra
 barring-out: ngon ngu nha truong) su phan khang chan cua (khong cho thay giao vao)
 barrister: luat su
-barrister-at-law: bæristəzet'lɔ:/
-barristers-at-law: bæristəzet'lɔ:/
 barroom: xe cut kit ((cung) wheel barroom)
 barrow: go, dong (chi dung voi ten dia diem)
 bartender: nguoi phuc vu o quay ruou
 barter: su doi chac
 bartizan: choi canh co lo chau mai
 baryta: (hoa hoc) barit
-bas-relief: bæsri,li:f/ (basso-relievo) 
 basal: co ban, co so
 basalt: (khoang chat) bazan
 basaltic: (thuoc) bazan
@@ -4093,9 +3981,7 @@ basic: co ban, co so
 basic: (viet tat) cua British American Scientific International Commercial
 basically: co ban, ve co ban
 basicity: (hoa hoc) tinh bazo; do bazo
-basidia: ə'sidiə/
 basidiomycetes: (thuc vat hoc) nam dam
-basidium: ə'sidiə/
 basil: (thuc vat hoc) cay hung que, cay rau e ((cung) sweet basil)
 basilar: o day, o nen
 basilary: o day, o nen
@@ -4112,18 +3998,14 @@ basket: (tu My,nghia My) bua an trong cuoc di choi cam trai ngoai troi
 basket: (tu My,nghia My) cuoc di choi cam trai ngoai troi
 basket-ball: (the duc,the thao) bong ro
 basket-maker: nguoi dan ro ra
-basket-work: bɑ:skitwə:k/
 basketful: ro (day), gio (day), thung (day)
-basketry: bɑ:skitwə:k/
 bass: (dong vat hoc) ca pecca
-bass-relief: bæsri,li:f/ (basso-relievo) 
 bass-viol: (am nhac) violongxen
 bass-wood: (thuc vat hoc) cay doan
 basset: cho baxet (mot giong cho lun)
 bassinet: noi co mui bang may dan; xe day co mui bang may dan
 bassinette: noi co mui bang may dan; xe day co mui bang may dan
 basso: (am nhac) giong nam tram
-basso-relievo: bæsri,li:f/ (basso-relievo) 
 bassoon: (am nhac) ken fagot
 bast: (thuc vat hoc) libe
 bastard: hoang (de hoang)
@@ -4295,8 +4177,6 @@ bed: cai giuong
 bed-bug: con rep
 bed-clothes: bo do giuong (chan, goi, nem, khan trai giuong)
 bed-rock: nen da; da goc, da mong
-bed-sitter: bed'sitiɳrum/
-bed-sitting-room: bed'sitiɳrum/
 bedable: lam ban, vay ban
 bedaub: vay son, vay ban, lam lem luoc
 bedder: nguoi danh luong
@@ -4373,7 +4253,6 @@ befriend: doi xu tot, doi xu nhu ban; giup do
 befuddle: lam ngo ngan, lam dan don, lam mu di
 beg: an xin, xin
 begad: troi oi! troi dat oi!
-began: i'gæn/; begun 
 beget: sinh ra, gay ra
 begetter: nguoi gay ra, nguoi sinh ra
 beggar: nguoi an may, nguoi an xin
@@ -4381,7 +4260,6 @@ beggardom: gioi an may, nhung nguoi an may
 beggarliness: tinh trang ngheo nan co cuc
 beggarly: ngheo nan, co cuc; an may, an xin
 beggary: canh ngheo kho xac xo; canh an may, canh an xin
-begin: i'gæn/; begun 
 beginner: nguoi bat dau; nguoi moi hoc; nguoi moi ra doi; nguoi moi vao nghe
 beginning: phan dau; luc bat dau, luc khoi dau
 begird: i'ge:t/
@@ -4394,7 +4272,6 @@ begrime: lam nho nhem
 begrudge: ghen ti
 beguile: lam tieu khien, lam khuay di, lam cho qua di (thoi gian, mot cuoc hanh trinh...)
 beguilement: su tieu khien, su lam khuay di, su lam cho qua di (thoi gian...)
-begun: i'gæn/; begun 
 behalf: on (in) behalf of thay mat cho, nhan danh
 behave: an o, doi xu, cu xu
 behaviour: thai do, cach doi xu; cach cu xu, cach an o; tu cach dao duc
@@ -4435,7 +4312,6 @@ belike: (tu co,nghia co) co le, khong chung
 belittle: lam be di, thu nho lai
 bell: cai chuong; nhac (o co ngua...)
 bell-bouy: (hang hai) phao chuong
-bell-boy: kɔ:lbɔi/
 bell-flower: (thuc vat hoc) giong cay hoa chuong
 bell-glass: chuong thuy tinh (de chup cay thi nghiem...)
 bell-hop: (tu My,nghia My),  (tu long) (nhu) bell-boy
@@ -4493,8 +4369,6 @@ beneficently: hay lam phuc, tu thien, tu tam, thuong nguoi
 beneficial: co ich; co loi; tot
 beneficiary: nguoi huong hoa loi; cha co giu tai san cua nha chung
 benefit: loi, loi ich
-benefit-club: benifit'klʌb/
-benefit-society: benifit'klʌb/
 benevolence: long nhan tu, long nhan duc, long tu thien
 benevolent: nhan tu, nhan duc, tu thien, thuong nguoi
 bengal: (thuoc) Bang-gan
@@ -4514,12 +4388,10 @@ benthos: (sinh vat hoc) sinh vat day
 benumb: lam cho cong
 benzedrine: (y hoc) Benzedrin
 benzene: (hoa hoc) Benzen ((cung) benzol)
-benzine: benzəli:n/
 benzoate: (hoa hoc) benzoat
 benzoic: (hoa hoc) benzoic
 benzoin: canh kien trang, an tuc huong
 benzol: (hoa hoc) Benzen ((cung) benzene)
-benzoline: benzəli:n/
 bequeath: de lai (bang chuc thu)
 bequest: su de lai (bang chuc thu)
 berate: mang mo, nhiec moc
@@ -4539,7 +4411,6 @@ berry: (thuc vat hoc) qua mong
 berth: giuong ngu (tren tau thuy hoac xe lua)
 beryl: (khoang chat) berin
 beryllium: (hoa hoc) berili
-beseech: i'sɔ:t/
 beseeching: cau khan, van nai (giong, ve)
 beseem: phai, dung; thich hop, hop le
 beset: i'set/
@@ -4555,7 +4426,6 @@ besmear: boi ban, lam nhop nhap
 besmirch: boi ban, lam lem luoc
 besom: choi se
 besot: lam mu nguoi, lam dan don
-besought: i'sɔ:t/
 bespangle: dat trang kim
 bespatter: rac, vay, lam ban tung toe
 bespeak: i'spouk/; bespoke,  bespoken 
@@ -4721,8 +4591,6 @@ bilk: quit, tron (no)
 bilker: nguoi tron no
 bill: cai keo liem (de tia canh cay tren cao)
 bill-broker: nguoi buon hoi phieu
-bill-poster: bil,stikə/
-bill-sticker: bil,stikə/
 billboard: (tu My,nghia My) bang dan thong cao, bang dan yet thi
 billet: thanh cui
 billiards: tro choi bi-a
@@ -4732,10 +4600,8 @@ billionaire: (tu My,nghia My) nha ti phu
 billow: song to; song con
 billowy: noi song con, co nhieu song lon
 billy: (Uc) noi nieu (di) cam trai (bang sat tay)
-billy-club: bilidʤæk/
 billy-goat: de duc
 billy-ho: bilihou/
-billy-jack: bilidʤæk/
 billy-o: bilihou/
 billyboy: (hang hai) thuyen buom nho
 billycock: mu qua dua
@@ -4876,8 +4742,6 @@ bivouac: (quan su) trai quan dong ngoai troi buoi toi
 biweekly: mot tuan hai lan
 biz: (thong tuc) (nhu) business
 bizarre: ky quai, ky la, ky di
-blab: blæbə/
-blabber: blæbə/
 black: den
 black: buc ve muc den
 black: phieu den, phieu chong (trong cuoc bau phieu...)
@@ -5027,8 +4891,6 @@ blissful: hanh phuc, sung suong
 blissfulness: niem hanh phuc, noi sung suong
 blister: vet bong giop; cho giop da; cho phong da
 blister: hoi doc, lam giop da
-blister-beetle: blistəflai/
-blister-fly: blistəflai/
 blistery: giop len, co nhieu cho bong giop
 blithe: (tho ca) sung suong, vui ve
 blithering: (thong tuc) ba hoa, noi huyen thien; hay noi bay ba
@@ -5073,10 +4935,8 @@ blood-horse: ngua thuan chung
 blood-letting: (y hoc) su trich mau
 blood-money: dong tien mau (tien thuong cho ke lam chung de tuyen duoc an tu hinh); tien phat tra cho nguoi nha co nguoi bi giet
 blood-poisoning: su ngo doc mau
-blood-pudding: blʌd,sɔsidʤ/
 blood-red: do mau
 blood-relation: ho hang mau mu, ba con ruot thit
-blood-sausage: blʌd,sɔsidʤ/
 blood-stained: nhuom mau
 blood-sucker: con dia
 blood-vessel: mach mau
@@ -5088,8 +4948,6 @@ bloodshed: su do mau, su chem giet
 bloodshot: do ngau (mat)
 bloodthirstiness: tinh khat mau, tinh tan bao
 bloodthirsty: khat mau, tan bao
-bloody: blʌdi'maindid/
-bloody-minded: blʌdi'maindid/
 bloom: hoa
 bloomer: (tu long) loi lam lon, dieu sai lam lon
 bloomers: quan buoc tum (phu nu mac de choi the thao)
@@ -5147,7 +5005,6 @@ bluebell: (thuc vat hoc) cay hoa chuong la tron
 bluebottle: con ruoi xanh, con nhang
 bluejacket: thuy thu, linh thuy
 blueprint: thiet ke, len ke hoach
-blues: bluestocking /'blu:,stɔkiɳ/
 bluet: (thuc vat hoc) cay cuc thi xa
 bluff: co doc dung (bo bien...)
 bluish: hoi xanh, xanh xanh
@@ -5192,13 +5049,9 @@ boating: su di choi bang thuyen
 boatman: nguoi cheo thuyen; nguoi giu thuyen
 boatswain: (hang hai) vien quan ly neo buom
 bob: qua lac (dong ho); cuc chi (cua day chi); duoi (dieu)
-bob-sled: bɔbslei/
-bob-sleigh: bɔbslei/
 bobbery: tieng on ao, tieng om som; su huyen nao
 bobbin: ong chi, suot chi
 bobby: (tu long) canh sat
-bobby-socks: bɔbisɔks/
-bobby-sox: bɔbisɔks/
 bobby-soxer: (tu My,nghia My),  (thong tuc) con gai moi lon len (tuoi 13, 14)
 bobcat: (dong vat hoc) linh mieu My
 bobtail: duoi coc
@@ -5298,7 +5151,6 @@ bone-shaker: (thong tuc) xe dap banh dac; xe dap ca tang
 bone-spavin: (thu y hoc) chai chan (ngua)
 boned: co xuong ((thuong) o tu ghep)
 bonedust: bot xuong (lam phan bon)
-boneless: boner /'bounə/
 bonfire: lua mung
 bonito: (dong vat hoc) ca ngu
 bonne: co giu tre
@@ -5312,7 +5164,6 @@ bonzer: (uc,  (tu long)) cu, tuyet, chien
 boo: e, e, e! (tieng la phan doi, che gieu)
 boob: (tu My,nghia My) nguoi ngoc nghech, nguoi kho dai
 booby: nguoi vung ve, nguoi kho dai
-booby: bu:bi'gænit/
 booby: giai khuyen khich (tang nguoi ve chot trong cuoc dua) cho vui
 booby: bay treo (de tren dau cua, ai mo se roi vao dau)
 booby-trap: dat bay treo
@@ -5329,8 +5180,6 @@ book-hunter: nguoi thich lung mua sach quy
 book-keeper: nhan vien ke toan
 book-keeping: ke toan
 book-learned: co tri thuc sach vo
-book-learning: buklɔ:/
-book-lore: buklɔ:/
 book-maker: nguoi soan sach ((thuong) de lam tien)
 book-mark: day danh dau, the danh dau (trang sach)
 book-marker: day danh dau, the danh dau (trang sach)
@@ -5340,7 +5189,6 @@ book-work: cong viec sach vo, su nghien cuu sach
 bookbinder: tho dong sach
 bookbinding: su dong sach
 bookcase: tu sach
-bookie: bu:t,meikə/
 booking-clerk: nguoi ban ve (rap hat...)
 booking-office: phong ban ve, noi ban ve
 bookish: ham doc sach
@@ -5597,7 +5445,6 @@ bramble: bui gai
 brambling: (dong vat hoc) chim xe nui
 brambly: nhieu bui gai
 bran: cam
-bran-new: bræn'nju:/
 brancard: xe bang ca, xe cang tai thuong
 branch: canh cay
 branchia: (dong vat hoc) mang (ca)
@@ -5607,7 +5454,6 @@ branchiate: co mang (ca)
 branchless: khong co canh
 branchy: nhieu canh
 brand: nhan (hang hoa)
-brand-new: bræn'nju:/
 brandish: khua, vung guom...)
 brandy: ruou brandi, ruou manh
 brank-ursine: (thuc vat hoc) cay o ro
@@ -5625,12 +5471,9 @@ brasserie: phong uong bia (o khach san); quan bia ngoai troi
 brassie: giong dong thau; lam bang dong thau
 brassiere: cai nit vu, cai yem
 brassy: giong dong thau; lam bang dong thau
-brat: (thuong), giuom ghien on['brætis]
 brattice: (nganh mo) vach dieu hoa gio
-bravado: rə'vɑ:douz/,  bravadoes 
 brave: chien si da do
 bravery: tinh gan da, tinh can dam, su dung cam
-bravo: brɑ:'vouz/,  bravoes 
 brawl: su cai lon am y
 brawler: nguoi hay cai nhau
 brawn: bap thit; suc manh cua bap thit
@@ -5742,8 +5585,6 @@ bridle-path: braidlroud/
 bridle-rein: day cuong
 bridle-road: braidlroud/
 brief: ngan, van tat, gon
-brief-bag: bri:fbæg/
-brief-case: bri:fbæg/
 briefing: (quan su) chi thi, loi chi dan (ve chien thuat...)
 briefing-room: phong chi dan cho phi cong (truoc khi di oanh tac)
 briefless: khong co viec de bien ho (luat su)
@@ -5775,7 +5616,6 @@ brindled: ven; nau dom (nen nau voi nhung van hay dom thuong mau sam hon)
 brine: nuoc bien, nuoc man, nuoc muoi
 brine: ruong muoi
 brine-pan: chao lam muoi
-bring: rɔ:t/
 brink: bo mieng (vuc)
 brinkmanship: chinh sach ben mieng ho chien tranh 
 briny: man
@@ -5843,12 +5683,8 @@ bronchia: (giai phau) cuong phoi
 bronchial: (thuoc) cuong phoi
 bronchitic: (y hoc) (thuoc) viem cuong phoi, bi viem cuong phoi
 bronchitis: (y hoc) benh viem cuong phoi
-broncho: brɔɳkouz/
-broncho-buster: brɔɳkou,bʌstə/
 broncho-pneumonia: (y hoc) viem cuong phoi phoi, viem phoi dom
 bronchocele: (y hoc) buou giap, buou co
-bronco: brɔɳkouz/
-bronco-buster: brɔɳkou,bʌstə/
 bronze: dong thiec
 brooch: tram (gai dau); ghim hoa (gai co ao)
 brood: lua, o (ga con, chim con...)
@@ -5863,7 +5699,6 @@ broom-stick: can choi
 bros.: (viet tat) cua brothers (thuong) dung o ten cac hang buon
 broth: nuoc luoc thit, nuoc xuyt
 brothel: nha chua, nha tho
-brother: brʌðəs/,  brethren 
 brother-in-law: anh (em) re; anh (em) vo
 brotherhood: tinh anh em
 brotherless: khong co anh em
@@ -5872,7 +5707,6 @@ brotherliness: tinh chat anh em; tinh anh em
 brotherly: anh em
 brothers-in-law: anh (em) re; anh (em) vo
 brougham: xe doc ma (hai hoac bon cho ngoi)
-brought: rɔ:t/
 brow: may, long may
 brow-ague: (y hoc) chung dau nua dau
 browbeat: braubi:t/,  browbeaten 
@@ -6220,7 +6054,6 @@ by-blow: cu danh vao nguoi khong phai la doi thu chinh
 by-election: cuoc bau cu phu
 by-end: y kin, an y
 by-lane: ngo hem, con duong nho heo lanh
-by-law: bailɔ:/
 by-name: ten long, ten tuc, ten hem
 by-product: san pham phu
 by-road: duong phu; duong it nguoi qua lai
@@ -6229,7 +6062,6 @@ by-way: duong phu, loi phu
 by-work: viec phu (lam vao luc nhan roi)
 bye: thu yeu, phu
 bye-bye: huay roen cai giuong
-bye-law: bailɔ:/
 bygone: qua khu, qua roi, cu ky
 bypass: duong vong (de tranh mot vi tri nao tren duong chinh, de tranh un xe lai...)
 bypast: da qua, da troi qua
@@ -6244,9 +6076,7 @@ c.o.d.: c/o /si:'ou/
 ca'canny: lam thong tha
 cab: xe tac xi; xe ngua thue
 cab-rank: day xe tac xi cho khach; day xe ngua cho khach
-cab-runner: kæbtaut/
 cab-stand: ben xe tac xi; ben xe ngua
-cab-tout: kæbtaut/
 cabal: am muu
 cabala: (nhu) cabbala
 cabalism: cach hoc phap thuat; cach luyen phu chu
@@ -6295,8 +6125,6 @@ cacology: su chon tu toi
 cacophonous: nghe choi tai
 cacophony: tieng lon xon choi tai; dieu nhac choi tai (co nhieu am thanh khong hoa hop voi nhau)
 cactaceous: (thuoc) ho xuong rong
-cacti: kæktai/
-cactus: kæktai/
 cacuminal: (ngon ngu hoc) uon luoi (am)
 cad: do ti tien, do vo lai, do deu cang, ke dang khinh
 cadastral: (thuoc) dia chinh
@@ -6319,8 +6147,6 @@ cadmium: (hoa hoc) catmi
 cadre: khung, suon
 caducity: thoi ky gia coi
 caducous: gia coi, suy nhuoc
-caeca: si:kə/
-caecum: si:kə/
 caesalpiniaceous: (thuc vat hoc) (thuoc) ho vang
 caesarian: (y hoc) thu thuat mo tu cung, thu thuat Xe-gia
 caesium: (hoa hoc) xezi
@@ -6402,13 +6228,11 @@ caliber: (tu My,nghia My) (nhu) calibre
 calibrate: dinh co, xac dinh duong kinh (nong sung, ong...)
 calibration: su dinh co, su xac dinh duong kinh (nong sung, ong...)
 calibre: co, duong kinh (nong sung, vien dan)
-calices: kælisi:z/
 calico: vai truc bau
 calif: vua Hoi,  khalip
 caliolgy: khoa nghien cuu to chim
 calipers: com-pa do ngoai
 caliph: vua Hoi,  khalip
-calix: kælisi:z/
 calk: mau sac (dong vao mong ngua got giay...)
 calker: tho xam (thuyen, tau)
 calkin: mong ngua co dong mau sac; got giay co dong mau sac
@@ -6493,12 +6317,10 @@ camomile: (thuc vat hoc) cuc La ma
 camouflage: su nguy trang ((nghia den) & (nghia bong))
 camp: trai, cho cam trai, ha trai
 camp-bed: giuong xep, giuong gap
-camp-chair: kæmpstu:l/
 camp-fever: (y hoc) benh thuong han
 camp-fire: lua trai
 camp-follower: thuong dan di theo mot don vi, thuong dan lai vang o noi dong quan
 camp-meeting: (ton giao),  (tu My,nghia My) buoi hoi hop o ngoai troi
-camp-stool: kæmpstu:l/
 campaign: chien dich
 campaigner: nguoi tham gia nhieu chien dich
 campanile: lau chuong, gac chuong
@@ -6512,7 +6334,6 @@ camphorate: uop long nao
 camphorated: co long nao
 campus: (tu My,nghia My) khu san bai (cua cac truong trung hoc, dai hoc)
 can: binh, bi dong, ca (dung nuoc)
-can't: canadian /kə'neidjən/
 canaille: lop nguoi thap hen, tien dan
 canal: kenh, song dao
 canalise
@@ -6533,8 +6354,6 @@ cancer: benh ung thu
 cancerous: (thuoc) ung thu
 cancroid: giong con cua
 candela: (vat ly) cadela
-candelabra: kændi'lɑ:brəmz/,  candelabrums 
-candelabrum: kændi'lɑ:brəmz/,  candelabrums 
 candescence: trang thai nung trang, trang thai nong trang
 candescent: nung trang, nong trang
 candid: that tha, ngay thang, boc truc
@@ -6580,7 +6399,6 @@ cannon-fodder: bia thit
 cannon-shot: phat dai bac
 cannonade: loat sung dai bac
 cannoneer: phao thu, phao binh
-cannot: canny /'kæni/
 canoe: xuong
 canoeist: nguoi boi xuong; nguoi thich boi xuong
 canolize: dao kenh
@@ -6607,8 +6425,6 @@ cantata: (am nhac) cantat
 cantatrice: nu ca si chuyen nghiep
 canteen: cang tin
 canter: nguoi gia doi, nguoi dao duc gia
-canthi: kænθi/
-canthus: kænθi/
 canticle: bai ca; bai thanh ca
 cantilever: (kien truc) mut chia do bao lon
 cantiness: tinh vui ve
@@ -6673,7 +6489,6 @@ capsicum: (thuc vat hoc) cay ot
 capsize: su lat up (thuyen)
 capstan: cai toi (de keo hay tha day cap)
 capsule: (thuc vat hoc) qua nang
-capt: captain /'kæptin/
 captaincy: cam dau, dieu khien, chi huy
 captainship: (nhu) captaincy
 caption: dau de (mot chuong muc, mot bai bao...)
@@ -6747,9 +6562,7 @@ carding: may chai len
 cardiology: (y hoc) benh hoc tim, khoa tim
 carditis: (y hoc) viem tim
 care: su chan soc, su cham nom, su giu gin, su bao duong
-care-laden: keəwɔ:n/
 care-taker: nguoi trong nom nha cua (khi chu vang mat)
-care-worn: keəwɔ:n/
 careen: lat nghieng (tau thuy) (de lau chui hoac sua chua)
 careenage: su lau chui sua chua suon va day tau
 career: nghe, nghe nghiep
@@ -6818,10 +6631,8 @@ carpet-knight: linh o nha, linh khong ra tran
 carpet-raid: (tu My,nghia My),  (quan su) cuoc nem bom rai tham
 carpet-slippers: dep rom
 carpet-sweeper: choi quet tham
-carpi: kɑ:pai/
 carpology: khoa nghien cuu qua (cay)
 carpophagous: an qua (cay)
-carpus: kɑ:pai/
 carriage: xe ngua
 carriage-forward: nguoi nhan phai tra cuoc
 carriage-free: nguoi nhan khong phai tra cuoc (nguoi gui da tra roi)
@@ -6829,7 +6640,6 @@ carriage-paid: nguoi gui da tra cuoc (nguoi nhan khong phai tra nua)
 carriage-way: tuyen xe (tren duong)
 carriageable: xe chay duoc (duong sa)
 carriagge-drive: duong di (trong vuon hoa...)
-carrier: kæriə,pidʤin/
 carrier-borne: duoc cho tren tau san bay
 carrier-nation: nuoc chuyen cho thue tau van chuyen
 carrier-pigeon
@@ -6847,8 +6657,6 @@ carryings-on: (thong tuc) hanh dong nhe da, viec lam thieu suy nghi
 cart: xe bo, xe ngua (hai banh de cho hang)
 cart-horse: ngua keo xe
 cart-load: (nhu) cartful
-cart-road: kɑ:ttræk/
-cart-track: kɑ:ttræk/
 cart-wheel: banh xe bo, banh xe ngua
 cart-whip: roi dai (cua nguoi danh xe bo)
 cart-wright: tho dong xe bo, tho dong xe ngua
@@ -6884,8 +6692,6 @@ carving: nghe thuat khac, nghe thuat tac, nghe thuat cham
 carving-knife: dao lang thit
 caryatid: (kien truc) cot tuong dan ba
 caryophyllaceous: (thuc vat hoc) (thuoc) ho cam chuong
-caryopsides: kæri'ɔpsidi:z/
-caryopsis: kæri'ɔpsidi:z/
 cascade: thac nuoc
 case: truong hop, canh ngo, hoan canh, tinh the
 case: (y hoc) lich su benh
@@ -6930,8 +6736,6 @@ castigator: nguoi trung phat, nguoi trung tri
 castigatory: trung phat, trung tri
 casting: su do khuon, su duc
 casting-net: luoi bua, luoi giang
-casting-voice: kɑ:stiɳ'vɔis/
-casting-vote: kɑ:stiɳ'vɔis/
 castle: thanh tri, thanh quach
 castle-builder: nguoi hay mo tuong, nguoi hay tinh chuyen vien vong
 castor: con hai ly
@@ -6949,7 +6753,6 @@ casuarina: giong cay phi lao
 casuist: nha phan quyet dung sai
 casuistry: khoa phan quyet dung sai; su phan quyet dung sai
 cat: con meo
-cat: kætə'mauntin/
 cat's-paw: gio hiu hiu (lam cho mat nuoc gon lan tan)
 cat-and-dog: (tu My,nghia My) gay gat, quyet liet, ac liet (cuoc canh tranh...)
 cat-burglar: ten ke trom treo tuong
@@ -6975,7 +6778,6 @@ catalytic: (hoa hoc) xuc tac
 catalytical: (hoa hoc) xuc tac
 catalyzator: (hoa hoc) vat xuc tac, chat xuc tac
 catamaran: be go, be thuyen doi (lam bang hai thuyen ghep lai)
-catamountain: kætə'mauntin/
 cataplasm: (y hoc) thuoc dap
 catapult: sung cao su
 cataract: thac nuoc lon
@@ -6993,8 +6795,6 @@ catcher: nguoi bat tom
 catchiness: tinh hap dan, su loi cuon, su quyen ru
 catching: truyen nhiem, hay lay
 catchment: su hung nuoc, su dan nuoc
-catchment-area: kætʃmənt,beisn/
-catchment-basin: kætʃmənt,beisn/
 catchpenny: hang ma loe loet (cot chi ban lay tien)
 catchup: (nhu) ketchup
 catchword: khau lenh, khau hieu
@@ -7281,7 +7081,6 @@ chair-car: (tu My,nghia My),  (nganh duong sat) toa xe danh rieng
 chairman: chu tich; nguoi chu toa (buoi hop)
 chairmanship: chuc chu tich
 chairwoman: nu chu tich
-chaise: chalcedony /kæl'sedəni/
 chalcography: thuat khac dong
 chaldron: sandron (don vi do than bang 1,  66m3)
 chalet: nha van, nha go (o mien nui Thuy si)
@@ -7346,7 +7145,6 @@ chanter: nguoi hat o nha tho
 chanterelle: nam mong ga
 chantey: bai ho (cua thuy thu)
 chanticleer: ga trong
-chanty: chaos /'keiɔs/
 chaotic: hon don, hon loan, lon xon
 chap: (thong tuc) thang, thang cha
 chap-book: sach van hoc dan gian (ve, tho ca...) ban rong
@@ -7361,12 +7159,9 @@ chaplain: giao si (trong nha tho nho cua truong hoc, benh vien, nha tu, trai lin
 chaplet: vong hoa doi dau
 chapman: nguoi ban hang rong
 chappie: (thong tuc) cong tu bot ((cung) chappy)
-chappy: tʃæpi/
 chaps: (viet tat) cua chaparajo
 chapter: chuong (sach)
 char: (dong vat hoc) giong ca hoi cham hong
-char-a-banc: ʃærəbæɳz/
-char-a-bancs: ʃærəbæɳz/
 character: tinh net, tinh cach; ca tinh
 characterise: bieu thi dac diem, mo ta dac diem; dinh ro dac diem
 characteristic: rieng, rieng biet, dac thu, dac trung
@@ -7603,10 +7398,8 @@ chime: chuong hoa am, chuong chum
 chimera: (than thoai Hy-lap) quai vat duoi ran minh de dau su tu
 chimerical: hao huyen, ao tuong
 chimney: ong khoi
-chimney-cap: tʃimnipɔt/
 chimney-corner: cho ngoi ben lo suoi
 chimney-piece: mat lo suoi
-chimney-pot: tʃimnipɔt/
 chimney-pot-hat: mu chop cao
 chimney-stack: day ong khoi (nha may)
 chimney-sweep: nguoi quet bo hong, nguoi cao ong khoi
@@ -7714,8 +7507,6 @@ chop-suey: mon an thap cam
 chopper: nguoi chat, nguoi don, nguoi bo, nguoi che (cui...)
 choppy: tro chieu luon (gio)
 chopsticks: dua (de va thuc an)
-choral: ɔ'rɑ:l/
-chorale: ɔ'rɑ:l/
 chord: (tho ca) day (dan hac)
 chordata: (dong vat hoc) nghanh day song
 chore: (tu My,nghia My) viec vat, viec mon
@@ -7827,8 +7618,6 @@ churl: (su hoc) nguoi ha dang, tien dan
 churlish: (thuoc) nguoi ha dang, (thuoc) tien dan
 churlishness: tinh chat nguoi ha dang, tinh chat tien dan
 churn: thung danh kem (de lam bo)
-churn-dasher: tʃə:nstɑ:f/
-churn-staff: tʃə:nstɑ:f/
 chute: cau truot, duong truot; doc lao, duong lao
 chutnee: An tuong ot xoai
 chutney: An tuong ot xoai
@@ -8057,8 +7846,6 @@ class: dau tranh giai cap
 class: dau tranh giai cap
 class-book: sach hoc, sach giao khoa
 class-consciousness: y thuc giai cap
-class-felow: klɑ:smeit/
-class-mate: klɑ:smeit/
 class-room: phong hoc, lop hoc
 class-struggle: dau tranh giai cap
 classic: kinh dien
@@ -8241,15 +8028,11 @@ clot: cuc, khoi, hon (do chat long hay chat dac ket lai)
 cloth: vai
 clothe: mac quan ao cho
 clothes: quan ao
-clothes-bag: klouðz,bɑ:skit/
-clothes-basket: klouðz,bɑ:skit/
 clothes-brush: ban chai quan ao
 clothes-horse: gia phoi quan ao
 clothes-line: day phoi quan ao
 clothes-man: nguoi ban quan ao cu ((thuong) old clothes-man)
 clothes-moth: nhay can quan ao
-clothes-peg: klouðzpeg/
-clothes-pin: klouðzpeg/
 clothes-press: tu com mot (dung quan ao)
 clothier: nguoi det vai, nguoi det da
 clothing: quan ao, y phuc
@@ -8258,12 +8041,8 @@ cloud: may, dam may
 cloud-burst: con mua to bat than
 cloud-capped: phu may, co may che phu
 cloud-castle: giac mo hao huyen
-cloud-cuckoo-land: klaud,kɑ:sl/ (Cloud-cuckoo-land) 
-cloud-cuckoo-town: klaud,kɑ:sl/ (Cloud-cuckoo-land) 
 cloud-drift: dam may troi
 cloud-kissing: cham may, cao tit tang may
-cloud-land: klaud,kɑ:sl/ (Cloud-cuckoo-land) 
-cloud-world: klaud,kɑ:sl/ (Cloud-cuckoo-land) 
 cloudiness: tinh trang co may phu, tinh trang day may; tinh trang u am
 cloudless: khong co may, quang dang, sang sua
 cloudlessness: tinh trang khong co may, su quang dang, su sang sua
@@ -8280,8 +8059,6 @@ clownish: he, nhu he
 clownishness: tinh he
 cloy: lam cho phi; lam cho chan, lam phat ngay ((nghia den) & (nghia bong))
 club: dui cui, gay tay
-club-foot: klʌb'futid/
-club-footed: klʌb'futid/
 club-house: tru so cau lac bo, tru so hoi ((cung) club)
 club-law: ly cua ke manh, luat dui cui
 club-moss: (thuc vat hoc) cay thach tung
@@ -8302,7 +8079,6 @@ cluster: dam, bo, cum; dan, bay
 clutch: o trung ap
 clutter: tieng on ao huyen nao
 clypeiform: (sinh vat hoc) hinh khien
-co: co-author /kou'ɔ:θə/
 co-defendant: (phap ly) nguoi cung bi kien
 co-ed: ((viet tat) cua co-educated) (tu My,nghia My) nu hoc sinh dai hoc (trong truong chung cho con trai va con gai)
 co-education: su day hoc chung cho con trai va con gai
@@ -8330,7 +8106,6 @@ co-religionist: dao huu, nguoi dong dao
 co-respondent: nguoi cung bi cao trong vu kien doi ly di (nguoi thong dam voi vo nguoi, bi kien trong vu doi ly di)
 co-signatory: (phap ly) nguoi cung ky, ben cung ky
 co-star: nguoi cung dong vai chinh (voi mot dien vien khac)
-co-temporary: ən'tempərəri/
 co-tenant: nguoi thue chung nha
 co-tidal: (+ line) (dia ly,dia chat) duong dong trieu len
 coacervate: (sinh vat hoc) giot tu,  coaxecva
@@ -8401,8 +8176,6 @@ cobalt: (hoa hoc) coban
 cobaltic: (thuoc) coban
 cobaltous: (thuoc) coban
 cobber: (Uc) (thong tuc) ban than, ban noi kho
-cobble: kɔblstoun/
-cobble-stone: kɔblstoun/
 cobbler: lat (duong...) bang da lat, rai da cuoi (len san...)
 cobby: lun, map, chac
 cobra: (dong vat hoc) ran mang banh
@@ -8419,8 +8192,6 @@ cocci: khuan cau
 coccus: khuan cau
 coccyges: (giai phau) xuong cut
 coccyx: (giai phau) xuong cut
-cochin: kɔtʃin'tʃainə/
-cochin-china: kɔtʃin'tʃainə/
 cochineal: pham yen chi; pham son (che tu xac kho con rep son)
 cochlea: (giai phau) oc tai
 cochleae: (giai phau) oc tai
@@ -8431,12 +8202,8 @@ cock-and-bull: cock-and-bull story chuyen bia, chuyen khong the tin duoc
 cock-crow: luc ga gay, luc tang sang
 cock-eye: (tu long) mat lac
 cock-eyed: (tu long) lac mat
-cock-fight: kɔkfait/
-cock-fighting: kɔkfait/
 cock-horse: (tu co,nghia co) ngua go (tre con choi)
 cock-loft: (kien truc) gac sat mai
-cock-shot: kɔkʃai/
-cock-shy: kɔkʃai/
 cock-sparrow: chim se trong
 cock-sure: chac chan; chac han; tin chac
 cock-tailed: bi cat coc duoi (ngua)
@@ -8470,10 +8237,7 @@ coco: koukou/
 coco-palm: (thuc vat hoc) cay dua
 cocoa: koukou/
 coconut: qua dua
-coconut-palm: koukənʌt'pɑ:m/
-coconut-tree: koukənʌt'pɑ:m/
 cocoon: lam ken
-cod: kɔdfiʃ/
 cod-liver: dau gan ca moruy
 coda: (am nhac) doan duoi
 coddle: nguoi nang niu, nguoi chieu chuong (ke khac)
@@ -8481,7 +8245,6 @@ code: bo luat, luat
 codeine: (duoc hoc) codein
 coder: nguoi lam cong tac mat ma
 codex: sach chep tay (kinh thanh...)
-codfish: kɔdfiʃ/
 codger: (thuc vat hoc) nguoi ky quac; cu gia lam cam
 codices: sach chep tay (kinh thanh...)
 codicil: ban bo sung vao to di chuc
@@ -8509,8 +8272,6 @@ coexistent: cung chung song, cung ton tai
 coffee: ca phe
 coffee: gio nghi de uong ca phe, gio nghi de giai khat
 coffee-and: (tu My,nghia My),  (tu long) bua an nhe co ca phe
-coffee-bean: kɔfi'beri/
-coffee-berry: kɔfi'beri/
 coffee-cup: tach uong ca phe
 coffee-grinder: coi xay ca phe
 coffee-grounds: ba ca phe
@@ -8701,11 +8462,9 @@ colossi: tuong khong lo
 colossus: tuong khong lo
 colour: mau, sac, mau sac
 colour: phim mau
-colour-bar: kʌləlain/
 colour-blind: (y hoc) mu mau (mat)
 colour-blindness: (y hoc) chung mu mat
 colour-box: hop mau, hop thuoc ve
-colour-line: kʌləlain/
 colour-man: nguoi ban thuoc mau; nguoi ban thuoc ve
 colour-printing: thuat in mau; su in mau
 colour-process: thuat chup anh mau
@@ -9065,14 +8824,12 @@ conceptual: thuoc quan niem, thuoc nhan thuc
 conceptualism: (triet hoc) thuyet khai niem
 conceptualist: (triet hoc) nguoi theo thuyet khai niem
 concer-grand: (am nhac) piano canh
-concer-hall: kɔnsətrum/
 concern: (+ with) su lien quan toi, su dinh liu toi
 concerned: co lien quan; co dinh liu
 concerning: ve viec
 concernment: viec
 concerpt: khai niem
 concert: su phoi hop, su hoa hop
-concert-room: kɔnsətrum/
 concertealy: co du tinh; co ban tinh; co phoi hop
 concerted: co du tinh, co ban tinh, co phoi hop
 concertina: (am nhac) dan congxectina
@@ -9525,7 +9282,6 @@ contemplator: nguoi ngam, nguoi thuong ngoan
 contemporaneity: tinh chat cung thoi
 contemporaneous: (+ with) cung thoi (voi)
 contemporaneousness: tinh chat cung thoi
-contemporary: ən'tempərəri/
 contemporise: dong thoi hoa
 contemporize: dong thoi hoa
 contempt: su coi khinh, su coi thuong, su bi, su khinh re, su khinh miet
@@ -9867,15 +9623,9 @@ cormorant: (dong vat hoc) chim coc
 corn: chai (chan)
 corn-chandler: nguoi ban le ngu coc
 corn-cob: loi ngo
-corn-dealer: kɔ:n,mə:tʃənt/
 corn-fed: nuoi bang ngo
 corn-field: ruong lua
-corn-killer: kɔ:n,plɑ:stə/
-corn-knife: kɔ:n,reizə/
 corn-land: dat trong lua
-corn-merchant: kɔ:n,mə:tʃənt/
-corn-plaster: kɔ:n,plɑ:stə/
-corn-razor: kɔ:n,reizə/
 corn-stalk: than cay ngo
 cornaceous: (thuc vat hoc) (thuoc) ho phu du
 cornea: (giai phau) mang sung, giac mac (mat)
@@ -9926,7 +9676,6 @@ corporeal: vat chat, cu the, huu hinh; (phap ly) cu the
 corporeality: tinh vat chat, tinh cu the, tinh huu hinh
 corporealize: vat chat hoa, cu the hoa
 corporeity: tinh vat chat, tinh cu the, tinh huu hinh
-corposant: ded,faiə/
 corps: (quan su) quan doan
 corpse: xac chet, thi hai
 corpse-candle: ma troi
@@ -10079,8 +9828,6 @@ couchant: nam dau ngang len (hinh thu vat hay huy hieu)
 couchette: giuong,  cuset (o trong toa xe lua)
 cougar: (dong vat hoc) loai bao cuga, bao su tu (My)
 cough: chung ho; su ho; tieng ho
-cough-drop: kɔf,lɔzindʤ/
-cough-lozenge: kɔf,lɔzindʤ/
 could: binh, bi dong, ca (dung nuoc)
 couldn't: coulisse /ku:'li:s/
 couloir: (dia ly,dia chat) hem
@@ -10089,8 +9836,6 @@ coulombmeter: (dien hoc) cai do culong
 coulometer: (dien hoc) cai do culong
 coulter: (nong nghiep) dao cay
 council: hoi dong
-council-chamber: kaunslhɔ:l/
-council-hall: kaunslhɔ:l/
 councillor: hoi vien hoi dong
 councilman: (tu My,nghia My) hoi vien hoi dong (thanh pho)
 counsel: su hoi y kien, su ban bac
@@ -10106,10 +9851,8 @@ counter-attack: phan cong
 counter-attraction: suc hut nguoc lai
 counter-claim: su phan to, su kien chong lai
 counter-clockwise: nguoc chieu kim dong ho
-counter-espionage: kautərin,telidʤəns/
 counter-insurgency: su chong khoi nghia
 counter-insurgent: chong khoi nghia
-counter-intelligence: kautərin,telidʤəns/
 counter-irritant: (y hoc) thuoc kich thich giam dau (kich thich o vung gan da de lam cho do dau o phia trong nguoi)
 counter-jumper: (thong tuc) nguoi ban hang; nguoi chu cua hang
 counter-offensive: su phan cong
@@ -10147,7 +9890,6 @@ countless: vo so, vo ke, khong dem xue
 countrified: co tinh chat nong thon, co ve nong thon
 country: nuoc, quoc gia
 country: (tu My,nghia My) cau lac bo the thao ngoai troi (dat o nong thon)
-country: ghuom['kʌntridɑ:ns]
 country: dieu nhay hai hang song doi
 country: phu ong
 country: nha phu ong (o nong thon)
@@ -10236,8 +9978,6 @@ cowrie: (dong vat hoc) oc tien
 cowshed: chuong bo
 cowslip: (thuc vat hoc) cay anh thao hoa vang
 cox: lai (tau, thuyen)
-coxa: kɔksi:/
-coxae: kɔksi:/
 coxcomb: cong tu bot
 coxswain: thuyen truong
 coxy: tu phu, tu man, venh vao
@@ -10247,7 +9987,6 @@ coyote: (dong vat hoc) cho soi dong co (Bac my)
 cozen: lua dao, lua gat, lua doi
 cozenage: (van hoc) su lua dao, su lua gat, su lua doi; su bi lua, su bi lua gat
 cozy: kouzi/
-cp.: crab /kræb/
 crab-pot: vet nut, vet ran, vet ne
 crabbed: hay cau nhau, hay gat gong; chua chat
 crack: (thong tuc) cu, xuat sac
@@ -10630,8 +10369,6 @@ cubbing: su di san cao
 cubbish: lo mang, tho tuc
 cubby: cho kin dao, cho am cung ((thuong) cubby hole)
 cube: (toan hoc) hinh lap phuong, hinh khoi
-cubic: kju:bikəl/
-cubical: kju:bikəl/
 cubicle: phong ngu nho (o benh vien, truong hoc...)
 cubiform: co hinh khoi, co hinh lap phuong
 cubism: (hoi hoa) xu huong lap the
@@ -10752,9 +10489,7 @@ curl: mon toc quan
 curlew: (dong vat hoc) chim mo nhat, chim de
 curliness: tinh quan, tinh xoan
 curling: (E-cot) mon danh bi da tren tuyet
-curling-irons: kə:liɳtɔɳz/
 curling-pins: cap xoan toc
-curling-tongs: kə:liɳtɔɳz/
 curly: quan, xoan
 curly-pate: nguoi co toc quan
 curmudgeon: nguoi keo kiet
@@ -10842,9 +10577,7 @@ cutpurse: ke cap, ke moc tui
 cutter: nguoi cat; vat de cat, may cat, may bam
 cutthroat: ke giet nguoi
 cutting: su cat, su thai, su xeo (thit...), su xen (giay...), su chat (cay...), su dao (muong...), su duc (da...)
-cuttle: kʌtlfiʃ/
 cuttle-bone: mai muc
-cuttle-fish: kʌtlfiʃ/
 cutty: coc, cut, ngan ngun
 cutup: (tu My,nghia My),  (tu long) nguoi hay pha tro, nguoi hay lam tro he (de moi nguoi chu y)
 cutworm: (dong vat hoc) sau ngai dem
@@ -11150,7 +10883,6 @@ dead: (radio) vung cam
 dead: (kien truc) tuong kin
 dead-alive: buon te, khong hoat dong, khong co sinh khi (noi chon, cong viec...)
 dead-beat: (thong tuc) met lu, met ra roi
-dead-fire: ded,faiə/
 dead-house: nha xac
 dead-leaf: mau la ua, mau vang ua
 dead-letter: dao luat bo khong ap dung tu lau
@@ -11201,9 +10933,7 @@ death-feud: moi tu thu
 death-mask: khuon (dat, thach cao) lay o mat nguoi chet
 death-rate: ty le nguoi chet (trong 1000 nguoi dan cua mot nuoc, mot tinh...)
 death-rattle: tieng nac hap hoi
-death-roll: deθtoul/
 death-struggle: luc hap hoi
-death-toll: deθtoul/
 death-trance: (y hoc) chung ngu liem
 death-trap: cho nguy hiem, cho doc
 death-warrant: lenh hanh hinh, lenh xu tu
@@ -11296,8 +11026,6 @@ december: thang muoi hai, thang chap
 decemberly: (thuoc) thang muoi hai
 decembrist: (su hoc) nguoi thang chap (tham gia cuoc am muu thang 12 1825 dinh lat do vua Nga ni-co-lai-I)
 decency: su thich hop voi khuon phep le nghi
-decennary: i'seniæd/
-decenniad: i'seniæd/
 decennial: lau muoi nam, keo dai muoi nam
 decent: hop voi khuon phep
 decently: dung dan, doan trang, te chinh
@@ -11340,7 +11068,6 @@ deck-cabin: cabin tren boong
 deck-cargo: hang hoa tren boong
 deck-chair: ghe xep, ghe vong (co the duoi dai cho hanh khach tren boong)
 deck-hand: nguoi lau quet boong tau
-deck-house: deck-passenger /'dek,pæsindʤə/
 decking: su trang hoang, su trang diem
 deckle: khuon dinh kho giay (trong mot giay)
 deckle-edge: mep giay chua xen
@@ -11424,7 +11151,6 @@ decry: lam giam gia tri
 decuman: khong lo, manh me (dot song)
 decumbent: nam; nam ep sat
 decuple: so luong gap muoi
-decussate: cheo chu thap[di'kʌseit]
 decussation: su xep cheo chu thap
 dedans: khan dai ben (trong san quan vot)
 dedicate: cong hien, hien dang; danh cho (de tuong nho)
@@ -11454,11 +11180,9 @@ deepen: lam sau hon; dao sau them
 deeply: sau
 deepness: tinh chat sau
 deer: (dong vat hoc) huou, nai
-deer-forest: diəpɑ:k/
 deer-hound: cho san E-cot (de san huou nai)
 deer-lick: bai liem cua huou nai (noi dat man, huou nai thuong den liem muoi)
 deer-neck: co gay (ngua)
-deer-park: diəpɑ:k/
 deer-stalker: nguoi san huou nai
 deer-stalking: su san huou nai
 deerskin: da danh (da huou nai thuoc)
@@ -11691,7 +11415,6 @@ demigod: a than, a thanh
 demijohn: hu ruou co nho (tu 3 den 10 galong, de trong lo may)
 demilitarization: su triet quan; su phi quan su hoa
 demilitarize: triet quan; phi quan su hoa (mot vung...)
-demilune: demineralization /di:,minərəlai'zeiʃn/
 demineralize: (y hoc) khu khoang
 demiquaver: (am nhac) not moc doi
 demisable: co the cho thue, co the cho muon
@@ -11722,8 +11445,6 @@ demon: ma quy, yeu ma, ma quai
 demonetise: huy bo (mot thu tien te)
 demonetization: su huy bo (mot thu tien te)
 demonetize: huy bo (mot thu tien te)
-demoniac: i'mouniækəl/
-demoniacal: i'mouniækəl/
 demonic: (nhu) demoniac
 demonise: bien thanh quy
 demonism: su tin ma quy
@@ -11856,10 +11577,8 @@ depauperize: lam mat canh khon ngheo cuu khoi canh ngheo doi
 depend: (+ on,  upon) phu thuoc, tuy thuoc, tuy thuoc
 dependability: tinh co the tin duoc, tinh dang tin cay, tinh co can cu
 dependable: co the tin duoc, dang tin cay, co can cu
-dependant: i'pendənt/
 dependence: su phu thuoc, su tuy thuoc, su tuy theo; tinh phu thuoc
 dependency: vat phu thuoc; phan phu thuoc
-dependent: i'pendənt/
 dephase: (vat ly) lam lech pha
 dephasing: (vat ly) su lech pha
 dephosphorise: (hoa hoc) loai photpho
@@ -11933,8 +11652,6 @@ depression: cho lom, cho dat lun, cho sut xuong
 deprivation: su mat
 deprive: lay di, cuop di, tuoc doat, cuop doat
 depth: chieu sau, be sau, do sau; do day
-depth-bomb: depθtʃɑ:dʤ/
-depth-charge: depθtʃɑ:dʤ/
 depth-gauge: thuoc do chieu sau
 depurate: loc sach, loc trong, tay ue
 depuration: su loc sach, su loc trong, su tay ue
@@ -12295,8 +12012,6 @@ diachylon: (y hoc) thuoc dan chi oxyt
 diachylum: (y hoc) thuoc dan chi oxyt
 diaconal: (ton giao) tro te
 diaconate: chuc tro te
-diacritic: daiə'kritikəl/
-diacritical: daiə'kritikəl/
 diactinic: truyen tia quang hoa; de tia quang hoa thau qua
 diadelphous: (thuc vat hoc) hai bo, xep thanh hai bo (nhi hoa)
 diadem: mu mien, vuong mien
@@ -12319,8 +12034,6 @@ dial: dong ho mat troi (theo anh nang ma tinh gio) ((cung) sun dial)
 dial-telephone: dien thoai tu dong
 dialect: tieng dia phuong, phuong ngon
 dialectal: (thuoc) tieng dia phuong, (thuoc) phuong ngon
-dialectic: daiə'lektikəl/
-dialectical: daiə'lektikəl/
 dialectician: nha bien chung
 dialectics: phep bien chung
 dialectologist: nha nghien cuu tieng dia phuong, nha phuong ngon hoc
@@ -12345,17 +12058,14 @@ diameter: (toan hoc) duong kinh
 diametral: (toan hoc) duong kinh; xuyen tam
 diametrical: (toan hoc),  (nhu) diametral
 diamond: kim cuong
-diamond: daiəmənd'dʤu:bili:/
 diamond: chat gan kim cuong
 diamond: le ky niem 60 nam ngay cuoi
-diamond-bearing: daiəmənd,ju:ldiɳ/
 diamond-crossing: cho cheo (cua hai duong xe lua)
 diamond-drill: khoan co mui kim cuong
 diamond-field: mo kim cuong
 diamond-point: dao khac co gan kim cuong
 diamond-shaped: hinh thoi
 diamond-snake: loai tran Uc
-diamond-yielding: daiəmənd,ju:ldiɳ/
 diana: (than thoai,than hoc) nu than Di-an (nu than di san)
 dianadrous: (thuc vat hoc) co hai nhi (hoa)
 dianthus: (thuc vat hoc) cay hoa cam chuong
@@ -12432,7 +12142,6 @@ diction: cach dien ta, cach chon loi, cach chon tu (trong khi noi)
 dictionary: tu dien
 dictograph: loa (truyen thanh)
 dictum: loi qua quyet, loi tuyen bo chinh thuc
-did: didactic /di'dæktik/
 didactics: ly luan day hoc
 didactism: tinh day hoc, tinh giao khoa
 didapper: (dong vat hoc) chim lan
@@ -12441,7 +12150,6 @@ diddler: ke lua gat, ke lua dao
 didgeridoo: dan ong Uc
 didgerydoo: dan ong Uc
 dido: tro choi kham, tro choi ac
-didst: didymium /di'dimiəm/
 die: con suc sac
 die-hard: nguoi khang cu den cung
 die-sinker: tho khac khuon rap
@@ -12598,8 +12306,6 @@ dinner-bell: chuong bao gio an
 dinner-hour: gio an
 dinner-jacket: ao ximockinh
 dinner-party: bua tiec
-dinner-service: dinə,sə:vis/
-dinner-set: dinə,sə:vis/
 dinner-time: gio an
 dinner-wagon: ban day don an (dung de chen, dia va do an truoc khi bay ban)
 dinnerless: nhin doi, khong an
@@ -12760,7 +12466,6 @@ disburden: cat ganh nang; lam cho thoat ganh nang
 disburse: doc tui, doc hau bao, chi tieu
 disbursement: su doc tui, su doc hau bao, su chi tieu
 disc: (the duc,the thao) dia
-disc-jockey: sisk,dʤɔki/
 discalceate: di chan dat, di dep (thay tu)
 discalceated: di chan dat, di dep (thay tu)
 discalced: di chan dat, di dep (thay tu)
@@ -12919,14 +12624,9 @@ disgustedly: ghe tom, kinh tom; chan ghet, ghet cay ghet dang
 disgustful: ghe tom, kinh tom; lam ghe tom, lam kinh tom
 disgusting: lam ghe tom, lam kinh tom
 dish: dia (dung thuc an)
-dish-cloth: diʃræg/ (dish-clout) 
-dish-clout: diʃræg/ (dish-clout) 
 dish-cover: cai chup dia, cai up dia (de giu do an cho nong)
 dish-gravy: nuoc sot, nuoc cham
-dish-rag: diʃræg/ (dish-clout) 
-dish-wash: diʃwɔʃ/
 dish-washer: nguoi rua bat dia
-dish-water: diʃwɔʃ/
 dishabille: ao xenh xoang mac trong nha
 dishabituate: lam mat thoi quen
 disharmonious: khong hoa hop
@@ -12980,7 +12680,6 @@ disjunction: su lam roi ra, su tach roi ra, su phan cach ra
 disjunctive: nguoi lam roi ra, nguoi tach roi ra, nguoi phan cach ra
 disk: (the duc,the thao) dia
 disk-harrow: (nong nghiep) bua dia
-disk-jockey: sisk,dʤɔki/
 disleaf: tia het la, vat het la; lam rung het la
 disleave: tia het la, vat het la; lam rung het la
 dislike: su khong ua, su khong thich, su ghet
@@ -13265,8 +12964,6 @@ dittany: (thuc vat hoc) cay bach tien
 ditto: nhu tren; cung mot thu, cung mot loai
 dittography: chu chep lap lai thua, cau chep lai thua (trong ban chep lai)
 ditty: bai hat ngan
-ditty-bag: ditibɔks/
-ditty-box: ditibɔks/
 diuresis: (y hoc) su dai
 diuretic: (y hoc) loi tieu, loi nieu
 diurnal: ban ngay
@@ -13278,7 +12975,6 @@ divalence: (hoa hoc) hoa tri hai
 divalent: (hoa hoc) co hoa tri hai
 divan: di vang, truong ky
 divan-bed: giuong di vang
-divaricate: (sinh vat hoc) phan nhanh[dai'værikeit]
 divarication: su te ra, su re ra, su phan nhanh
 dive: su nhay lao dau xuong (nuoc...); su lan
 dive-bomb: bo nhao xuong, nem bom
@@ -13348,8 +13044,6 @@ dizzy: hoa mat, choang vang, chong mat; lam hoa mat, lam choang vang, lam chong 
 do: lam, thuc hien
 do-all: nguoi thao moi viec; nguoi trong nom moi viec
 do-gooder: nha cai cach hang hai, nha cai cach ly tuong; nguoi nuoi tham vong la mot nha cai cach
-do-naught: du:nɔ:t/
-do-nothing: du:nɔ:t/
 doable: co the lam duoc
 doat: hoa lan, hoa lam cam (vi tuoi gia)
 dobbin: ngua keo xe; ngua cay
@@ -13358,10 +13052,8 @@ doch-an-doris: chen ruou tien dua (luc len ngua ra di...)
 docile: de bao, de sai khien, ngoan ngoan
 docility: tinh de bao, tinh de sai khien, tinh ngoan ngoan
 dock: (thuc vat hoc) giong cay chut chit
-dock-dues: dɔkdju:z/
 dock-glass: coc vai (de nem ruou vang)
 dock-master: truong ben tau
-dockage: dɔkdju:z/
 docket: (phap ly) so ghi an (ghi cac ban an da tuyen bo...)
 dockise: xay dung (con song) thanh day ben tau
 dockization: su xay dung ben tau
@@ -13383,8 +13075,6 @@ doctrinism: chu nghia hoc thuyet (su tin theo hoc thuyet mot cach mu quang)
 doctrinist: nguoi theo chu nghia hoc thuyet
 doctrinize: tro thanh hoc thuyet, tro thanh chu nghia
 document: van kien; tai lieu, tu lieu
-documental: dɔkju'mentl/
-documentary: dɔkju'mentl/
 documentation: su chung minh bang tai lieu, su dan chung bang tu lieu
 doddecagon: (toan hoc) hinh muoi hai canh
 doddecahedron: (toan hoc) khoi muoi hai mat
@@ -13408,10 +13098,7 @@ dog's: nep quan, nep gap (o goc trang sach, trang vo)
 dog's: co nep quan o goc (trang sach, trang vo)
 dog's: chu r
 dog's: bia hoa voi ruou gin
-dog's-grass: dɔggrɑ:s/
 dog's-meat: thit cho cho an (thuong la thit ngua, hoac nhung cai bo di; long, ruot, duoi, dau chan...)
-dog's-tail: dɔgteil/
-dog's-tongue: haundz'tʌɳ/
 dog's-tooth: (thuc vat hoc) cay bach hop
 dog-biscuit: banh quy cho cho an
 dog-box: (nganh duong sat) toa cho cho
@@ -13425,10 +13112,7 @@ dog-faced: (co) dau cho, (co) mom cho (loai khi co mom dai nhu mom cho)
 dog-fall: (the duc,the thao) the cung nga xuong (cua hai do vat)
 dog-fancier: nguoi choi cho
 dog-fennel: (thuc vat hoc) cay cuc hoi
-dog-grass: dɔggrɑ:s/
-dog-hole: dɔghʌtʃ/
 dog-house: cui cho, chuong cho
-dog-hutch: dɔghʌtʃ/
 dog-in-a-blanket: banh putdinh mut
 dog-latin: tieng La-tinh lai cang, tieng La-tinh boi
 dog-lead: day dat cho
@@ -13438,11 +13122,8 @@ dog-rose: hoa tam xuan
 dog-salmon: (dong vat hoc) ca hoi cho
 dog-sleep: giac ngu lo mo, giac ngu chap chon
 dog-star: (thien van hoc),  (thong tuc) chom sao Thien lang
-dog-tail: dɔgteil/
-dog-tired: dɔg'wiəri/
 dog-tooth: (kien truc) kieu trang tri hinh chop
 dog-watch: (hang hai) phien gac hai gio (tu 4 den 6, tu 6 den 8 gio toi)
-dog-weary: dɔg'wiəri/
 dog-whip: roi danh cho
 dog-wolf: (dong vat hoc) cho soi duc
 dogate: (su hoc) chuc tong tran
@@ -13450,7 +13131,6 @@ dogberry: qua son thu du
 dogcart: xe cho (xe hai banh co cho ngoi giap lung vao nhau, duoi cho ngoi phia sau co cho cho cho)
 doge: (su hoc) tong tran
 dogface: (tu My,nghia My),  (tu long) linh, linh bo binh
-dogfish: rɔk,sæmən/
 dogged: gan goc, gan li, li lom; ngoan cuong, ben bi, kien tri, dai dang
 doggedness: tinh gan goc, tinh gan li, tinh li lom; tinh ngoan cuong, tinh ben bi, tinh kien tri, tinh dai dang
 dogger: tau danh ca hai buom (Ha-lan)
@@ -13472,7 +13152,6 @@ dogmatist: nguoi giao dieu
 dogmatize: lam thanh giao ly, bien thanh giao dieu
 dogshore: (hang hai) gia do (than tau luc dong tau, duoc do ra khi cho tau xuong nuoc)
 dogskin: da cho, da gia da cho (de lam gang tay)
-dogwood: dɔgtri:/
 doily: khan lot (de o duoi bat an, coc...)
 doing: su lam (viec gi...)
 doit: so tien rat nho; dong xu
@@ -13557,8 +13236,6 @@ doom: so menh, so phan (thuong khong may, bat hanh)
 doomsday: (ton giao) ngay phan quyet cuoi cung, ngay tan the
 door: cua, cua ra vao (nha, xe o to...)
 door's: nguoi gac cua, nguoi gac cong
-door-case: dɔ:freim/
-door-frame: dɔ:freim/
 door-keeper: nguoi gac cua, nguoi gac cong
 door-knob: num cua, qua dam
 door-money: tien vao cua
@@ -13578,16 +13255,11 @@ doper: nguoi cho dung thuoc te me, nguoi cho dung chat ma tuy; nguoi cho uong th
 dopester: (tu My,nghia My) nguoi du doan ket qua (cua nhung) bien co
 dopey: mo mo mang mang, te me (hut thuoc phien, uong ruou manh...)
 dopy: mo mo mang mang, te me (hut thuoc phien, uong ruou manh...)
-dor: dɔ:,bi:tl/ (dor-fly) 
-dor-beetle: dɔ:,bi:tl/ (dor-fly) 
 dor-bug: (tu My,nghia My),  (nhu) dor
-dor-fly: dɔ:,bi:tl/ (dor-fly) 
 dorado: (dong vat hoc) ca nuc heo
 dorking: giong ga doockinh (o Anh)
 dormancy: tinh trang ngu ((nghia den) & (nghia bong))
 dormant: nam ngu, nam im lim, khong hoat dong
-dormer: dɔ:mə'windou/
-dormer-window: dɔ:mə'windou/
 dormice: (dong vat hoc) chuot soc
 dormitory: phong ngu (tap the...)
 dormouse: (dong vat hoc) chuot soc
@@ -13607,13 +13279,11 @@ doss-house: (tu long) nha ngu lam phuc
 dossal: man treo sau ban tho
 dosser: nguoi ngu (o nha ngu lam phuc, nha tro)
 dossier: ho so
-dost: dot /dɔt/
 dot-and-dash: bang cham va gach, tach te
 dot-and-go-one: su di khap khieng, su di ca nhac
 dotage: tinh trang lan, tinh trang lam cam (luc tuoi gia)
 dotard: nguoi lan, nguoi lam cam (vi tuoi gia)
 dote: hoa lan, hoa lam cam (vi tuoi gia)
-doth: dotingly /'doutiɳli/
 dottel: xai thuoc la (con lai trong tau)
 dotterel: (dong vat hoc) chim choi choi
 dottle: xai thuoc la (con lai trong tau)
@@ -13752,7 +13422,6 @@ draftee: (tu My,nghia My) linh quan dich
 drafter: nguoi phac thao, nguoi phac hoa, nguoi ve do an, nguoi ve so do thiet ke; nguoi du thao (dao luat...)
 draftsman: nguoi phac thao, nguoi phac hoa, nguoi ve do an, nguoi ve so do thiet ke; nguoi du thao (dao luat...)
 drag: cai bua lon, cai bua nang
-drag-anchor: drift,æɳkə/
 drag-chain: xich can (de cham toc do cua xe)
 drag-net: luoi keo, luoi vet (bat ca, bay chim...)
 dragee: keo hanh nhan, keo trung chim
@@ -13775,8 +13444,6 @@ drain-ditch: ranh thoat nuoc, muong, mang
 drain-pipe: ong thoat nuoc (cua mot toa nha...)
 drain-pipes: (thong tuc) quan bo ong, quan ong tuyp
 drainage: su rut nuoc, su thao nuoc, su tieu nuoc
-drainage-area: dreinidʤ,eəriə/
-drainage-basin: dreinidʤ,eəriə/
 drainage-tube: (y hoc) ong dan luu
 drainer: ro, ra, cai lam rao nuoc (vat gi)
 drake: phu du (lam) moi cau
@@ -13814,8 +13481,6 @@ draughtsmanship: tai ve, tai ve do an
 draughty: co gio lo, co gio lua; o cho co gio lua
 draw: su keo; su co gang, su no luc
 draw-plate: (ky thuat) ban keo soi (kim loai)
-draw-tongs: drɔ:vais/
-draw-vice: drɔ:vais/
 draw-well: gieng sau co gau keo (bang toi)
 drawback: dieu tro ngai, mat han che, mat khong thuan loi
 drawbar: don keo, thanh toan
@@ -13850,9 +13515,7 @@ dreadfully: kinh so, khiep so, kinh khiep
 dreadnought: vai day (may ao khoac mac khi troi mua bao); ao khoac bang vai day (mac khi troi mua bao)
 dream: giac mo, giac mong
 dream-hole: lo sang (lo hong de lot anh sang tren thap, thap chuong...)
-dream-land: dri:mwə:ld/
 dream-reader: nguoi doan mong
-dream-world: dri:mwə:ld/
 dreamer: nguoi mo mong van vo, nguoi mo tuong hao huyen
 dreamily: nhu trong giac mo
 dreaminess: ve mo mang, ve mo mong; trang thai mo mang, trang thai mo mong
@@ -13880,9 +13543,7 @@ dressage: su day ngua
 dresser: chan bat dia
 dressiness: tinh thich dien; su dien sang
 dressing: su an mac; cach an mac; quan ao
-dressing-bag: dresiɳbæg/
 dressing-bell: chuong bao gio mac le phuc (an com toi)
-dressing-case: dresiɳbæg/
 dressing-gown: ao khoac ngoai (mac o nha khi trang suc, sau khi tam... cua dan ba)
 dressing-room: buong rua mat, buong trang suc (ke ben buong ngu)
 dressing-station: (quan su) tram cap cuu
@@ -13898,7 +13559,6 @@ dribblet: luong nho, mon tien nho
 driblet: luong nho, mon tien nho
 drier: nguoi phoi kho
 drift: su troi giat (tau be...); tinh trang bi loi cuon di ((nghia den) & (nghia bong))
-drift-anchor: drift,æɳkə/
 drift-ice: tang bang troi
 drift-net: luoi troi, luoi keo (de danh ca moi...)
 drift-wood: go troi giat; cui re
@@ -13924,11 +13584,9 @@ drinking-water: nuoc uong
 drip: su chay nho giot, su de nho giot
 drip-drop: tieng (nho giot) ti tach
 drip-dry: su phoi cho nho giot ma kho (khong vat)
-drip-moulding: drip,mouldiɳ/
 dripping: su chay nho giot, su de chay nho giot
 dripping-pan: xanh hung mo nuoc thit quay
 dripping-tube: ong nho giot
-dripstone: drip,mouldiɳ/
 drive: cuoc di xe, cuoc di choi bang xe
 drive-in: (tu My,nghia My) quay an phuc vu khach ngoi trong o to; bai chieu bong phuc vu khach ngoi trong o to
 drivel: nuoc dai, mui dai (cua tre con)
@@ -14027,14 +13685,12 @@ dry-bob: hoc sinh choi cricke (truong I-ton,  Anh)
 dry-clean: tay kho, tay hoa hoc (quan ao...)
 dry-cleaner: may tay kho, may tay hoa hoc
 dry-cleaning: su tay kho, su tay hoa hoc
-dry-cure: draisɔ:lt/
 dry-fly: ruoi gia (lam moi cau)
 dry-measure: su can dong hang kho (gao, ngo...)
 dry-nurse: vu nuoi bo (khong cho bu sua)
 dry-pile: pin kho
 dry-point: ngoi kho (kim khac dong khong dung axit)
 dry-rot: tinh trang kho muc, su thoi rua kho
-dry-salt: draisɔ:lt/
 dry-salter: nguoi ban thuoc
 dry-saltery: nghe ban do kho do hop; cua hang ban do kho do hop
 dry-shod: kho chan, khong uot chan
@@ -14129,8 +13785,6 @@ dumbstruck: chet lang di, dieng nguoi (vi so hai...)
 dumdum: dam dumdum ((cung) dumdum bullet)
 dummy: nguoi nom, nguoi rom, nguoi bung xung, bu nhin
 dump: vat ngan be be, nguoi lun be be
-dump-car: dʌmptrʌk/
-dump-truck: dʌmptrʌk/
 dumper: nguoi do rac
 dumpiness: tinh lun be be, tinh chac map; dang lun be be, dang chac map
 dumping: su do thanh dong (rac...); su vut bo, gat bo (ai...)
@@ -14204,20 +13858,11 @@ dust: bui
 dust-bowl: (tu My,nghia My) vung han han keo dai va co bao bui
 dust-brand: (thuc vat hoc) benh nam than
 dust-cart: xe rac
-dust-cloak: dʌstklɔθ/ (dust-coat) 
-dust-cloth: dʌstklɔθ/ (dust-coat) 
-dust-coat: dʌstklɔθ/ (dust-coat) 
 dust-collector: may hut bui
 dust-colour: mau bui, mau nau nhat xin
-dust-cover: dʌst,dʤækit/
-dust-gown: dʌstklɔθ/ (dust-coat) 
 dust-guard: cai chan bui (trong may...)
 dust-hole: ho rac
-dust-jacket: dʌst,dʤækit/
-dust-proof: dʌsttait/
 dust-shot: vien dan tam (co nho nhat)
-dust-tight: dʌsttait/
-dust-wrap: dʌstklɔθ/ (dust-coat) 
 dustbin: thung rac
 duster: khan lau bui
 dustiness: tinh trang bui bam; ve bui bam
@@ -14308,13 +13953,11 @@ eaglet: (dong vat hoc) dai bang con
 eagre: trieu dang
 ear: tai
 ear-ache: su dau tai; benh dau tai
-ear-drop: iəriɳ/
 ear-drops: thuoc nho tai
 ear-drum: (giai phau) mang tai
 ear-hole: lo tai
 ear-phone: ong nghe
 ear-pick: cai lay ray tai
-ear-ring: iəriɳ/
 ear-splitting: diec tai, inh tai, choi tai (tieng dong...)
 ear-tab: cai che tai (o mu)
 ear-trumpet: ong nghe (cua nguoi nghenh ngang)
@@ -14340,9 +13983,7 @@ earth-bed: luong dat (de gieo trong)
 earth-born: tran tuc
 earth-bound: bi gioi han boi dat, co dat bao quanh
 earth-flax: (khoang chat) Amiang, thach mien
-earth-light: ə:θlait/
 earth-nut: nam cuc, nam toruyp
-earth-shine: ə:θlait/
 earth-worm: giun dat
 earthen: bang dat, bang dat nung
 earthenware: do bang dat nung (noi, nieu, chau, vo...)
@@ -14520,9 +14161,7 @@ edulcorate: lam ngot, lam diu
 edulcoration: su lam ngot, su lam diu
 edwardian: thuoc trieu dai cac vua E-du-a; thuoc trieu dai vua E-du-a VII
 eel: con ca chinh; con luon ((nghia den) & (nghia bong))
-eel-basket: i:lbʌk/
 eel-bed: ao nuoi luon
-eel-buck: i:lbʌk/
 eel-grass: (thuc vat hoc) rong luon
 eel-pie: pa-te nong nhoi thit luon
 eel-pond: ao nuoi luon
@@ -14585,9 +14224,7 @@ egg-and-spon: cuoc chay thi cam thia dung trung
 egg-cell: (sinh vat hoc) te bao trung
 egg-cup: cai dung trung chan
 egg-dance: dieu nhay trung (nhay bit mat tren san co trung)
-egg-flip: egnɔg/
 egg-head: (tu My,nghia My),  (tu long) nha tri thuc
-egg-nog: egnɔg/
 egg-plant: (thuc vat hoc) cay ca
 egg-shaped: hinh trung
 egg-shell: vo trung
@@ -14787,8 +14424,6 @@ elevate: nang len, dua len, giuong (sung...); ngang len; nguoc (mat); cat cao (g
 elevated: cao; cao ca, cao thuong, cao nha
 elevation: su nang len, su dua len, su giuong len; su ngang len; su nguoc len
 elevator: may nang, may truc
-elevator-jockey: eliveitə'dʤɔki/
-elevator-operator: eliveitə'dʤɔki/
 eleven: muoi mot
 elevens: (thong tuc) bua an nhe luc (11 gio sang)
 elevenses: (thong tuc) bua an nhe luc (11 gio sang)
@@ -14796,8 +14431,6 @@ eleventh: thu muoi mot
 elf: yeu tinh
 elf-arrow: elfboult/
 elf-bolt: elfboult/
-elf-lock: elflɔks/
-elf-locks: elflɔks/
 elfin: yeu tinh
 elfish: yeu tinh
 elicit: (thuong),  (nghia bong) kheu ra, goi ra, moi
@@ -14847,8 +14480,6 @@ elver: (dong vat hoc) con ca chinh con, con luon con
 elves: yeu tinh
 elvish: yeu tinh
 elysium: thien duong, chon thien duong (than thoai Hy-lap)
-elytra: elitrə/
-elytron: elitrə/
 elzevir: sach enzevia (do gia dinh En-gie-via in o Ha-lan, vao (the ky) 16 17)
 em: M,  m (chu cai)
 emaciate: lam gay mon, lam hoc hac
@@ -15112,7 +14743,6 @@ encrimson: lam do tham, nhuom do tham
 encroach: (+ on,  upon) xam lan, xam pham (lanh tho, quyen...)
 encroacher: nguoi xam lan, nguoi xam pham
 encroachment: su xam lan, su xam pham
-encrust: n'krʌst/
 encrusted: co lop vo ngoai
 encrustment: lop phu
 encumber: lam lung tung, lam tro ngai, lam vuong viu
@@ -15342,9 +14972,7 @@ ensiform: hinh guom, hinh kiem
 ensiform-leaved: (thuc vat hoc) co la hinh guom
 ensign: phu hieu
 ensigncy: (tu co,nghia co) chuc cam co
-ensilage: ensai'leiʃn/
 ensile: cho (thuc an vat nuoi) vao xilo
-ensillation: ensai'leiʃn/
 enslave: bien thanh no le, bat lam no le, no dich hoa ((nghia den) & (nghia bong))
 enslavement: su no dich hoa, tinh trang bi no dich
 enslaver: nguoi no dich hoa
@@ -15590,10 +15218,8 @@ epistoler: (ton giao) nguoi doc thu su do
 epistrophe: (ngon ngu hoc) hien tuong lap tu cuoi (cuoi cau, cuoi menh de)
 epistyle: (kien truc) Acsitrap
 epitaph: mo chi
-epithalamia: epiθə'leimjəmz/,  epithalamia 
 epithalamial: (thuoc) tho mung cuoi, (thuoc) ca mung cuoi
 epithalamic: (thuoc) tho mung cuoi, (thuoc) ca mung cuoi
-epithalamium: epiθə'leimjəmz/,  epithalamia 
 epithelial: (sinh vat hoc) (thuoc) bieu mo
 epithelium: (sinh vat hoc) bieu mo
 epithet: (ngon ngu hoc) tinh ngu
@@ -16041,8 +15667,6 @@ evasiveness: tinh lang tranh, tinh lan tranh; tinh hay lan tranh, tinh hay thoai
 eve: (Eve) E-va (nguoi dan ba dau tien)
 even: chieu, chieu hom
 even-handed: cong bang, vo tu
-even-minded: i:vən'tempəd/
-even-tempered: i:vən'tempəd/
 evenfall: (tho ca) buoi hoang hon; luc chieu ta
 evening: buoi chieu, buoi toi, toi dem
 evening: ao da hoi (dan ba)
@@ -16312,11 +15936,8 @@ exhibitionist: nguoi thich pho truong
 exhibitive: de trung bay, de pho bay
 exhibitor: nguoi pho truong, nguoi pho bay, nguoi trung bay, nguoi trien lam
 exhibitory: pho truong, pho bay
-exhilarant: g'ziləreitiɳ/ (exhilarative) 
 exhilarate: lam vui ve, lam ho hoi
-exhilarating: g'ziləreitiɳ/ (exhilarative) 
 exhilaration: niem vui ve, niem ho hoi
-exhilarative: g'ziləreitiɳ/ (exhilarative) 
 exhort: ho hao, co vu, thuc day
 exhortation: su ho hao, su co vu, su thuc day
 exhortative: de ho hao, de co vu, de thuc day
@@ -16402,8 +16023,6 @@ expectorate: khac, nho, khac dom
 expectoration: su khac, su nho, su khac dom
 expedience: tinh co loi, tinh thiet thuc; tinh thich hop
 expediency: tinh co loi, tinh thiet thuc; tinh thich hop
-expedient: ks,pedi'enʃəl/
-expediential: ks,pedi'enʃəl/
 expedite: xuc tien
 expedition: cuoc vien chinh; doi vien chinh
 expeditionary: vien chinh
@@ -16462,7 +16081,6 @@ explicit: ro rang, dut khoat
 explicitness: tinh ro rang, tinh dut khoat
 explode: lam no
 exploded: da no (bom...)
-exploit: ky cong; thanh tich choi loi[iks'plɔit]
 exploitable: co the khai thac, co the khai khan
 exploitage: su khai thac, su khai khan
 exploitation: su khai thac, su khai khan
@@ -16689,7 +16307,6 @@ eyre: (su hoc) toa an luu dong
 eyrie: to chim lam tit tren cao (cua chim san moi)
 eyry: to chim lam tit tren cao (cua chim san moi)
 eyslash: long mi
-f.o.: fa /fɑ:/ (fah) /fɑ:/
 fabian: tri hoan, keo dai
 fable: truyen ngu ngon
 fabled: duoc ke trong ngu ngon; (thuoc) truyen thuyet, hoang duong
@@ -17163,7 +16780,6 @@ fecund: man, de nhieu
 fecundate: (sinh vat hoc) lam cho thu thai, lam cho thu tinh
 fecundation: (sinh vat hoc) su (lam cho) thu thai, su (lam cho) thu tinh
 fecundity: su man, su de nhieu
-fed: federal /'fedərəl/
 federalise: to chuc thanh lien bang; to chuc theo che do lien bang
 federalism: che do lien bang
 federalist: nguoi chu truong lap che do lien bang
@@ -18094,11 +17710,8 @@ flesher: (E-cot) do te
 fleshings: quan ao nit mau da (mac tren san khau)
 fleshly: xac thit, nhuc duc
 fleshy: beo; co nhieu thit, nac
-fleur-de-lis: flə:də'lju:s/ (flower-de-luce) 
-fleur-de-luce: flə:də'lju:s/ (flower-de-luce) 
 fleuret: bong hoa nho
 fleuron: vat trang tri hinh hoa nho (trong kien truc, tren dong tien...)
-fleurs-de-lis: flə:də'lju:s/ (flower-de-luce) 
 fleury: trang tri bang hoa irit (huy hieu)
 flew: con ruoi
 flews: moi se xuong (cho san)
@@ -18245,7 +17858,6 @@ flout: hanh dong miet thi; loi noi miet thi; loi lang nhuc
 flow: su chay
 flower: hoa, bong hoa, doa hoa
 flower-bed: luong hoa
-flower-de-luce: flə:də'lju:s/ (flower-de-luce) 
 flower-girl: co hang hoa
 flower-head: (thuc vat hoc) dau (cum hoa)
 flower-piece: tranh ve hoa
@@ -18556,7 +18168,6 @@ fore-edge: ria truoc (sach) (doi voi ria gay)
 fore-ran: bao hieu, bao truoc
 fore-run: bao hieu, bao truoc
 fore-runner: nguoi di truoc, nguoi di tien tran
-forearm: (giai phau) cang tay[fɔ:r'ɑ:m]
 forebear: to tien, ong ba ong vai; cac bac tien boi
 forebode: bao truoc, bao diem
 foreboder: diem, trieu
@@ -20279,7 +19890,6 @@ go-as-you-please: khong bi bo buoc boi cac quy tac dieu le
 go-between: nguoi trung gian, nguoi lam moi, nguoi moi gioi
 go-by: khong de y den loi ai
 go-cart: xe tap di, xe day (cua tre con)
-go-easy: go-getter /'gou,getə/
 go-off: luc xuat phat, luc bat dau
 go-slow: su lan cong
 go-to-meeting: dua cot) banh, dien, dung de mac ngay hoi (quan ao)
@@ -20464,10 +20074,8 @@ gossiper: nguoi hay ngoi le doi mach, nguoi hay khao chuyen noi xau; nguoi hay n
 gossipry: chuyen ngoi le doi mach, chuyen tam phao
 gossipy: thich ngoi le doi mach, thich khao chuyen noi xau; thich tan gau
 gossoon: Ai-len dua be, thang be
-got: oth /gɔθ/
 gothic: (thuoc) Go-tich
 gothicism: loi gotic, kieu gotic
-gotten: gouache /gu'ɑ:ʃ/
 gouge: (ky thuat) cai duc mang, cai duc khum
 goulash: mon ragu Hung-ga-ri
 gourd: (thuc vat hoc) cay bau, cay bi
@@ -20573,7 +20181,6 @@ grandiloquence: tinh khoac lac, tinh khoa truong am y
 grandiloquent: khoac lac, khoa truong am y
 grandiose: vi dai, hung vi, lon lao, dai quy mo
 grandiosity: ve hung vi, ve lon lao, ve dai quy mo
-grandma: uay oac['grænmə,mɑ:]
 grandmamma: than mat) ba
 grandmother: ba
 grandmotherly: nhu ba doi voi chau; qua nuong chieu
@@ -20673,7 +20280,6 @@ gravel-path: duong rai soi
 graveless: khong mo ma, khong mot nam mo
 gravelly: co soi, rai soi
 gravely: trang nghiem, trang trong
-graven: graven image /'greivən'imidʤ/
 graver: tho cham, tho khac
 graves's: (y hoc) benh bazoddo
 gravestone: bia, mo chi
@@ -21259,7 +20865,6 @@ hallmark: dau xac nhan tieu chuan (cua vang bac)
 hallo: chao anh!, chao chi!
 halloa: chao anh!, chao chi!
 halloo: hu, hu! xuyt, xuyt (xuyt cho san hoac de lam cho nguoi ta chu y)
-hallow: (nhu) halloo[hæ'lou]
 hallowe'en: (E-cot) (tu My,nghia My) dem truoc ngay le cac Thanh
 hallowmas: ngay le cac Thanh
 hallucinate: goi ao giac
@@ -21310,7 +20915,6 @@ hamshackle: buoc (ngua...) bang day thung noi dau voi chan truoc
 hamster: (dong vat hoc) chuot dong
 hamstring: (giai phau) gan kheo
 hamstrung: (giai phau) gan kheo
-han't: hand /hænd/
 hand-barrow: cang, bang ca
 hand-canter: nuoc kieu nho (ngua)
 hand-gallop: nuoc phi nho (cua ngua)
@@ -21523,9 +21127,7 @@ hasheesh: Hasit (thuoc la che bang la thuoc non va dot gai dau o Tho-nhi-ky,  An
 hasher: dao bam thit
 hashish: Hasit (thuoc la che bang la thuoc non va dot gai dau o Tho-nhi-ky,  An-ddo...)
 haslet: bo long (chu yeu la lon)
-hasn't: hasp /hɑ:sp/
 hassock: chiec goi quy (thuong dung de ke dau goi khi quy, dac biet la o nha tho)
-hast: hastate /'hæsteit/
 haste: su voi vang, su voi va, su gap rut
 hasten: thuc (ai) lam gap, giuc (ai) mau len
 hastiness: su voi, su voi vang, su voi va; su nhanh chong, su gap rut
@@ -21613,7 +21215,6 @@ haziness: tinh trang mu suong; su mu mit
 hazy: mu suong; mu mit
 he: no, anh ay, ong ay... (chi nguoi va dong vat giong duc)
 he'd: he'll /hi:l/
-he's: he-man /'hi:'mæn/
 head: cai dau (nguoi, thu vat)
 head: da mong ((nghia den) & (nghia bong))
 head: gio nguoc
@@ -21995,7 +21596,6 @@ hercules: (than thoai,than hoc) than Ec-cun (than thoai Hy-lap)
 herd: bay, dan (vat nuoi)
 herdsman: nguoi cham soc suc vat
 here: day, o day, o cho nay
-here's: hereabout /'hiərə,baut/ (hereabouts) /'hiərə,bauts/
 hereabouts: quanh day, gan day
 hereafter: sau day, sau nay, trong tuong lai
 hereat: (tu co,nghia co) den day thi..., den cho nay thi..., cung voi dieu do
@@ -22144,7 +21744,6 @@ hiccough: (y hoc) nac
 hiccup: (y hoc) nac
 hick: (tu My,nghia My),  (thong tuc) dan que; dan tinh nho
 hickory: cay mai chau
-hid: hidalgo /hi'dælgou/
 hidden: da song (chua thuoc, moi chi cao va rua)
 hide: da song (chua thuoc, moi chi cao va rua)
 hide-and-seek: tro choi u tim ((nghia den) & (nghia bong))
@@ -25728,7 +25327,6 @@ intercrop: vu trong xen
 intercross: trong xen
 intercurrence: su xen vao (su viec)
 intercurrent: xen
-intercut: (dien anh) doan phim co canh xen[,intə'kʌt]
 interdenominal: chung vao cac giao phai; giua cac giao phai
 interdental: o khe rang
 interdepartmental: lien vu; lien bo
@@ -25912,7 +25510,6 @@ interpersonal: giua ca nhan voi nhau
 interphone: he thong day noi noi bo, he thong may noi noi bo (mot co quan, mot chiec tau...)
 interplait: tet vao nhau
 interplanetary: giua cac hanh tinh; giua (mot) hanh tinh va mat troi
-interplay: anh huong lan nhau; su tac dong lan nhau[,intə'plei]
 interplead: (phap ly) ra toa xu xem (giua hai nguoi) ai la ben nguyen (de kien mot nguoi thu ba)
 interpleader: (phap ly) thu tuc phan xu (giua hai nguoi) ai la ben nguyen (de kien mot nguoi thu ba)
 interpol: (viet tat) cua International Police to chuc canh sat quoc te
@@ -26502,7 +26099,6 @@ irritativeness: kha nang lam phat cau; tinh chat choc tuc
 irrupt: xong vao, xam nhap
 irruption: su xong vao, su xam nhap
 irruptive: xong vao, xam nhap
-is: isagogic /,aisə'gɔdʤik/
 isagogics: (ton giao) mo dau (cho su giai thich kinh thanh)
 ischemia: (y hoc) chung thieu mau cuc bo
 ischiadic: (giai phau) (thuoc) u ngoi, ngoi
@@ -26521,7 +26117,6 @@ islander: nguoi o dao
 islandish: (thuoc) hon dao
 isle: (tho ca) hon dao nho
 islet: hon dao nho
-isn't: isobar /'aisoubɑ:/
 isobaric: (khi tuong) dang ap
 isochromatic: cung mau, dang sac
 isochronal: chiem thoi gian bang nhau, dang thoi
@@ -26601,7 +26196,6 @@ isthmian: (thuoc) eo
 isthmus: eo dat
 istle: soi thua (lam day, luoi...)
 it: cai do, dieu do, con vat do
-it's: ita /'itə/
 itacism: (ngon ngu hoc) hien tuong i hoa
 italian: (thuoc) Y
 italianate: nguoi Y
@@ -26659,7 +26253,6 @@ jabot: ren, dang ten (vien ao canh dan ba, nguc ao so mi dan ong)
 jacinth: (khoang chat) ngoc da cam,  hiaxin
 jack: qua mit
 jack: chang Suong muoi (suong muoi nhan cach hoa)
-jack: jack light /'dʤæklait/
 jack: anh he
 jack: (dong vat hoc) tho rung tai to (o Bac My)
 jack: nguoi tam thuong, nguoi nho nhen
@@ -26727,7 +26320,6 @@ janizary: (su hoc) ve binh (cua) vua Tho nhi ky
 jansenism: giao phai Gian-xen
 jansenist: nguoi theo giao phai Gian-xen
 january: thang gieng
-jap: japan /dʤə'pæn/
 japanese: (thuoc) Nhat ban
 japanesque: theo kieu Nhat
 jape: (van hoc) noi dua; noi gieu
@@ -26875,7 +26467,6 @@ jingo: phan tu so-vanh hieu chien
 jingoism: chu nghia so-vanh hieu chien
 jingoistic: so-vanh hieu chien
 jink: su tranh, su ne tranh
-jinn: jinnee /dʤi'ni:/
 jinricksha: xe tay, xe keo
 jinrikisha: xe tay, xe keo
 jinx: (tu My,nghia My),  (tu long) nguoi ham tai, nguoi dem lai dieu rui; vat xui quay
@@ -27311,7 +26902,6 @@ killjoy: nguoi lam mat vui, nguoi pha dam
 killock: da neo (hon da lon dung de neo thuyen)
 kiln: lo (nung voi, gach...)
 kiln-dry: nung trong lo (voi, gach...)
-kilo: kiloampere /'ki:lou,æmpeə/
 kilocalorie: kilocalo
 kilocycle: kiloxic
 kilogram: kilogam
@@ -27697,7 +27287,6 @@ laden:  tinh tu
 ladies: noi ve sinh n
 ladies': anh chang ninh dam
 ladies': phong ve sinh n
-ladies-in-waiting:  danh tu,  so nhieu ladies-in-waiting  /'leidizin'weitiɳ/
 lading: su chat hang (len tau)
 ladle: cai moi (de muc)
 ladleful: moi (day)
@@ -27706,7 +27295,6 @@ lady: vo, phu nhan
 lady: ba hay lam phuc
 lady'maid: co hau phong
 lady's: anh chang ninh dam
-lady-in-waiting:  danh tu,  so nhieu ladies-in-waiting  /'leidizin'weitiɳ/
 lady-killer: (am nhac) anh chang dao hoa, anh chang noi tieng la dao hoa
 lady-love: nguoi yeu, nguoi tinh (dan ba)
 ladyfinger: banh quy sam banh
@@ -27732,7 +27320,6 @@ laicism: tinh the tuc; tinh trang phi giao hoi
 laicization: su tach khoi giao hoi, su dut quan he voi giao hoi; su lam tro thanh phi giao hoi
 laicize: tach khoi giao hoi, dut quan he voi giao hoi; lam tro thanh phi giao hoi
 laid: bai tho ngan, bai ve ngan
-lain: lair /leə/
 laird: (E-cot) dia ch
 laisser-faire: chinh sach de mac tu nhan kinh doanh
 laissez-aller: tinh phong tung, tinh khong cau thuc, tinh khong go bo
@@ -28226,7 +27813,6 @@ lectionary: tap kinh giang (o nha tho khi lam le)
 lecture: bai dien thuyet; bai len lop; bai thuyet trinh; bai noi chuyen
 lecturer: nguoi dien thuyet, nguoi thuyet trinh
 lectureship: chuc vi nguoi thuyet trinh
-led: ledge /'ledʤ/
 ledger: (ke toan) so cai
 ledger-bait: moi cau
 lee: cho che, cho tranh gio
@@ -28863,7 +28449,6 @@ listerine: nuoc sat trung lixto
 listing: su lap danh sach, su ghi vao danh sach
 listless: lo dang, tho o, vo tinh; lo ph
 listlessness: tinh lo dang, tinh tho o, tinh vo tinh; tinh lo ph
-lit: lit up /'litʌp/
 litany: kinh cau nguyen
 litchi: qua vai
 liter: lit
@@ -29655,7 +29240,6 @@ mahogany: (thuc vat hoc) cay dai ngua
 mahometan: (thuoc) Mo-ha-met; (thuoc) Hoi giao
 mahout: (An-ddo) quan tuong
 maid: con gai; thieu nu
-maid-in-waiting:  danh tu,  so nhieu ladies-in-waiting  /'leidizin'weitiɳ/
 maid-of-all-work: nguoi day to gai dau sai, nguoi day to gai lam du moi viec
 maid-of-honour: co phu dau chinh
 maiden: thieu nu, trinh nu, co gai dong trinh
@@ -31772,7 +31356,6 @@ mousetrap: pho mat hang toi (chi dang de bay chuot)
 mousse: mon kem mut
 moustache: rau mep, ria ((tu My,nghia My) (cung) mustache)
 mousy: lam chuot
-mouth:  danh tu,  so nhieu mouths  /mauðz/
 mouth-organ: ken acmonica
 mouthful: mieng (day mom)
 mouthpiece: mieng (ken, sao, coi...)
@@ -31799,7 +31382,6 @@ moving: cau thang tu dong
 mow: dong, dun (rom, ra, co kho); cot, cay (thoc)
 mower: tho cat, tho gat
 mowing-machine: may cat, may gat
-mown: moxie /'mɔksi/
 mr.: (viet tat) cua mister
 mrs.: (viet tat) cua mistress
 much: nhieu, lam
@@ -31992,7 +31574,6 @@ muster-book: (quan su) danh sach cac luc luong quan su
 muster-roll: (quan su) danh sach si quan va quan linh (cua mot don vi)
 musth: con hang, con hung du (cua voi duc, lac da duc) ((cung) must)
 mustiness: mui moc
-mustn't: musty /'mʌsti/
 mutability: tinh thay doi, tinh bien doi
 mutable: co the doi, co the bien doi
 mutation: su thay doi, su bien doi
@@ -32915,7 +32496,6 @@ nopal: (thuc vat hoc) cay tay tien (mot loai xuong rong)
 nope: (tu My,nghia My),  (tu long) khong
 nor: ma... cung khong, va... khong
 nor'east: (nhu) north-east
-nor'easter: nor'west /'nɔ:θ'west/ (nor'west) /nɔ:'west/
 nor'wester: (nhu) north-wester
 nordic: (thuoc) Bac-Au
 noria: guong dap nuoc
@@ -33204,7 +32784,6 @@ oath-breaker: nguoi khong giu loi the
 oath-breaking: su khong giu loi the
 oatmeal: bot yen mach
 oaves: dua be sai den, dua be bung ong dit eo
-ob.: obbligato /,ɔbli'gɑ:tou/
 obconical: (thuc vat hoc) hinh non nguoc
 obcordate: (thuc vat hoc) hinh tim nguoc
 obduracy: su cung ran, su sat da
@@ -33860,7 +33439,6 @@ opal: (khoang chat) Opan
 opalescence: ve trang duc, ve trang sua
 opalescent: trang duc, trang sua
 opalesque: trang duc, trang sua
-opaline: (thuoc) opan; nhu opan['oupəli:n]
 opalize: lam co mau opan, lam co mau trang duc, lam co mau trang sua
 opaque: mo duc, khong trong suot
 opaqueness: tinh mo duc, tinh khong trong suot
@@ -34728,8 +34306,6 @@ overeagerness: tinh qua khao khat, tinh qua ham ho, tinh qua hao huc
 overearnest: qua hang hai, qua sot sang
 overeat: an qua nhieu, an qua muc
 overeaten: an qua nhieu, an qua muc
-overelaborate: qua ky luong, qua ti mi['ouvəri'læbəreit]
-overestimate: su danh gia qua cao['ouvər'estimeit]
 overexcite: khich dong qua do, kich thich qua muc
 overexert: bat gang qua suc
 overexertion: su gang qua suc
@@ -34745,7 +34321,6 @@ overfish: danh het ca, danh can ca (o mot khuc song...)
 overflap: giay boc (tranh...)
 overflight: su bay tren vung troi nuoc khac (de do tham)
 overflow: su tran ra (nuoc)
-overflowing: tran day, chan chua['ouvə,flouiɳ]
 overfond: qua yeu, qua thich, qua mem
 overfreight: luong qua tai
 overfulfil: hoan thanh vuot muc
@@ -34803,7 +34378,6 @@ overmantel: do trang tri dat tren be lo suoi
 overmany: nhieu qua
 overmasted: (hang hai) co cot buom dai qua; co cot buom nang qua
 overmaster: che ngu, thong tri, chinh phuc, khuat phuc, tran ap
-overmatch: nguoi thang[,ouvə'mætʃ]
 overmind: len day (dong ho) qua chat
 overmodest: qua khiem ton
 overmuch: qua, qua nhieu
@@ -34817,7 +34391,6 @@ overoptimistic: qua lac quan, lac quan teu
 overorganization: chu trong qua muc den noi quy dieu le (cua mot to chuc)
 overorganize: chu trong qua muc den noi quy dieu le cua (mot to chuc)
 overpaid: tra qua nhieu, tra thu lao qua cao (ai, viec gi)
-overpass: (tu My,nghia My) cau bac qua duong, cau chui[,ouvə'pɑ:s]
 overpast: qua roi, troi qua roi
 overpay: tra qua nhieu, tra thu lao qua cao (ai, viec gi)
 overpeopled: qua dong dan, qua dong nguoi
@@ -34845,7 +34418,6 @@ overquick: qua nhay
 overran: su lan tran, su tran ra
 overrate: danh gia qua cao
 overreach: vuot qua, vuot toi truoc;; voi qua xa, voi qua cao
-overread: doc nhieu qua['ouvə'red]
 overrefine: che soi toc lam tu; di vao nhung chi tiet qua te nhi
 overrent: lay tien thue (nha...) qua cao
 overridden: cuoi (ngua) den kiet luc
@@ -34930,9 +34502,7 @@ overtrade: buon ban qua kha nang von, buon ban qua kha nang tieu thu
 overtrain: (the duc,the thao) bat luyen tap nhieu qua
 overtrump: danh (con bai chu) cao hon
 overture: su dam phan, su thuong luong
-overturn: su lat do, su dao lon[,ouvə'tə:n]
 overunder: chong len nhau (nong sung o sung hai nong)
-overuse: su dung qua nhieu, su lam dung; dung qua lau['ouvər'ju:z]
 overvalue: danh gia qua cao
 overwalk: di bo nhieu qua ((cung) to overwalk oneself)
 overwatched: kiet suc vi thuc lau qua
@@ -34946,9 +34516,7 @@ overwinter: o qua mua dong, qua dong
 overwore: mac den hong, mac den rach ra
 overwork: su lam viec qua suc
 overworn: mac den hong, mac den rach ra
-overwound
-
-@overwrite: lam hong mot tac pham vi viet dai qua ((cung) to overwrite oneself)
+overwrite: lam hong mot tac pham vi viet dai qua ((cung) to overwrite oneself)
 overwritten: lam hong mot tac pham vi viet dai qua ((cung) to overwrite oneself)
 overwrote: lam hong mot tac pham vi viet dai qua ((cung) to overwrite oneself)
 overwrought: phai lam viec qua nhieu; met ra roi (vi lam viec qua nhieu)
@@ -37252,7 +36820,6 @@ place-card: thiep ghi cho ngoi (trong nhung buoi chieu dai long trong...)
 place-hunter: ke muu cau danh vong, ke muu cau dia vi
 place-kick: (the duc,the thao) cu dat bong sut (bong da)
 placebo: (y hoc) thuoc tran yen (de lam yen long nguoi benh hon la de chua benh)
-placeman: placenta /plə'sentə/
 placentae: nhau (dan ba de)
 placer: lop soi cat co vang
 placet: su bieu quyet dong y 
@@ -37622,7 +37189,6 @@ pneumonic: (y hoc) (thuoc) viem phoi
 pneumorhagia: (y hoc) su chay mau phoi
 pneumorrhagia: (y hoc) su chay mau phoi
 pneumothorax: (y hoc) chung tran khi nguc
-po: muay au at[poutʃ]
 poach: bo vo chan nuoc soi; chan nuoc soi (trung)
 poachard: (dong vat hoc) vit dau nau
 poached: trung bo vo chan nuoc soi; trung chan nuoc soi
@@ -38282,7 +37848,6 @@ powerless: bat luc; khong co suc manh
 powwow: thay lang; thay mo, thay phu thuy (dan da do)
 pox: (thong tuc) benh giang mai
 pozzy: (tu long) mut
-praam: tau day bang (de van chuyen hang len tau, o bien Ban-tich); tau day bang co dat sung[præm]
 practicability: tinh lam duoc, tinh thuc hien duoc, tinh thuc hanh duoc
 practicable: lam duoc, thuc hien duoc, thuc hanh duoc
 practicableness: tinh lam duoc, tinh thuc hien duoc, tinh thuc hanh duoc
@@ -38314,7 +37879,6 @@ praise: su khen ngoi, su ca ngoi, su tan tung, su tan duong, su ca tung, loi khe
 praiseworthiness: su dang khen ngoi, su dang ca ngoi, su dang ca tung, su dang tan tung, su dang tan duong
 praiseworthy: dang khen ngoi, dang ca ngoi, dang ca tung, dang tan tung, dang tan duong
 praline: keo nhan qua (nhan cac qua hach)
-pram: tau day bang (de van chuyen hang len tau, o bien Ban-tich); tau day bang co dat sung[præm]
 prance: su nhay dung len, dong tac nhay dung len
 prandial: dua cot) (thuoc) bua an
 prang: (hang khong),  (tu long) nem bom trung (muc tieu)
@@ -38710,7 +38274,6 @@ priapism: tinh dam dang, tinh dam duc
 price: gia ((nghia den) & (nghia bong))
 price: praislist/
 price-boom: muc gia ca tang vot; su tang vot gia ca
-price-cutting: prais,slæʃip/
 price-list: praislist/
 @price-ring: hoi lien hiep gia ca (giua bon tu ban doc quyen de nang hoac giu gia)
 price-wave: su dao dong gia ca
@@ -38758,7 +38321,6 @@ primer: sach vo long
 primerval: nguyen thuy, ban so ((cung) primal)
 primine: (thuc vat hoc) vo ngoai (cua noan)
 priming: su moi nuoc (vao bom de cho chay); su bom xang vao cacbuarato
-primipara: rai'mipəri:/
 primiparous: de con so
 primitive: nguyen thuy, ban so
 primness: tinh len mat dao duc, tinh hay ra ve dung dan, tinh hay ra ve nghiem nghi; tinh hay ra ve doan trang, tinh hay ra ve tiet hanh
@@ -38784,8 +38346,6 @@ principle: goc, nguon goc, yeu to co ban
 principled:  nguyen tac; theo nguyen tac; thanh nguyen tac
 prink: trang diem, lam dang
 print: chu in
-print: print,letə/
-print: print,letə/
 print-seller: nguoi ban nhung ban khac
 print-shop: xuong in
 print-works: xuong in vai hoa
@@ -38794,8 +38354,6 @@ printery: (tu My,nghia My) nha in
 printing: su in
 printing-house: nha in
 printing-ink: muc in
-printing-machine: printiɳ printing-press/
-printing-press: printiɳ printing-press/
 prior: truong tu vien
 prioress: ba truong tu vien
 priority: quyen duoc truoc, su uu tien; dieu duoc xet truoc het
@@ -38803,8 +38361,6 @@ priorship: chuc truong tu vien
 priory: tu vien
 prise: su nay, su bay (bang don bay)
 prism: lang tru
-prism-binoculars: prizm,glɑ:siz/
-prism-glasses: prizm,glɑ:siz/
 prismatic: (thuoc) lang tru; giong lang tru
 prismoid: (toan hoc) lang tru cut
 prismoidal: (thuoc) lang tru cut
@@ -38985,8 +38541,6 @@ progeny: con cai, con chau, dong doi
 proggins: (tu long) giam thi (truong dai hoc Cam-brit,  Oc-phot) ((cung) prog)
 proglottis: (dong vat hoc) dot san
 prognathous: co ham nho ra
-prognoses: rɔg'nousi:z/
-prognosis: rɔg'nousi:z/
 prognostic: (y hoc) doan truoc, tien luong
 prognosticable: co the bao truoc, co the doan truoc, co the noi truoc
 prognosticate: bao truoc, doan truoc, noi truoc
@@ -39142,8 +38696,6 @@ proper: dung, thich dang, thich hop
 properly: dung, chinh xac
 propertied: co cua, co tai san
 property: quyen so huu, tai san, cua cai, vat so huu
-property-man: prɔpəti,mɑ:stə/
-property-master: prɔpəti,mɑ:stə/
 property-room: phong de do dung san khau
 prophase: (sinh vat hoc) pha truoc (phan bao)
 prophecy: tai doan truoc, tai tien tri
@@ -39189,15 +38741,11 @@ propulsive: day di, day toi
 propylaea: cua den
 propylaeum: cua den
 propylite: (khoang chat) Propilit
-propylon: prɔpilɔnz/,  propylona 
-propylona: prɔpilɔnz/,  propylona 
 prorogation: su tam ngung, su tam gian doan mot thoi gian (ky hop quoc hoi)
 prorogue: tam ngung, tam gian doan mot thoi gian (ky hop quoc hoi)
 pros: prosaic /prosaic/
 prosaism: tinh van xuoi, ve nom na
 prosaist: nguoi viet van xuoi
-proscenia: rou'si:njə/
-proscenium: rou'si:njə/
 proscrible: de (ai) ra ngoai vong phap luat
 proscription: su de ra ngoai vong phap luat
 proscriptive: de ra ngoai vong phap luat
@@ -39225,7 +38773,6 @@ prosopopoeia: (van hoc) su mieu ta nguoi chet (nguoi vang mat, nguoi tuong tuong
 prospect: canh, toan canh, vien canh
 prospective: (thuoc) tuong lai, se toi ve sau
 prospector: nguoi dieu tra, nguoi tham do (quang, vang...)
-prospectus: rəs'pektəsiz/
 prosper: thinh vuong, phon vinh, thanh cong
 prosperity: su thinh vuong, su phat dat, su phon vinh, su thanh cong
 prosperous: thinh vuong, phat dat, phon vinh, thanh cong
@@ -39243,8 +38790,6 @@ prostyle: (kien truc) hang cot truoc (dien tho o Hy lap)
 prosy: tam thuong, dung tuc
 protactinium: (hoa hoc) Proactini
 protagonist: vai chinh (trong mot vo kich, mot cau chuyen)
-protases: prɔtəsi:z/
-protasis: prɔtəsi:z/
 protatic: (ngon ngu hoc) (thuoc) menh de dieu kien
 protean: hay thay doi, khong kien dinh
 protect: bao ve, bao ho, che cho
@@ -39316,8 +38861,6 @@ proudly: kieu ngao, kieu cang, kieu hanh, tu dac
 pround-stomached: praud'spiritid/ (pround-stomached) 
 provable: co the chung to, co the chung minh
 provableness: su chung to, su chung minh
-prove: pru:vən/
-proven: pru:vən/
 provenance: nguon goc, lai lich, noi phat hanh
 provenAal
 *: co kho (cho suc vat)
@@ -39345,7 +38888,6 @@ provisionality: tinh tam thoi, tinh lam thoi
 provisionalness: tinh tam thoi, tinh lam thoi
 provisionless: khong co luong thuc cung cap; khong co thuc pham du tru; khong co thuc an thuc uong
 provisionment: su cung cap luong thuc, su cung cap thuc pham
-proviso: rə'vaizouz/
 provisory: de ra dieu kien, voi dieu kien, co dieu kien
 provocation: su khich, su xui giuc, su khich dong; dieu xui giuc, dieu khich dong
 provoke: khich, xui giuc, kich dong
@@ -39590,7 +39132,6 @@ pump-handle: (thong tuc) bat (tay ai) roi rit, bat (tay ai) that lau
 pumper: banh lua mach den (Duc)
 pumpernickel: tay bom
 pumpkin: qua bi ngo, qua bi
-pumpship: dui îAî4æ
 pun: su choi chu
 puna: (dia ly,dia chat) hoang mac puna
 punch: cu dam, cu thoi, cu thui
@@ -39773,7 +39314,6 @@ pussy: (y hoc) co mu
 pussy-willow: (thuc vat hoc) cay lieu to
 pussyfoot: (tu My,nghia My),  (tu long) nguoi di len len
 pustular: (thuoc) mun mu; co mun mu; moc day mun mu
-pustulate: moc day mun mu[,pʌstjuleit]
 pustulation: su moc mun mu, su thanh mun mu
 pustule: mun mu
 pustulous: (thuoc) mun mu; co mun mu; moc day mun mu
@@ -40418,7 +39958,6 @@ rampant: chom dung len
 rampart: thanh luy
 ramrod: que nhoi thuoc (sung hoa mai)
 ramshackle: xieu veo, do nat
-ran: ranch /rɑ:ntʃ/
 rancher: chu trai nuoi suc vat
 ranchman: chu trai nuoi suc vat
 rancid: tro mui, oi (mo, bo...)
@@ -40432,7 +39971,6 @@ randiness: (E-cot) tinh to mom; tinh hay on ao, su hay la loi om som
 random: at random can, bay ba; au, bua bai; to speak at random noi bay ba; to shoot at random ban can, ban bua bai
 randy: (E-cot) to mom, hay lam on ao, hay la loi om som
 ranee: (An) hoang hau
-rang: range /reindʤ/
 range-finder: cai do xa,  telemet
 range-finding: phep do xa
 ranger: nguoi hay di lang thang
@@ -42823,15 +42361,12 @@ saloon-carriage: toa phong khach (xe lua) ((cung) saloon)
 saloon-keeper: (tu My,nghia My) chu quan ruou
 saloop: (nhu) salep
 salt: muoi
-salt: sɔ:lt'hɔ:s/ (salt_junk) 
 salt: hop dung muoi
-salt: sɔ:lt'hɔ:s/ (salt_junk) 
 salt: (tu My,nghia My) lo rac muoi
 salt: nuoc bien, nuoc man
 salt-cake: (hoa hoc) Natri sunfat
 salt-cat: moi muoi (muoi tron voi soi, nuoc tieu... de nhu chim bo cau, giu cho chung khoi bay xa mat)
 salt-cellar: lo dung muoi de ban
-salt-horse: sɔ:lt'hɔ:s/ (salt_junk) 
 salt-lick: bai liem (noi dat man, da thu thuong den liem muoi)
 salt-marsh: dat ngap man, vung ngap man
 salt-mine: mo muoi
@@ -42881,7 +42416,6 @@ sam: that lung va dai (cua si quan)
 samara: (thuc vat hoc) qua canh
 samaritan: nguoi Xa-ma-ri-a
 samba: dieu nhay xamba
-sambo: sæmbouz/; samboses 
 sambur: (dong vat hoc) nai bom
 same: deu deu, don dieu
 samel: non (gach, ngoi)
@@ -42900,8 +42434,6 @@ sampson: Xam-xon, nguoi co suc khoe phi thuong
 samson: Xam-xon, nguoi co suc khoe phi thuong
 samurai: Xamurai (nguoi dong doi cap quan dan Nhat)
 sanative: de tri benh, co the chua benh
-sanatoria: sæni'teəriə/ ((cung) sanitarium)
-sanatorium: sæni'teəriə/ ((cung) sanitarium)
 sanctification: su thanh hoa; su dua vao dao thanh; su lam cho hop dao thanh
 sanctified: da duoc thanh hoa; da duoc dua vao dao thanh
 sanctify: thanh hoa; dua vao dao thanh; lam hop dao thanh
@@ -43046,21 +42578,15 @@ sarcelle: (dong vat hoc) mong ket
 sarcenet: to min (de lam lot...)
 sarcocarp: cui (qua cay co hat cung)
 sarcode: (sinh vat hoc) chat nguyen sinh dong vat
-sarcoma: ɑ:'koumətə/
-sarcomata: ɑ:'koumətə/
 sarcomatoid: (y hoc) (thuoc) saccom; co tinh chat saccom
 sarcomatosis: (y hoc) benh saccom lan rong
 sarcomatous: (y hoc) (thuoc) saccom; co tinh chat saccom
-sarcophagi: ɑ:'kɔfəgai/
-sarcophagus: ɑ:'kɔfəgai/
 sarcous: (thuoc) co; bang thit
 sardine: ca xacdin
 sardonic: nhao bang, chua chat, mia mai, cham biem
 sardonyx: khoang xacdonic
 sargasso: (thuc vat hoc) tao duoi ngua
 sari: xari (ao quan cua phu nu An-do)
-sarissa: ə'risi:/
-sarissae: ə'risi:/
 sark: (E-cot) ao so mi
 sarmentose: (thuc vat hoc) co nhieu canh leo co nhieu nhanh leo; co nhieu canh
 sarmentous: (thuc vat hoc) co nhieu canh leo co nhieu nhanh leo; co nhieu canh
@@ -43093,10 +42619,8 @@ satiation: su lam chan ngay, su lam thoa man; su chan ngay, su thoa man
 satiety: su no, su chan (vi da thoa man); su chan u, su ngay
 satin: xa tanh
 satin: vai len lang
-satin: sætinpɔd/
 satin: giay lang
 satin: vai pha to
-satin-pod: sætinpɔd/
 satin-stone: da thach cao
 satin-straw: rom (de) lam mu
 satin-wood: go son tieu
@@ -43190,24 +42714,17 @@ savvy: su hieu biet, su khon kheo
 saw: tuc ngu; cach ngon
 saw: khuc go de cua
 saw-blade: luoi cua
-saw-buck: sɔ:bʌk/ (sawing_jack) 
 saw-doctor: may cat rang cua
 saw-edged: co rang cua
-saw-frame: sɔ:geit/
-saw-gate: sɔ:geit/
 saw-gin: may tuot hat bong co luoi rang cua
-saw-horse: sɔ:bʌk/ (sawing_jack) 
 saw-pit: ho tho xe
-saw-set: sɔ:rest/
 saw-tones: giong noi rit len
 saw-tooth: rang cua
 saw-toothed: co rang cua
-saw-wrest: sɔ:rest/
 sawbones: (tu long) thay thuoc mo xe, nha phau thuat
 sawder: loi khen, loi tan tung ((cung) soft sawder)
 sawdust: mun cua
 sawfish: (dong vat hoc) ca dao rang nhon
-sawing: sɔ:bʌk/ (sawing_jack) 
 sawmill: nha may cua
 sawn: tuc ngu; cach ngon
 sawney: nguoi E-cot
@@ -43274,9 +42791,7 @@ scamper: su chay vut; su phi ngua di choi
 scampish: deu cang, xo la
 scan: doc thu xem co dung am luat va nhip dieu (tho)
 scandal: viec xuc pham den cong chung; viec lam cho cong chung phan no; viec xau xa; viec nhuc nha
-scandal-bearer: skændl,bɜərə/
 scandalize: xuc pham den y thuc luan thuong dao ly cua (ai)
-scandalmonger: skændl,bɜərə/
 scandalous: xuc pham den cong chung, gay phan no trong cong chung; xau xa, nhuc nha
 scandalousness: tinh chat xuc pham den cong chung, tinh chat gay phan no trong cong chung
 scandinavian: (thuoc) Xcang-di-na-vi
@@ -43295,8 +42810,6 @@ scapegoat: nguoi gio dau chiu bang, cai bung xung, cai than toi
 scapegrace: nguoi bop chop; nguoi kho dai; nguoi thon
 scaphander: ao lan
 scaphoid: (giai phau) hinh thuyen (xuong)
-scapula: 'kæpjuli:/
-scapulae: 'kæpjuli:/
 scapular: (thuoc) vai; (thuoc) xuong vai ((cung) scapulary)
 scapulary: (nhu) scapulary
 scapulo-humeral: (giai phau) (thuoc) vai canh tay
@@ -43315,7 +42828,6 @@ scare: su so hai, su kinh hoang, su hoang mang lo so (chien tranh xay ra...)
 scare-head(ing): dau de giat gan (tren bao chi)
 scarecrow: bu nhin (giu dua...)
 scaremonger: nguoi phao tin don lam hot hoang
-scarf: kɑ:f/,  scarves 
 scarf-loom: khung cui kho hep
 scarf-pin: kim cai khan quang
 scarf-skin: lop bieu bi, lop da ngoai
@@ -43338,7 +42850,6 @@ scarlet: khuom doay uo)
 scarp: tuong phia trong (cong su), luy phia trong (chien hao), luy phia trong (chien hao)
 scarped: doc dung (suon nui...)
 scarus: (dong vat hoc) ca vet
-scarves: kɑ:f/,  scarves 
 scary: lam so hai, lam kinh hai, lam khiep so, nhat nhu cay
 scat: (thong tuc) di di!, cut di
 scat: (tu My,nghia My) su hat cuong nhung bai nhac ja nhi nho vo nghia
@@ -43349,23 +42860,17 @@ scatophagous: an phan
 scatter: su tung rac, su rai ra, su phan tan
 scatter: tham nho (chi trai duoc mot phan san)
 scatter-brain: nguoi doang, nguoi vo y vo tu
-scatter-brained: skætəbrein/
 scattered: rai rac, thua thot, lua thua
 scattergoad: (tu My,nghia My) nguoi hoang toang, nguoi tieu hoang
 scatty: (tu long) bop chop; ngo nghech, thon
-scaup: skɔ:pdʌk/
-scaup-duck: skɔ:pdʌk/
 scaur: vach nui lom chom
 scavenge: quet, quet don (duong...)
 scavenger: cong nhan quet duong
 scena: lop (cua mot ban kich)
-scenario: i'nɑ:riouz/
 scenarist: nguoi viet truyen phim, nguoi soan cot kich, nguoi soan kich ban
 scend: suc song xo
 scene: noi xay ra
-scene-designer: si:ndi,zainə/
 scene-dock: (san khau) noi de canh phong
-scene-painter: si:ndi,zainə/
 scene-shifter: (san khau) nguoi thay canh phong
 scenery: (san khau) do dung trang tri (mot ganh hat); canh phong
 scenic: (thuoc) san khau; (thuoc) kich truong
@@ -43390,8 +42895,6 @@ sceptre: gay quyen, quyen truong
 schappe: vai to xau
 schedule: (tu My,nghia My) ban danh muc, bang liet ke; ban phu luc
 scheelite: (khoang chat) Silit
-schema: ski:mətə/
-schemata: ski:mətə/
 schematic: (thuoc) luoc do, (thuoc) gian do, (thuoc) so do
 scheme: su sap xep theo he thong, su phoi hop
 schemer: nguoi vach ke hoach
@@ -43402,8 +42905,6 @@ schiedam: ruou xkidam (Ha lan)
 schilling: dong Silinh (tien nuoc Ao)
 schipperke: cho dau cao, cho sipeki (giong Bi)
 schism: su ly giao; su phan ly
-schismatic: iz'mætikəl/
-schismatical: iz'mætikəl/
 schist: (khoang chat) da nghien, diep thach
 schistose: (thuoc) da phien; nhu da phien
 schistous: (thuoc) da phien; nhu da phien
@@ -43420,9 +42921,7 @@ scholarship: su hoc rong, su uyen tham, su uyen bac, su thong thai
 scholastic: (thuoc) nha truong, (thuoc) giao duc, (thuoc) nha giao; (thuoc) hoc thuat; (thuoc) sach vo
 scholastically: sach vo, giao dieu
 scholasticism: triet hoc kinh vien
-scholia: skouljə/
 scholiast: nha binh giai (van hoc co Hy-lap  La-ma)
-scholium: skouljə/
 school: dan ca, bay ca
 school: tuoi di hoc
 school: nha triet hoc kinh vien
@@ -43433,8 +42932,6 @@ school: nam hoc
 school-board: ban phu trach cac truong (o dia phuong)
 school-book: sach hoc, sach giao khoa
 school-day: ngay hoc
-school-ma'am: sku:lmən/
-school-marm: sku:lmən/
 school-ship: (hang hai) tau huan luyen
 school-teacher: thay giao, co giao (chu yeu cap I)
 school-time: gio hoc, gio len lop
@@ -43646,10 +43143,7 @@ scribbler: nguoi viet boi bac, nguoi viet voi va, nguoi viet chu nguech ngoac
 scribbling-diary: so ghi chep lat vat
 scribbling-paper: giay nhap, giay de ghi chep voi
 scribe: nguoi viet, nguoi biet viet
-scribe-awl: skraibiɳ,aiən/ (scribe-awl) 
-scriber: skraibiɳ,aiən/ (scribe-awl) 
 scribing-compass: cai com-pa de ke tren go
-scribing-iron: skraibiɳ,aiən/ (scribe-awl) 
 scrim: vai lot (nem ghe...)
 scrimmage: cuoc au da; su cai lon, su tranh cuop
 scrimmager: (the duc,the thao) tien dao (bong bau duc)
@@ -43662,8 +43156,6 @@ scrinium: (su hoc) ong quyen, trap dung sach
 scrip: (tu co,nghia co) cai tui (cua nguoi di duong), cai bi (cua an may)
 script: (phap ly) nguyen ban, ban chinh
 script: co thu ky phu ta dao dien phim
-scriptoria: krip'tɔ:riə/
-scriptorium: krip'tɔ:riə/
 scriptural: dua vao kinh thanh; phu hop voi kinh thanh; (thuoc) kinh thanh
 scripture: kinh thanh; loi trich trong kinh thanh
 scripture: nguoi doc kinh thanh (den tan nha nguoi ngheo)
@@ -43678,10 +43170,8 @@ scroll: cuon giay, cuon da lua, cuon sach, cuoc cau doi; (tu co,nghia co) bang d
 scroll-saw: (ky thuat) cai cua tron (de cua duong tron)
 scroll-work: hinh trang tri co nhung duong cuon
 scroop: tieng keu ken ket; tieng keu ken ket
-scrota: skroutə/
 scrotal: (giai phau) (thuoc) biu dai
 scrotitis: (y hoc) viem biu dai
-scrotum: skroutə/
 scrounge: (tu long) an cap, xoay, nang
 scrounger: (tu long) ke an cap, nguoi xoay
 scrub: bui cay, bui ram; noi co bui cay, noi co bui ram
@@ -43737,14 +43227,12 @@ scurviness: tinh de tien, tinh hen ha, tinh dang khinh
 scurvy: de tien, hen ha, dang khinh
 scurvy-grass: (thuc vat hoc) cai oc tai
 scut: duoi cut (cua tho, nai...)
-scuta: skju:tə/
 scutage: (su hoc) tien trieu cong
 scutal: (dong vat hoc) co tam vay, co mai
 scutate: (dong vat hoc) co tam vay, co mai
 scutch: dui dap lanh (de tuoc soi)
 scutcheon: (nhu) escucheon
 scutcher: may dap lanh (de tuoc soi)
-scute: skju:tə/
 scutellate: co vay nho
 scutellation: su ket vay nho
 scutellum: (sinh vat hoc) vay nho, vay hinh khien (tren chan chim...)
@@ -43753,16 +43241,13 @@ scutter: su chay voi; su chay lon ton
 scuttle: dang di hap tap
 scuttle-butt: thung dung nuoc ngot (tren boong tau) (nhu) scuttle-cask
 scuttle-cask: thung dung nuoc ngot (tren boong tau) ((nhu) scuttle-butt)
-scutum: skju:tə/
 scyphus: (thuc vat hoc) vong nho (o mot so hoa)
 scythe: cai hai hot co, cai pho
 se: de tu ve
 sea: bien
 sea: khong khi ngoai bien, gio bien
-sea: si:,flauə/ (sea_sunflower) 
 sea: gio nhe o bien
 sea: (tho ca); (van hoc) thuy thu day dan
-sea: si:'ə:tʃin/
 sea: (tu co,nghia co) than da, than mo
 sea: bo bien, mien ven bien
 sea: (dong vat hoc) dua bien
@@ -43772,7 +43257,6 @@ sea: (thuc vat hoc) co xanhpie
 sea: phan thanh pho quay mat ra bien
 sea: (dong vat hoc) dua bien
 sea: trung ca muc
-sea: si:'ə:tʃin/
 sea: (thuc vat hoc) cai bien
 sea: (su hoc) trum cuop bien (thoi Trung co)
 sea: (hang hai), (mia mai) anh chang hay ly su cun
@@ -43800,7 +43284,6 @@ sea: ran bien, ran den (ran o bien)
 sea: vo so, vo hen, vo hau
 sea: (dong vat hoc) dua bien
 sea: (dong vat hoc) ca vay tron
-sea: si:,flauə/ (sea_sunflower) 
 sea: (dong vat hoc) nhan bien
 sea-acorn: con ha
 sea-anchor: (hang hai) neo phao
@@ -43821,7 +43304,6 @@ sea-devil: (dong vat hoc) ca duoi hai mom
 sea-dog: (dong vat hoc) cho bien
 sea-ear: (dong vat hoc) tai bien
 sea-fight: thuy chien
-sea-flower: si:,flauə/ (sea_sunflower) 
 sea-fowl: loai chim bien
 sea-gauge: muc nuoc (can thiet de tau khoi mac can)
 sea-girt: (tho ca) co bien bao quanh
@@ -43851,7 +43333,6 @@ sea-scape: buc hoa ve bien
 sea-sleeve: (dong vat hoc) con muc
 sea-toad: (dong vat hoc) ca vay chan
 sea-unicorn: (than thoai,than hoc) con ky lan
-sea-urchin: si:'ə:tʃin/
 sea-wall: de ngan nuoc bien
 sea-ware: tao bien (de lam phan bon)
 sea-water: nuoc bien
@@ -43940,7 +43421,6 @@ secretarial: (thuoc) thu ky, (thuoc) bi thu
 secretariate: phong bi thu
 secretary: thu ky, bi thu
 secretary: bo truong bo ngoai giao (My,  Va-ti-cang)
-secretary-bird: sə:pənt,i:tə/
 secretary-general: tong thu ky, tong bi thu
 secretaryship: chuc thu ky, chuc bi thu
 secrete: cat, giau
@@ -44037,7 +43517,6 @@ seedman: nguoi buon hat giong
 seedsman: nguoi buon hat giong
 seedy: day hat, sap ket hat
 seedy-toe: benh sui chan (ngua)
-seek: ɔ:t/
 seeker: nguoi di tim
 seel: (tu co,nghia co) nham (mat); khau mat (chim ung)
 seem: co ve nhu, duong nhu, coi bo
@@ -44049,10 +43528,8 @@ seen: aw/,  seen
 seep: ri ra, tham qua
 seepage: su ri ra, su tham qua
 seer: nha tien tri
-seer-fish: siəfiʃ/
 seersucker: vai soc
 seesaw: van bap benh (tro choi cua tre em)
-seethe: i:ðd/,  (tu co,nghia co) sod 
 segar: dieu xi ga
 segment: doan, khuc, dot, mieng
 segmental: co hinh phan, co khuc, co doan
@@ -44071,7 +43548,6 @@ seine: luoi keo (de danh ca)
 seine-gang: to danh ca bang luoi keo
 seine-needle: kim dan luoi keo
 seiner: nguoi danh ca bang luoi keo
-seir-fish: siəfiʃ/
 seise: (phap ly), ((thuong) dong tinh tu qua khu) cho chiem huu
 seisin: (phap ly) quyen so huu dat vinh vien
 seism: dong dat, dia chan
@@ -44168,8 +43644,6 @@ self-constituted: tu ban quyen, tu cho quyen
 self-contained: kin dao, de dat, khong coi mo (nguoi)
 self-contempt: su tu coi thuong
 self-contemptuous: tu coi thuong
-self-content: selfkən'tentmənt/
-self-contentment: selfkən'tentmənt/
 self-contradiction: su tu mau thuan
 self-contradictory: tu mau thuan
 self-control: su tu chu, su binh tinh
@@ -44205,8 +43679,6 @@ self-evident: tu ban than da ro rang, hien nhien
 self-examination: su tu van
 self-executing: tu thuc hien
 self-existent: tu ton tai
-self-explaining: selfiks'plænətəri/
-self-explanatory: selfiks'plænətəri/
 self-expression: su tu bieu hien
 self-faced: chua deo (da)
 self-feeder: lo tu tiep, may tu tiep (chat dot, nguyen lieu)
@@ -44249,8 +43721,6 @@ self-mortification: su tu hanh xac
 self-motion: su tu than van dong
 self-murder: su tu sat, su tu van, su quyen sinh
 self-opinion: su bao thu y kien cua minh, su co chap, su cung dau cung co
-self-opinionated: selfə'pinjənd/
-self-opinioned: selfə'pinjənd/
 self-partiality: su thien vi ve minh
 self-pity: su tu thuong minh
 self-pollination: (thuc vat hoc) su tu thu phan
@@ -44294,8 +43764,6 @@ self-sterile: (thuc vat hoc) khong tu thu phan
 self-sterility: (thuc vat hoc) tinh khong tu thu phan
 self-styled: tu xung, tu cho
 self-sufficiency: su tu cung cap, su tu tuc, su doc lap
-self-sufficient: selfsə'faisiɳ/
-self-sufficing: selfsə'faisiɳ/
 self-suggestion: su tu am thi
 self-support: su tu luc
 self-supporting: tu luc
@@ -44496,7 +43964,6 @@ sepoy: linh An (trong quan doi Anh-An)
 seps: (dong vat hoc) than lan bong chan ngan
 sepsis: (y hoc) su nhiem trung mau
 sept: bo lac (o Ai-len)
-septa: septə/
 septal: (thuoc) bo lac (o Ai-len)
 septan: cach sau ngay (con sot...)
 septangle: hinh bay goc
@@ -44523,7 +43990,6 @@ septillion: mot trieu luy thua bay
 septimal: (thuoc) so bay
 septuagenarian: tho bay muoi (tu 70 den 79 tuoi)
 septuagenary: bay muoi tuoi
-septum: septə/
 septuple: gap bay lan
 sepulchral: (thuoc) lang mo; (thuoc) su chon cat
 sepulchre: mo co, mo (bang da)
@@ -44538,24 +44004,18 @@ sequential: lien tuc, lien tiep
 sequentiality: tinh lien tuc
 sequester: de rieng ra, co lap
 sequestered: an dat; heo lanh, khuat neo
-sequestra: i'kwəstrə/
 sequestrable: (phap ly) co the tich thu tam thoi duoc
 sequestral: (y hoc) (thuoc) manh xuong muc (cua mot khuc xuong)
 sequestration: su de rieng ra, su co lap
 sequestrator: (phap ly) nguoi tich thu tai san tam thoi; nguoi bao quan tai san bi tich thu tam thoi
 sequestrectomy: (y hoc) thu thuat lay manh xuong muc
 sequestrotomy: (y hoc) thu thuat lay manh xuong muc
-sequestrum: i'kwəstrə/
 sequin: (su hoc) dong xequin (tien vang o Vo-ni-zo)
 sequoia: (thuc vat hoc) cay cu tung
-sera: serə/,  serums 
-seraglio: e'rɑ:liouz/
 serai: tam nghi qua sa mac
 serang: (Anh-An) doi truong (thuy thu An-do)
 serape: khan choang (cua nguoi Tay-ban-nha o My)
-seraph: serəfim/,  seraphs 
 seraphic: (thuoc) thien than toi cao
-seraphim: serəfim/,  seraphs 
 seraphine: (am nhac) dan dap hoi co
 seraskier: tong tu lenh quan doi (Tho nhi ky)
 serb: (thuoc) Xec-bi
@@ -44583,8 +44043,6 @@ serial: theo tung hang, theo tung day, theo tung chuoi, theo thu tu
 serialist: nguoi viet truyen in ra tung so
 serialize: xep theo hang, xep theo thu tu
 serially: ra tung ky
-seriate: siərieitid/
-seriated: siərieitid/
 seriatim: tung thu mot, lan luot tung diem mot
 seric: (van hoc) (thuoc) Trung quoc
 sericicultural: (thuoc) nghe nuoi tam
@@ -44621,7 +44079,6 @@ serpent: con ran
 serpent: (dong vat hoc) than lan bong chan ngan
 serpent's-tongue: (thuc vat hoc) cay luoi ran (duong xi)
 serpent-charmer: nguoi du ran, nguoi bat ran
-serpent-eater: sə:pənt,i:tə/
 serpent-grass: (thuc vat hoc) cay quyen sam nui
 serpentiform: hinh ran, ngoan ngoeo nhu ran
 serpentine: (thuoc) ran; hinh ran
@@ -44639,11 +44096,8 @@ serriostrade: co mo khia rang cua (chim)
 serrulate: co rang cua nho
 serrulated: co rang cua nho
 serrulation: duong khia rang cua nho
-serum: serə/,  serums 
 serval: (dong vat hoc) meo rung chau Phi
 servant: nguoi hau, nguoi day to, nguoi o
-servant-girl: sə:vəntmeid/
-servant-maid: sə:vəntmeid/
 serve: (the duc,the thao) cu giao bong; luot giao bong (quan vot...)
 server: nguoi hau; nguoi hau ban
 servery: kho nha bep; buong de dung cu nha bep
@@ -44682,7 +44136,6 @@ session: buoi hop, phien hop, ky hop; hoi nghi
 sessional: (thuoc) buoi hop, (thuoc) phien hop
 sesterce: (su hoc) dong xettec (tien co La ma) ((cung) sestertius)
 sestertii: (su hoc) dong xettec (tien co La ma) ((cung) sestertius)
-sestertius: es'tə:tiai/
 sestet: bo sau, ban nhac cho bo sau
 sestina: (tho ca) Xettin, the tho sau (gom 6 doan, moi doan 6 cau)
 set: bo
@@ -44817,7 +44270,6 @@ shaft: can (giao, mac...), tay cam
 shaft-horse: ngua dong vao trong cang xe
 shafting: (ky thuat) su truyen dong truc chung
 shag: chom long, bom toc
-shagbark: ʃelbɑ:k/
 shagginess: ve bom xom, ve xom xoam
 shaggy: ram long, bom xom
 shagreen: da sargin, da song nhuom luc
@@ -44841,7 +44293,6 @@ shallop: tau sa lup
 shallot: (thuc vat hoc) hanh tam
 shallow: nong, can
 shallowness: tinh nong can, tinh hoi hot
-shalt: shaly /'ʃeili/
 sham: gia, gia bo, gia vo; gia mao
 shamble: dang di keo le; buoc di long ngong, chay long ngong
 shambles: lo mo, lo sat sinh
@@ -44852,11 +44303,8 @@ shameful: lam ho then, lam nguong ngung, lam xau ho
 shameless: khong biet then, khong biet xau ho, vo liem si, tro tren
 shamelessness: su khong biet then, su khong biet xau ho, su vo liem si, su tro tren
 shammer: nguoi gia bo, nguoi gia vo, nguoi vo vinh; nguoi gia mao
-shammy: ʃæmi,leðə/ (shammy-leather) 
-shammy-leather: ʃæmi,leðə/ (shammy-leather) 
 shampoo: thuoc goi dau
 shamrock: cay la chum hoa (cay co ba la hoac cay chua me dat, nguoi Ai-len lay hinh cum la ba chiec cua cac cay nay lam quoc huy)
-shan't: shandrydan /'ʃændridæn/
 shandy: bia pha nuoc chanh
 shandygaff: bia pha nuoc chanh
 shanghai: (hang hai),  (tu long) bat coc (de len lam o tau bien)
@@ -44916,27 +44364,22 @@ shaving-bowl: bat de xa phong cao rau
 shaving-brush: choi (xoa xa phong) cao rau
 shaving-cream: kem cao rau
 shaving-horse: gia bao (gia de giu tam van khi bao)
-shaving-soap: ʃeiviɳstik/
-shaving-stick: ʃeiviɳstik/
 shaw: (tu co,nghia co); (tho ca) rung nho, rung thua
 shawl: khan choang, khan san
 shawm: (am nhac) ken co
 shay: (tu co,nghia co), (dua cot),  (thong tuc) (nhu) chaise
 she: no, ba ay, chi ay, co ay...
-she'd: she'll /ʃi:l/
 shea: (thuc vat hoc) cay hat mo (loai cay Tay phi, hat cho mot chat mo trang, dung de an hay thap den) ((cung) shea tree)
 sheading: khu vuc hanh chinh (o dao Man)
 sheaf: i:vz/
 sheaf-binder: (nong nghiep) may gat bo
 shear: keo lon (de tia cay, xen long cuu...)
 shear: thep lam keo, thep lam dao
-shear-legs: ʃiəlegz/
 shearer: nguoi xen long cuu
 shearling: cuu bi xen long mot lan
 sheartail: (dong vat hoc) chim ruoi
 shearwater: (dong vat hoc) chim hai au
 sheat-fish: (dong vat hoc) ca nheo Au
-sheath: i:ðz/
 sheathe: bo vao bao, tra (guom...) vao vo
 sheathless: khong co bao, khong co vo
 sheave: (ky thuat) banh co ranh
@@ -44950,14 +44393,9 @@ sheen: su huy hoang, su long lay, su ruc ro, su xan lan
 sheeny: (tho ca) huy hoang, long lay, ruc ro, xan lan
 sheep: con cuu
 sheep's-head: nguoi kho dai, nguoi dan don
-sheep-cot: ʃi:pkɔt/ (sheep-cote) 
-sheep-cote: ʃi:pkɔt/ (sheep-cote) 
 sheep-dip: thuoc nuoc tam cho cuu (de tru bo va bao ve long)
 sheep-dog: cho chan cuu
-sheep-farmer: ʃi:p,mɑ:mə/
-sheep-fold: ʃi:pkɔt/ (sheep-cote) 
 sheep-hook: gay (quam cua nguoi) chan cuu
-sheep-master: ʃi:p,mɑ:mə/
 sheep-pox: benh dau cuu
 sheep-run: dong co lon nuoi cuu (o Uc)
 sheep-shearer: nguoi xen long cuu
@@ -44969,8 +44407,6 @@ sheepman: nguoi nuoi cuu
 sheepshank: cang cuu
 sheepskin: da cuu (de dong sach...)
 sheer: chi la; dung la; hoan toan, tuyet doi
-sheer-legs: ʃiəlegz/
-sheers: ʃiəlegz/
 sheet: khan trai giuong
 sheet: dong la
 sheet: kinh tam
@@ -44992,7 +44428,6 @@ shelf: elvz/
 shell: vo; bao; mai
 shell: dau an hot (chi an hot, khong an vo ngoai)
 shell: tro cua ca, tro bai tay
-shell-bark: ʃelbɑ:k/
 shell-fire: su na trai pha
 shell-heap: hell-mound/
 shell-jacket: ao bluzong (cua si quan)
@@ -45151,12 +44586,9 @@ shoe-buckle: cai khoa giay
 shoe-lace: day giay
 shoe-leather: da dong giay
 shoe-nail: dinh dong giay
-shoe-parlor: ʃu:,pɑ:lə/
-shoe-parlour: ʃu:,pɑ:lə/
 shoe-shine: su danh giay
 shoe-thread: chi khau giay
 shoeblack: nguoi danh giay, em be danh giay
-shoehorn: ʃu:lift/
 shoeless: khong co giay; khong di giay, di chan khong
 shoemaker: tho dong giay
 shoestring: day giay
@@ -45184,10 +44616,8 @@ shop-boy: nguoi ban hang (dan ong)
 shop-girl: co ban hang
 shop-lifter: ke cap gia lam khach mua hang
 shop-lifting: su an cap o cac cua hang
-shop-soiled: ʃɔpwɔ:n/
 shop-steward: dai bieu cong nhan
 shop-talk: chuyen lam an, chuyen cong tac, chuyen chuyen mon, chuyen nghe nghiep
-shop-worn: ʃɔpwɔ:n/
 shopkeeper: nguoi chu hieu
 shopman: nguoi chu hieu
 shopper: nguoi di mua hang
@@ -45261,7 +44691,6 @@ shoulder-knot: dai no deo o vai (lam phu hieu...)
 shoulder-loop: (quan su) cai cau vai ((cung) shoulder-strap)
 shoulder-mark: phu hieu vai (trong hai quan My)
 shoulder-strap: (quan su) cai cau vai ((cung) shoulder-loop)
-shouldn't: shout /ʃaut/
 shouting: su la het; tieng ho het; tieng reo ho
 shove: su xo day
 shove-halfpenny: dao vach (mot kieu danh dao)
@@ -45293,7 +44722,6 @@ showmanship: nghe thuat quang cao cua ong bau
 shown: su bay to
 showy: loe loet, pho truong
 shram: lam te, lam cong
-shrank: ræɳk/,  shrunk 
 shred: mieng nho, manh vun
 shrew: nguoi dan ba danh da
 shrew-mouse: (dong vat hoc) chuot chu ((cung) shrew)
@@ -45310,7 +44738,6 @@ shrillness: tinh the the, tinh in tai nhuc oc
 shrimp: (dong vat hoc) con tom
 shrimper: nguoi di bat tom, nguoi di cau tom
 shrine: hom dung thanh cot
-shrink: ræɳk/,  shrunk 
 shrinkable: co the lam co lai duoc, co the rut ngan lai; co the bi co
 shrinkage: su co lai (cua vai...)
 shrive: raivd/,  shrove 
@@ -45324,7 +44751,6 @@ shrub: cay bui
 shrubbery: bui cay
 shrubby: dang cay bui
 shrug: nhun vai
-shrunk: ræɳk/,  shrunk 
 shrunken: co lai, teo lai, quat lai, top di
 shuck: boc (vo dau)
 shucks: gom!, khiep!, tom!
@@ -45393,7 +44819,6 @@ side: mat, ben
 side: thit suon
 side-arms: vu khi deo canh suon (guom, luoi le, dao gam, sung luc...)
 side-bet: cuoc phu, cuoc rieng
-side-car: dʤɔ:ntinis/
 side-chapel: nha tho phu; mieu tho
 side-dish: mon an them (thuong la mot mon dac biet)
 side-drum: trong deo (deo canh suon ma danh)
@@ -45460,8 +44885,6 @@ sigmation: su them xichma vao, su them s vao
 sigmoid: (giai phau) hinh xichma
 sign: dau, dau hieu, ky hieu; mat hieu
 sign-language: ngon ngu uoc hieu
-sign-painter: sain,raitə/
-sign-writer: sain,raitə/
 signal: dau hieu, tin hieu; hieu lenh
 signal: (quan su) binh chung thong tin
 signal-book: (quan su); (hang hai) cam nang tin hieu ((cung) code of signals)
@@ -45488,7 +44911,6 @@ signor: ong, ngai (nguoi Y)
 signora: ba, phu nhan (nguoi Y)
 signorina: co, tieu thu (nguoi Y)
 signpost: bien chi duong
-silage: ensai'leiʃn/
 silence: su lang thinh, su nin lang
 silencer: (ky thuat) bo giam am
 silent: khong noi, it noi, lam thinh
@@ -45519,9 +44941,7 @@ silk-creen: thuat in giay nen
 silk-fowl: giong ga lua (co long muot nhu to lua)
 silk-gland: (dong vat hoc) tuyen to (o con tam...)
 silk-mill: nha may to
-silk-reel: silk,waində/
 silk-stocking: dien, an mac lich su, an mac dung mot
-silk-winder: silk,waində/
 silkalene: vai bong anh lua
 silkaline: vai bong anh lua
 silken: mat quan ao lua
@@ -45974,9 +45394,7 @@ slave-grown: do nguoi no le san xuat (hang hoa)
 slave-holder: chu no
 slave-hunter: nguoi san no le
 slave-ship: tau buon no le
-slave-trade: sleiv,træfik/
 slave-trades: nguoi buon ban no le
-slave-traffic: sleiv,træfik/
 slaver: tau buon no le
 slaver: cai no (nguoi cai trong no le)
 slavery: day nuoc dai
@@ -46047,7 +45465,6 @@ slide: su truot
 slide-block: (ky thuat) con truot
 slide-fastener: khoa rut, khoa ecle
 slide-rule: (toan hoc) thuoc loga
-slide-valve: slaidvælv/
 slide-way: duong truot (cho xe truot tuyet, cho tre con choi...)
 slider: nguoi truot tuyet
 slider-trombone: (am nhac) Trombon truot (co ong hinh chu U keo ra keo vao duoc)
@@ -46055,7 +45472,6 @@ sliding: cua keo (theo khe truot)
 sliding: (toan hoc) thuoc loga
 sliding: thang doi chieu (thue ma, luong, gia ca, da lam san)
 sliding: ghe truot (bac them vao thuyen thi de tang su cheo)
-sliding: slaidvælv/
 slight: mong manh, thon, gay, manh khanh, yet ot
 slightingly: coi thuong, coi nhe, xem khinh
 slightly: mong manh, yeu ot
@@ -46074,8 +45490,6 @@ slink: suc vat ((thuong) la bo) de non
 slink-butcher: nguoi ban thit suc vat de non
 slinky: len, lan
 slip: su truot chan
-slip-carriage: slipkoutʃ/
-slip-coach: slipkoutʃ/
 slip-cover: vai phu, khan phu (tren ghe banh, tren di vang...)
 slip-galley: (nganh in) khay xep chu
 slip-knot: nut con do
@@ -46107,7 +45521,6 @@ slobbery: hay chay nuoc dai
 sloe: qua man gai
 sloe-eyed: co mat to den lay
 sloe-gin: ruou man gai
-sloe-worm: slouwə:m/
 slog: (the duc,the thao) cu danh vong mang (quyen Anh,  cricke)
 slogan: khau hieu
 slogger: nguoi dam vong mang, nguoi danh au (quyen Anh,  cricke)
@@ -46153,7 +45566,6 @@ slow-motion: quay cham
 slow-moving: chuyen dong cham; tien trien cham
 slow-poke: (tu long) nguoi cham re re
 slow-witted: tri don, dan don, khong nhanh tri
-slow-worm: slouwə:m/
 slowcoach: nguoi cham chap, nguoi kem thong minh, nguoi khong lanh loi
 slowdown: su cham lai, su lam cham lai
 slowly: cham, cham cham
@@ -46171,7 +45583,6 @@ slugger: (tu My,nghia My),  (thong tuc) vo si nha nghe
 sluggish: cham chap; ue oai, lo do, lo pho
 sluggishness: tinh cham chap; tinh ue oai, tinh lo do, tinh lo pho
 sluice: cua cong, cong
-sluice-gate: slu:svælv/
 sluice-way: kenh dao ((cung) sluice)
 sluit: kenh dao hep (o Nam phi)
 slum: phan khong nhon (cua dau song)
@@ -46185,7 +45596,6 @@ slummer: nguoi di tim hieu tinh hinh sinh hoat o cac khu o chuot
 slummock: (thong tuc) ngon, an ngau nghien, nuot chung
 slump: su ha gia nhanh, su sut gia bat thinh linh
 slung: (tu My,nghia My) ruou manh pha duong va nuoc nong
-slunk: slur /slə:/
 slurry: ho xi mang
 slush: bun loang
 slush: quy ban mo thua, quy ban mo bo di (de lam quy tiet kiem hay mua sam cac thu lat vat cho thuy thu tren tau)
@@ -46286,7 +45696,6 @@ smoke-house: noi hun khoi, noi say khoi (ca, thit...)
 smoke-jack: lo quay (thit) bang hoi nong
 smoke-plant: smouktri:/
 smoke-rocket: phao khoi (ban vao ong dan nuoc, dan dau... de tim cho ro)
-smoke-room: smoukiɳ'rum/
 smoke-screen: (quan su),  (hang hai) man khoi, man hoa mu
 smoke-stack: ong khoi (tren tau)
 smoke-tree: smouktri:/
@@ -46297,12 +45706,9 @@ smokeless: (quan su) thuoc sung khong khoi
 smokelessness: su khong co khoi
 smoker: nguoi hut thuoc, nguoi nghien thuoc
 smokiness: su day khoi, tinh trang khoi mu; tinh trang am khoi
-smoking-car: smoukiɳ,kɑ:/
-smoking-carriage: smoukiɳ,kɑ:/
 smoking-concert: buoi hoa nhac duoc phep hut thuoc ((cung) smoker)
 smoking-jacket: ao khoac ngoai mac o phong hut thuoc (cho khoi am khoi thuoc vao quan ao trong)
 smoking-mixture: thuoc la roi tron
-smoking-room: smoukiɳ'rum/
 smoko: gio nghi de hut thuoc (o Uc va Tan tay lan)
 smoky: toa khoi, day khoi
 smolder: su chay am i
@@ -46313,7 +45719,6 @@ smooth-shaven: cao nhan
 smoothfaced: co mat cao nhan
 moothing: ban la
 smoothness: su phang phiu, su muot ma, su binh lang
-smoothspoken: smu:ðtʌɳd/
 smorzando: (am nhac) lang dan
 smote: (thong tuc) cai danh cai dap
 smother: lua am i; su chay am i
@@ -46332,8 +45737,6 @@ smutchy: ban, do, nhem nhuoc
 smuttiness: su do day, su ban thiu
 smutty: co vet ban, co vet nho noi
 snack: bua an voi vang, bua an qua loa; bua qua; chut thuc an, chut ruou
-snack-bar: snæk,kauntə/
-snack-counter: snæk,kauntə/
 snaffle: cuong ngua khong co day cam
 snafu: (quan su),  (tu long) hon loan, loan xa
 snag: chan rang gay
@@ -46359,10 +45762,6 @@ snakiness: su doc ac, su nanh ac, su quy quyet, su tham hiem, su nham hiem; su b
 snaky: nhieu ran
 snap: su can (cho), su tap, su dop
 snap: phat sung ban khong can ngam, phat sung ban vay
-snap-bolt: snæplɔk/
-snap-hook: snæpliɳk/
-snap-link: snæpliɳk/
-snap-lock: snæplɔk/
 snap-roll: (hang khong) dong tac lon vong (quanh truc doc cua may bay trong khi van bay)
 snapback: (the duc,the thao) su chuyen lui, su da ve (bong da)
 snapdragon: (thuc vat hoc) cay hoa mom cho
@@ -46492,12 +45891,10 @@ snuff: hoa den
 snuff-and-butter: co da banh mat
 snuff-box: hop dung thuoc (la) hit
 snuff-coloured: co mau nau vang dam
-snuff-dish: snʌfətrei/
 snuff-mill: coi nghien thuoc hit
 snuff-taker: nguoi hit thuoc
 snuff-taking: su hit thuoc
 snuffer: nguoi nghien thuoc hit
-snuffer-tray: snʌfətrei/
 snuffers: keo cat hoa den ((cung) a pair of snuffers)
 snuffiness: tinh chat giong thuoc hit
 snuffingly: voi giong mui, bang giong mui
@@ -46625,7 +46022,6 @@ soil-pipe: ong dan nuoc phan (trong ho tieu)
 soilage: co tuoi (lam thuc an cho vat nuoi)
 soilless: sach, khong co vet ban
 soiree: buoi da hoi
-soja: sɔiəbi:n/
 sojourn: su o lai it lau, su o lai it bua
 sojourner: nguoi luu lai, nguoi tam tru
 soke: quyen tai phan
@@ -46676,15 +46072,12 @@ solicitor: co van phap luat
 solicitous: ham muon, uoc ao
 solicitude: su ham muon, su uoc ao
 solid: ran, dac
-solid-hoofed: səlid'hu:ft/ (solidungulate) 
 solidarity: su doan ket; su lien ket
 solidary: doan ket, lien ket
 solidifiable: co the lam dac lai, co the ran lai; co the lam dong dac
 solidification: su dac lai, su ran lai; su dong dac
 solidify: lam cho dac lai, lam cho ran lai; lam cho dong dac
 solidity: su vung chac, su ran chac, su kien co
-solidungular: səlid'hu:ft/ (solidungulate) 
-solidungulate: səlid'hu:ft/ (solidungulate) 
 solifidian: (ton giao) nguoi theo thuyet duy tin
 soliloquist: nguoi noi mot minh
 soliloquize: noi mot minh
@@ -46878,7 +46271,6 @@ souchong: che tieu chung (mot loai che den Trung quoc)
 souffle: (y hoc) tieng thoi
 souffle: mon xufle (trung ran phong)
 sough: tieng ri rao, tieng xao xac, tieng vi vu (gio)
-sought: ɔ:t/
 sought-after: duoc san don, duoc ua thich
 soul: linh hon
 soul-destroying: lam huy hoai tam hon
@@ -46892,7 +46284,6 @@ sound: khoe manh, trang kien, lanh manh
 sound: am thanh gia tao (bat chuoc tieng sam, o to chay, cu danh... de quay phim, dien kich...)
 sound: (tu My,nghia My),  (radio), (truyen hinh) nguoi tao am (phu trach tao am gia de quay phim, dien kich...)
 sound-absorbing: (vat ly) hut thu am, hut am thanh
-sound-board: saundiɳbɔ:d/
 sound-box: hop tang am (o may hat, co cam kim de quay tren dia hat)
 sound-camera: may quay phim noi
 sound-damping: khong keu
@@ -46905,7 +46296,6 @@ sound-wave: song am
 sounder: may phat am
 sounding: nghe keu, keu
 sounding-balloon: (khi tuong) khi cau tham do
-sounding-board: saundiɳbɔ:d/
 sounding-line: day do sau
 sounding-machine: may do
 sounding-pipe: ong do
@@ -46979,8 +46369,6 @@ sown: gieo
 sox: (tu My,nghia My) bit tat
 soy: tuong, nuoc tuong
 soy-bean: (tu hiem,nghia hiem) (nhu) soya
-soya: sɔiəbi:n/
-soya-bean: sɔiəbi:n/
 sozzled: (tu long) say bi ti
 spa: suoi khoang
 spa-water: nuoc suoi khoang
@@ -47060,8 +46448,6 @@ spark: tia lua, tia sang; tan lua
 spark-arrester: cai chan tan lua
 spark-coil: (dien hoc) cuon cam ung
 spark-gap: (ky thuat) khoang danh lua
-spark-plug: spɑ:kplʌg/
-sparking-plug: spɑ:kplʌg/
 sparkish: trai lo, hay tan gai
 sparkle: su lap lanh, su long lanh; anh lap lanh
 sparkler: kim cuong lap lanh
@@ -47199,7 +46585,6 @@ speed-limit: toc do cao nhat, toc do toi da (quy dinh)
 speed-merchant: nguoi thich lai o to that nhanh
 speed-reducer: (ky thuat) bo giam toc
 speed-up: su tang toc do
-speed-up: swetiɳ'sistim/
 speeder: (ky thuat) bo dieu toc
 speediness: tinh mau le; su nhanh chong, su chong vanh
 speeding: su lai xe qua toc do quy dinh
@@ -47314,7 +46699,6 @@ spidery: (nhu) spiderlike
 spiegel: gang kinh
 spiegeleisen: gang kinh
 spiel: (tu long) bai dien van, bai noi
-spier: spaiə/
 spifflicate: (tu long) danh nhu tu
 spifflication: (tu long) su danh nhu tu
 spiffy: (tu My,nghia My),  (tu long) lam thich mat, lam vui mat
@@ -47491,9 +46875,7 @@ split: (ky thuat) chot che
 split: vong moc chia khoa
 splitter: nguoi tach ra, nguoi chia re
 splittism: (chinh tri) chu nghi be phai, chu nghia chia re
-splodge: plɔdʤ/
 splosh: (thong tuc) luong nuoc do xuong, luong nuoc hat xuong
-splotch: plɔdʤ/
 splotchy: co vet ban, co dau (muc...)
 splurge: (tu long) su pho truong ram ro; su loe nguoi; su co gang de pho truong
 splutter: su thoi phi phi, su thoi phu phu
@@ -47637,8 +47019,6 @@ spread: hinh dai bang giang canh (quoc huy My)
 spread-eagle: co hinh con dai bang giang canh
 spread-eagleism: tinh huenh hoang khoac lac
 spreader: nguoi trai ra, nguoi cang (vai...)
-spreader-over: spredouvə'sistim/
-spreader-over: spredouvə'sistim/
 spree: cuoc vui choi miet mai; su che chen lu bu, su an uong lu bu
 sprig: canh con; choi
 spriggy: co nhieu canh con
@@ -47657,7 +47037,6 @@ spring-board: van nhun, van dan (lam xiec; o be boi...)
 spring-carriage: toa xe co nhip
 spring-clean: quet don (nha cua) vao mua xuan
 spring-cleaning: su quet don nha cua vao mua xuan
-spring-halt: spriɳhɔ:lt/
 springal: (tu co,nghia co) thieu nien
 springald: (tu co,nghia co) thieu nien
 springbok: (dong vat hoc) linh duong Nam phi
@@ -47708,10 +47087,8 @@ spunge: (tu co,nghia co) (nhu) sponge
 spunk: (thong tuc) su gan da
 spunky: gan da
 spur: dinh thuc ngua
-spur: spə:'wi:li/
 spur: (nganh duong sat) duong nhanh, duong phu
 spur: (nganh duong sat) duong nhanh, duong phu
-spur-wheel: spə:'wi:li/
 spurge: (thuc vat hoc) giong cay dai kich
 spurious: gia, gia mao
 spuriousness: tinh gia mao
@@ -47726,7 +47103,6 @@ sputter: su thoi phi phi, su thoi phu phu
 sputterer: nguoi thoi phi phi
 sputtering: thoi phi phi, thoi phu phu
 sputum: nuoc bot nuoc dai
-spy: spaiə/
 spyglass: kinh thien van nho
 spyhole: khe nhom
 squab: nguoi beo lun
@@ -47831,10 +47207,8 @@ stabilization: su lam cho vung vang, su lam cho on dinh; su vung vang, su on din
 stabilize: lam cho vung vang; lam on dinh
 stabilizer: may on dinh, bo on dinh; chat on dinh; chat on dinh
 stable: vung vang; on dinh
-stable-boy: steiblmən/
 stable-call: (quan su) hieu lenh don chuong ngua va tam cho ngua
 stable-companion: ngua cung chuong
-stable-man: steiblmən/
 stableness: tinh vung vang; tinh on dinh
 stabling: su nuoi ngua (trong chuong)
 stablish: (tu co,nghia co) (nhu) establish
@@ -48094,12 +47468,10 @@ stave-rhyme: su lay phu am (tho)
 staves: gay, ba toong
 stay: (hang hai) day neo (cot buom...)
 stay-at-home: thuong o nha, hay o nha, ru ru xo nha
-stay-bar: steirɔd/
 stay-down: bai cong ngoi, dinh cong ngoi
 stay-in: cuoc bai cong tai cho, cuoc dinh cong tai cho
 stay-lace: dang ten yem nit
 stay-maker: nguoi may yem nit
-stay-rod: steirɔd/
 stayer: nguoi ru ru xo nha
 staying: suc chiu dung, suc deo dai
 stayless: khong mac yem nit
@@ -48128,8 +47500,6 @@ steam: may dao; may xuc
 steam: coi hoi
 steam: (ky thuat) toi hoi
 steam-boiler: noi hoi
-steam-box: sti:mtʃest/
-steam-chest: sti:mtʃest/
 steam-coal: than dot noi hoi
 steam-colour: mau in (vao vai) bang hoi
 steam-cylinder: Xylanh may hoi nuoc
@@ -48171,7 +47541,6 @@ steeliness: su ran nhu thep
 steelwork: do dung bang thep
 steely: lam bang thep
 steelyard: cai can doc
-steenbok: stoumbʌk/
 steening: thanh gieng bang da
 steenkirk: (su hoc) cai ca vat
 steep: doc
@@ -48298,8 +47667,6 @@ sternness: tinh nghiem nghi, tinh khiem khac
 sternoclavicular: (giai phau) (thuoc) uc don
 sternum: (giai phau) xuong uc
 sternutation: su hat hoi
-sternutative: tə'nju:tətiv/
-sternutatory: tə'nju:tətiv/
 sternward: (hang hai) o phia cuoi tau
 sternwards: (hang hai) ve phia cuoi tau
 stertorous: (y hoc) rong (tieng tho)
@@ -48312,8 +47679,6 @@ stethoscopy: (y hoc) phep nghe benh
 stetson: mu xtetxon, mu vanh to
 stevedore: cong nhan boc do
 stew: (tu co,nghia co) nha tho ((thuong) the stews)
-stew-pan: stju:pɔt/
-stew-pot: stju:pɔt/
 steward: nguoi quan ly, quan gia
 stewardess: co lam phong (tren tau thuy), co phuc vu (tren may bay)
 stewardship: cuong vi quan ly, cuong vi quan gia
@@ -48328,9 +47693,7 @@ stick-up: (tu My,nghia My),  (tu long) su an cuop
 stick-up: co cung
 sticker: nguoi choc; dao choc (tiet lon...)
 stickiness: tinh chat dinh; su dinh; tinh bay nhay, tinh nhop nhap
-sticking-place: stikiɳpɔint/
 sticking-plaster: bang dinh
-sticking-point: stikiɳpɔint/
 stickit: (E-cot) stickit minister nguoi tot nghiep khong duoc bo nhiem chuc muc su
 stickjaw: (tu long) keo mem; keo sua; keo caramen (dinh rang)
 stickle: (tu My,nghia My) nang nac phan doi; gay kho khan mot cach ngoan co (ve nhung viec khong dang ke)
@@ -48366,15 +47729,12 @@ still: (hoi hoa) tinh vat
 still-born: chet o trong bung me, chet luc de
 still-fish: cau ca tren thuyen bo neo
 still-hunt: san len, duoi len
-still-walker: stilt,plʌvə/ (still-walker) 
 stillage: ghe (gia) ke do dac
 stilling: gia ke thung ruou
 stillion: gia ke thung ruou
 stillness: su yen lang, su yen tinh, su tinh mich
 stilly: (tho ca) yen lang, yen tinh, tinh mich
 stilt: ca kheo
-stilt-bird: stilt,plʌvə/ (still-walker) 
-stilt-plover: stilt,plʌvə/ (still-walker) 
 stilted: di ca kheo
 stiltedly: khoa truong keu ma rong
 stiltedness: tinh khoa truong (van)
@@ -48453,8 +47813,6 @@ stock: giay chung nhan co co phan
 stock: ganh hat nghiep du
 stock: so giao dich chung khoan
 stock: khoa nop (bat vao cua)
-stock-account: stɔkbuk/
-stock-book: stɔkbuk/
 stock-breeder: nguoi lam nghe chan nuoi
 stock-broking: su mua ban co phan chung khoan
 stock-car: toa suc vat; xe cho suc vat
@@ -48524,15 +47882,11 @@ stone: da
 stone: thoi ky do da
 stone: dai ky niem (lam bang da tho)
 stone: (dong vat hoc) chon bac uc (o nam chau Au)
-stone's: stounkɑ:st/ (stone's_throw) 
-stone's: stounkɑ:st/ (stone's_throw) 
 stone-axe: bua deo da
 stone-beraker: may dap da
 stone-blind: hoan toan mu, mu tit
 stone-break: stounbreik/
 stone-broke: stounibrouk/
-stone-buck: stoumbʌk/
-stone-cast: stounkɑ:st/ (stone's_throw) 
 stone-coal: Antraxit
 stone-cold: lanh nhu da
 stone-cutter: nguoi deo da
@@ -48569,9 +47923,7 @@ stoop-shouldered: gu lung tom (nguoi)
 stoopingly: trong tu the cui rap xuong
 stop: su ngung lai, su dung, su do lai
 stop-light: den do, tin hieu ngung lai
-stop-off: stɔp,ouvə/
 stop-order: lenh mua (ban) chung khoan (cho nguoi mua (ban) chung khoan khi da dat gia quy dinh)
-stop-over: stɔp,ouvə/
 stop-press: gio chot, cuoi cung (tin)
 stop-valve: (ky thuat) van khoa
 stop-watch: dong ho bam gio (chay dua)
@@ -48597,15 +47949,11 @@ storiette: cau chuyen nho, truyen rat ngan
 stork: (dong vat hoc) con co
 storm: dong to, con bao
 storm-beaten: bi ta toi vi bao tap
-storm-belt: stɔ:mzoun/
-storm-bird: stɔ:m,petrəl/ (storm-bird) 
 storm-centre: trung tam bao
 storm-cloud: may mua day dac
 storm-cone: hieu bao bao
 storm-door: cua bao ve (de phong mua to gio lon)
-storm-finch: stɔ:m,petrəl/ (storm-bird) 
 storm-glass: ong xem thoi tiet
-storm-petrel: stɔ:m,petrəl/ (storm-bird) 
 storm-proof: chong duoc bao
 storm-sail: (hang hai) buom di bao
 storm-signal: hieu bao bao
@@ -48613,14 +47961,12 @@ storm-tossed: bi gio bao xo day
 storm-trooper: quan xung kich (trong luc luong xung kich cua Duc quoc xa)
 storm-troops: quan xung kich
 storm-wind: gio bao
-storm-zone: stɔ:mzoun/
 stormbound: khong di duoc vi bao (tau, thuyen...)
 stormer: chien si dot pha, chien si xung kich
 storminess: tinh manh liet nhu bao to
 storming-party: (quan su) doi quan dot pha, doi quan xung kich
 stormless: khong co bao
 stormy: manh liet nhu bao to
-stormy: stɔ:m,petrəl/ (storm-bird) 
 storting: quoc hoi Na-uy
 story: chuyen, cau chuyen
 story-book: sach truyen; quyen truyen
@@ -48818,7 +48164,6 @@ string: (am nhac) bo tu dan day
 string-bag: tui luoi
 string-bean: (thuc vat hoc) cay dau tay
 string-board: van canh (hai ben cau thang)
-string-halt: spriɳhɔ:lt/
 string-tie: ca vat nho ban
 stringed: co day (dan)
 stringency: tinh chinh xac, tinh nghiem ngat, tinh chat che
@@ -48904,7 +48249,6 @@ stud: trai nuoi ngua
 stud-book: so ghi ly lich ngua
 stud-horse: ngua giong
 studding: khung go (cua vach nha)
-studding-sail: stʌnsl/ (stuns'l) 
 student: hoc sinh dai hoc, sinh vien
 student: nhan vien tap su ngach lanh su (cua Anh o cac nuoc Can dong)
 student: den doc sach
@@ -48939,8 +48283,6 @@ stung: ngoi, voi (ong, muoi); rang doc (ran)
 stunk: mui hoi thoi
 stunner: (tu long) nguoi cu khoi, nguoi rat thu vi
 stunning: lam choang vang, lam bat tinh nhan su
-stuns'l: stʌnsl/ (stuns'l) 
-stunsail: stʌnsl/ (stuns'l) 
 stunt: (tu My,nghia My) su lam can coi, su lam coi coc
 stunt: (dien anh) nguoi dong the (cho vai chinh) nhung canh nguy hiem
 stupe: (tu long) nguoi dien, nguoi khu kho
@@ -49368,7 +48710,6 @@ suffusion: su tran, su chay lan ra
 sufi: ong dong, co hon (dao Hoi)
 sufism: dao xufi
 sugar: duong
-sugar-basin: ʃugəboul/
 sugar-beet: cu cai duong
 sugar-bird: (dong vat hoc) chim hut mat, chim ba trau
 sugar-candy: duong phen
@@ -49453,14 +48794,12 @@ summation: (toan hoc) su tong; phep tong
 summer: (kien truc) cai ram ((cung) summer-tree)
 summer: lop he (o dai hoc)
 summer-house: nha ngoi hong mat (o trong vuon)
-summer-time: sʌmətaim/
 summer-tree: (kien truc) cai ram ((cung) summer)
 summerless: khong co mua he
 summerlike: (thuoc) mua he; nhu mua he
 summerly: (thuoc) mua he; nhu mua he
 summersault: su nhay lon nhao
 summerset: su nhay lon nhao
-summertime: sʌmətaim/
 summery: (thuoc) mua he; nhu mua he
 summing-up: su tong ket, su thau tom
 summit: dinh, chom, chop
@@ -49491,14 +48830,10 @@ sun-dog: (thien van hoc) mat troi gia, ao nhat
 sun-dried: phoi kho ngoai nang
 sun-glasses: kinh ram
 sun-god: than mat troi
-sun-hat: sʌn'helmit/
-sun-helmet: sʌn'helmit/
 sun-lamp: (y hoc) den cuc tim
 sun-myth: chuyen than thoai ve mat troi
 sun-parlor: (tu My,nghia My) (nhu) sun-parlour
-sun-parlour: sʌnrum/
 sun-rays: (y hoc) tia cuc tim (de chua benh)
-sun-room: sʌnrum/
 sun-side: trang lap la (trung)
 sun-spot: vet mat troi (vet den o be mat mat troi)
 sun-stone: da mat troi,  heliolit
@@ -49879,14 +49214,11 @@ svelte: manh khanh, manh de (nguoi)
 swab: gie lau san
 swabber: nguoi vung ve, nguoi hau dau
 swaddle: boc bang ta, quan bang ta
-swaddling-clothes: swɔdliɳbændz/
 swadeshi: phong trao bai tru hang ngoai (An do)
 swag: (tu long) cua an cap, cua an cuop, cua phi nghia
 swag-bellied: phe bung
 swage: (ky thuat) khuon rap, khuon ep
 swagger: dang dieu nghenh ngang; thai do nghenh ngang; ve venh vao
-swagger-cane: swægəstik/
-swagger-stick: swægəstik/
 swaggerer: nguoi di nghenh nang; nguoi venh vao
 swaggeringly: nghenh ngang; venh vao
 swain: anh thanh nien nong thon cuc mich
@@ -49922,8 +49254,6 @@ sward: bai co
 swarded: co nhieu cum co
 swarf: vo bao; mat cua (go); phoi bao, mat giu (kim loai)
 swarm: dan, dam, bay
-swarm-cell: swɔ:mspɔ:/
-swarm-spore: swɔ:mspɔ:/
 swart: (tu co,nghia co) ngam ngam den (da...)
 swarthiness: mau ngam den (da)
 swarthy: ngam den (da)
@@ -49955,7 +49285,6 @@ sweated: co mo hoi, day mo hoi, bi ban vi mo hoi
 sweater: nguoi ra nhieu mo hoi
 sweater: (tu long) co gai co bo ngua no nang
 sweater-gland: (giai phau) tuyen mo hoi
-sweating: swetiɳ'sistim/
 sweating-bath: su xong (cho ra mo hoi)
 sweating-iron: que gat mo hoi cho ngua
 sweating-room: buong tam hoi nuoc (theo loi Tho nhi ky)
@@ -49976,8 +49305,6 @@ sweet: ngot
 sweet: (thuc vat hoc) cay dau thom (cung loai voi dau ruou, co la thom)
 sweet: dau oliu
 sweet: (thuc vat hoc) cay dau hoa
-sweet-briar: swi:t'braiə/
-sweet-brier: swi:t'braiə/
 sweet-root: cam thao
 sweet-scented: thom, co mui thom
 sweet-sop: (thuc vat hoc) cay na
@@ -50022,12 +49349,10 @@ swim: su boi loi
 swim: bo quan ao boi
 swimmer: nguoi boi; con vat boi
 swimming: su boi
-swimming-bath: swimiɳbɑ:θ/
 swimming-belt: phao boi
 swimming-bladder: bong bong (ca)
 swimming-hole: vung sau de boi, cho (ao, ho, song...) sau de boi
 swimming-match: cuoc boi thi
-swimming-pool: swimiɳbɑ:θ/
 swimmingly: thuan buom xuoi gio, thong dong ben giot
 swindle: su lua dao, su bip bom
 swindler: ke lua dao
@@ -50066,10 +49391,8 @@ swiss: (thuoc) Thuy si
 switch: canh cay mem; gay mem
 switch-bar: (nganh duong sat) cot ghi (xe lua)
 switch-lever: (nganh duong sat) tay be ghi
-switch-man: switʃ'tendə/
 switch-over: su chuyen sang (mot cai gi...)
 switch-plug: (dien hoc) cai phit
-switch-tender: switʃ'tendə/
 switchback: duong xe lua hinh chu chi (o nhung cho doc)
 switchboard: tong dai
 swither: (E-cot) su nghi ngo; su phan van, su luong lu
@@ -50094,7 +49417,6 @@ sword-arm: tay phai
 sword-bayonet: kiem ngan
 sword-belt: dai deo guom
 sword-bill: (dong vat hoc) chim mo kiem
-sword-cane: sɔ:dstik/
 sword-cut: vet guom chem, seo guom chem
 sword-dance: dieu mua kiem
 sword-fish: (dong vat hoc) ca mui kiem
@@ -50105,7 +49427,6 @@ sword-law: quan quyen
 sword-lily: (thuc vat hoc) cay hoa lay on
 sword-play: thuat danh kiem
 sword-proof: guom dam khong thung
-sword-stick: sɔ:dstik/
 swordless: khong mang kiem
 swordsman: nha kiem thuat
 swordsmanship: kiem thuat, thuat danh kiem
@@ -50305,7 +49626,6 @@ systyle: (kien truc) co hang cot gan nhau
 systylous: (thuc vat hoc) hop voi (hoa)
 syzygy: (thien van hoc) ngay soc vong
 t: T,  t
-t'other: t-shirt /'ti:ʃə:t/ (tee-shirt) /'ti:ʃə:t/
 ta: khuan (thong tuc) cam on!
 ta-ta: buay gioac
 tab: tai, dau, vat, dai (dinh vao mot vat gi)
@@ -50323,10 +49643,8 @@ table-cloth: khan trai ban
 table-companion: ban cung mam, nguoi cung an
 table-cover: khan trai ban
 table-diamond: hot xoan cat bang mat
-table-flap: teiblflæp/
 table-fork: cai nia
 table-knife: dao an
-table-leaf: teiblflæp/
 table-linen: khan ban khan an (noi chung)
 table-spoon: thia xup
 table-spoonful: thia xup (day)
@@ -50391,8 +49709,6 @@ tail-board: van chan hau (xe bo...)
 tail-coat: ao duoi tom
 tail-end: duoi, doan cuoi (dam ruoc, bai noi...)
 tail-gate: cua duoi (cua cong)
-tail-lamp: teillæmp/
-tail-light: teillæmp/
 tail-skid: (hang khong) cai chong hau (may bay)
 tail-spin: (hang khong) su quay vong ha canh
 tail-wind: (hang khong) gio xuoi
@@ -50427,10 +49743,6 @@ talcose: co chua chat tan
 talcum: (khoang chat) da tan
 talcum: bot tan (de xoa)
 tale: truyen, truyen ngan
-tale-bearer: teil,telə/
-tale-bearing: teil,teliɳ/
-tale-teller: teil,telə/
-tale-telling: teil,teliɳ/
 talent: tai, tai ba, tai nang, tai can
 talent: tien thuong cho nguoi choi (bong da...) xuat sac
 talent-scout: (dien anh) nguoi phat hien ra dien vien uu tu
@@ -50489,7 +49801,6 @@ tampion: nut mieng sung
 tampon: don toc gia
 tamtam: cai trong com
 tan: vo da, vo thuoc da
-tan-house: tænhaus/
 tana: (Anh-An) don linh
 tandem: xe hai ngua thang con truoc con sau
 tang: chuoi (dao...)
@@ -50519,7 +49830,6 @@ tankful: thung (day), be (day) (nuoc, dau...)
 tankman: chien si lai xe tang
 tanna: (Anh-An) don linh
 tanner: tho thuoc da
-tannery: tænhaus/
 tannic: (hoa hoc) Tanic
 tannin: (hoa hoc) Tanin
 tanning: su thuoc da
@@ -50540,10 +49850,6 @@ tap-borer: cai khoan lo thung
 tap-dancing: dieu nhay clacket
 tap-root: (thuc vat hoc) re cai
 tape: day, dai (de goi, buoc, vien)
-tape-line: teip,meʤə/
-tape-machine: teipmə,ʃi:n/
-tape-measure: teip,meʤə/
-tape-recorder: teipmə,ʃi:n/
 tape-recording: su ghi tren may ghi am
 taper: cay nen nho
 tapering: thon thon, bop nhon, bup mang
@@ -50657,11 +49963,9 @@ tawery: nghe thuoc da trang
 tawniness: mau hung hung
 tawny: hung hung
 tax: thue, cuoc
-tax-collector: tæks,geðərə/
 tax-dodger: nguoi tron thue
 tax-farmer: nguoi thau thue
 tax-free: mien thue
-tax-gatherer: tæks,geðərə/
 tax-hike: (tu My,nghia My) su tang thue
 taxability: tinh chat co the danh thue duoc
 taxable: co the danh thue duoc
@@ -50669,8 +49973,6 @@ taxation: su danh thue
 taxi: xe tac xi
 taxi-cab: xe tac xi
 taxi-dancer: (tu My,nghia My) gai nhay (o cac tiem nhay)
-taxi-driver: tæksimən/
-taxi-man: tæksimən/
 taxi-rank: ben xe tac xi
 taxi-stand: (tu My,nghia My) (nhu) taxi-rank
 taxidermal: (thuoc) khoa nhoi xac dong vat
@@ -50698,8 +50000,6 @@ tea-house: phong tra, quan tra
 tea-kettle: am nau nuoc pha tra
 tea-leaf: la che
 tea-party: tiec tra ((thong tuc) tea-fight)
-tea-service: ti:,sə:vis/
-tea-set: ti:,sə:vis/
 tea-spoon: thia uong tra
 tea-table: ban tra
 tea-things: (nhu) tea-set
@@ -50764,7 +50064,6 @@ tedious: chan ngat, te, nhat nheo, thieu hap dan, lam buon te
 tediousness: tinh chan ngat, tinh te, tinh nhat nheo, tinh thieu hap dan
 tedium: tinh chan ngat, tinh te, tinh nhat nheo, tinh thieu hap dan
 tee: chu T
-tee-shirt: ti:ʃə:t/
 teem: co nhieu, co doi dao, day
 teemful: day, day u, nhieu, thua thai, doi dao; dong duc, luc nhuc
 teeming: day, day u, thua thai, doi dao; dong duc, luc nhuc
@@ -51172,7 +50471,6 @@ therapeutist: thay thuoc noi khoa
 therapy: (y hoc) phep chua benh
 theratron: bom coban
 there: o do, tai do, cho do, cho ay, day
-there's: thereabout /'ðeərəbaut/ (thereabouts) /'ðeərəbauts/
 thereabouts: gan do, quanh do, o vung lan can
 thereafter: sau do, ve sau
 thereat: (tu co,nghia co) o cho do, tai cho ay
@@ -51238,12 +50536,8 @@ thewless: khong co bap thit; khong co gan cot
 thews: co, bat thit; gan
 thewy: luc luong
 they: chung no, chung, ho
-they'd: they'll /ðeil/
-they're: thick /θik/
 thick-headed: dan don
 thick-skinned: co da day
-thick-skulled: θik'witid/
-thick-witted: θik'witid/
 thicken: lam cho day, lam cho day dac, lam cho sit
 thickening: su day dac
 thicket: bui cay
@@ -51261,8 +50555,6 @@ thievishness: tinh hay trom cap
 thigh: bap dui, bap ve
 thigh-bone: xuong dui
 thill: cang xe, gong xe
-thill-horse: θilhɔ:s/
-thiller: θilhɔ:s/
 thimble: cai de (dung de khau tay)
 thimbleful: hop, ngum
 thimblerig: tro bai tay
@@ -51322,7 +50614,6 @@ thoroughness: tinh hoan toan, tinh hoan hao
 thoroughpaced: hay (ngua)
 thorp: (tu co,nghia co) thon, xom
 thorpe: (tu co,nghia co) thon, xom
-those: thou /ðau/
 though: du, du cho, mac du, dau cho
 thought:  danh tu
 thoughtful: ngam nghi, tram tu, tu lu
@@ -51494,9 +50785,7 @@ tiff: (thong tuc) su bat hoa, su xich mich
 tiffany: (nghanh det) the, sa
 tiffin: (Anh-An) bua an trua
 tiger: ho, cop
-tiger's-eye: taigəz'ai/
 tiger-cat: (dong vat hoc) meo rung
-tiger-eye: taigəz'ai/
 tigerish: (thuoc) ho, (thuoc) cop; nhu ho, nhu cop
 tigerism: tinh hay nat no, tinh hung ho
 tight: kin, khong tham, khong ri
@@ -51516,8 +50805,6 @@ tike: con cho ca tang (cho loai xau)
 tilde: dau song (dung thay tu lap lai trong tu dien)
 tile: ngoi (de lop nha)
 tiler: tho lam ngoi
-tilery: tailəriwə:k/
-tilery-works: tailəriwə:k/
 tiling: su lop ngoi
 till: ngan keo de tien
 tillable: co the trong trot cay cay duoc (dat...)
@@ -51532,8 +50819,6 @@ tilting: su nghieng di
 timbal: (am nhac) trong dinh am
 timber: go lam nha, go kien truc, go
 timber-man: tho lam truong
-timber-toe: timbətouz/
-timber-toes: timbətouz/
 timber-yard: bai go
 timbre: (am nhac) am sac
 timbrel: (am nhac) trong provang
@@ -51547,13 +50832,9 @@ time-card: so ghi gio lam viec
 time-cleck: nguoi ghi gio lam viec
 time-clock: dong ho ghi gio lam viec
 time-expired: (quan su) man han
-time-honored: taim,ɔnəd/
-time-honoured: taim,ɔnəd/
 time-limit: han thoi gian nhat dinh (phai xong cong viec gi...)
 time-loan: mon tien vay phai tra vao mot thoi gian nhat dinh
 time-out: thoi gian khong tinh (trong mot tran dau bong da, bong ro... vi hoi y, vi ngung dau...)
-time-pleaser: taim,pli:zə/
-time-server: taim,pli:zə/
 time-serving: xu thoi, co hoi
 time-table: bang gio giac, bieu thoi gian
 time-tested: da duoc thoi gian thu thach
@@ -51584,7 +50865,6 @@ tin-bearing: co chua thiec
 tin-kettle: am thiec
 tin-opener: do mo hop
 tin-plate: sat tay
-tin-smith: tinsmiθ/
 tin-whistle: ong tieu; ong dich
 tinctorial: (thuoc) thuoc nhuom
 tincture: sac nhe, mau nhe
@@ -51601,14 +50881,12 @@ tinker: tho han noi
 tinkle: tieng leng keng (chuong...)
 tinkler: nguoi rung (chuong...)
 tinkling: tieng leng keng
-tinman: tinsmiθ/
 tinned: trang thiec
 tinner: cong nhan mo thiec
 tinning: su trang thiec
 tinnitus: (y hoc) su u tai
 tinny: giong nhu thiec
 tinsel: kim tuyen
-tinsman: tinsmiθ/
 tint: mau nhe, mau sac
 tintinnabulation: tieng keu leng keng (chuong)
 tintometer: (ky thuat) cai do mau
@@ -51682,8 +50960,6 @@ to: den, toi, ve
 to-be: tuong lai
 to-come: tuong lai
 to-do: su huyen nao, su om som, su om toi, su nhang xi
-to-morrow: ə'mɔrou/
-to-night: ə'nait/
 toad: con coc
 toad-eater: ke bo do
 toad-eating: su bo do
@@ -51707,8 +50983,6 @@ tobacco-pouch: tui dung thuoc la
 tobacco-stopper: cai de nhoi thuoc (vao tau)
 tobacconist: nguoi ban thuoc la
 toboggan: xe truot bang
-toboggan-shoot: ə'bɔgənʃu:t/
-toboggan-slide: ə'bɔgənʃu:t/
 tobogganer: nguoi di xe truot bang
 tobogganist: nguoi di xe truot bang
 toby: binh dung bia hinh con lat dat
@@ -51745,8 +51019,6 @@ toiler: nguoi lao dong, nguoi lam viec vat va va cuc nhoc
 toilet: su trang diem
 toilet-paper: giay ve sinh
 toilet-powder: phan xoa sau khi rua ray
-toilet-service: tɔilit,sə:vis/
-toilet-set: tɔilit,sə:vis/
 toilet-table: ban phan, ban trang diem
 toiling: su lao dong; su lam viec vat va, su cuc nhoc, su kho nhoc
 toilless: nhe nhang, de dang
@@ -51756,8 +51028,6 @@ tokay: ruou toke (Hung-ga-ri)
 toke: (tu long) thuc an
 token: dau hieu, bieu hien
 toko: (tu long) su danh dap, su trung phat
-tol-lol: tɔl'lɔliʃ/
-tol-lolish: tɔl'lɔliʃ/
 tolbooth: (E-cot) (tu co,nghia co) nha tu, nha giam
 told: noi, noi voi, noi len, noi ra
 tolerable: co the tha thu duoc
@@ -51798,7 +51068,6 @@ tommy-bar: (ky thuat) tay gat
 tommy-gun: sung tieu lien
 tommy-shop: phong phat luong (o nha may, thuong tra luong thuc thay tien)
 tomnoddy: thang ngoc, thang dan
-tomorrow: ə'mɔrou/
 tompion: nut mieng sung
 tomtom: cai trong com
 ton: tan
@@ -51814,7 +51083,6 @@ tongue-tie: (y hoc) tat liu luoi
 tongue-tied: mac tat liu luoi
 tonic: (thuoc) am; (am nhac) (thuoc) am chu
 tonicity: tinh chat bo (cua mot chat, mot vi thuoc); tinh lam cho cuong
-tonight: ə'nait/
 tonk: (tu long) danh thang de dang (nguoi nao)
 tonnage: trong tai (cua tau thuyen)
 tonometer: (am nhac) thanh mau
@@ -51847,7 +51115,6 @@ top: mu chop cao
 top: toi mat
 top-boot: giay ong
 top-coat: ao banh to, ao choang
-top-drawer: top-dress /'tɔp'dres/
 top-dressing: phan de rai len mat ruong; su rai phan len mat ruong
 top-flight: (tu My,nghia My),  (thong tuc) hang nhat
 top-heaviness: tinh chat nang dau (dau nang dit nhe)
@@ -51911,8 +51178,6 @@ tornadic: (thuoc) bao tap; nhu bao tap
 tornado: bao tap
 torpedo: (dong vat hoc) ca duoi dien
 torpedo-boat: tau phong ngu loi ((cung) motor_torpedo-boat)
-torpedo-net: ɔ:'pi:dou,netiɳ/
-torpedo-netting: ɔ:'pi:dou,netiɳ/
 torpedo-plane: may bay cho ngu loi; may bay bay phong ngu loi
 torpedo-tube: ong phong ngu loi
 torpid: tri don, me mu; luoi bieng, bo tho
@@ -51944,7 +51209,6 @@ tortile: xe, van, xoan
 tortilla: banh mi ngo (o Me-hi-co)
 tortious: (phap ly) sai lam; co hai
 tortoise: (dong vat hoc) rua ((thuong) chi rua o can)
-tortoise-shell: tə:tlʃel/
 tortuosity: trang thai quanh co, trang thai khuc khuyu ((cung) tortuousness)
 tortuous: quanh co, khuc khuyu, uon khuc
 tortuousness: trang thai quanh co, trang thai khuc khuyu ((cung) tortuosity)
@@ -51972,7 +51236,6 @@ totemic: (thuoc) totem, (thuoc) vat to
 totemism: tin nguong totem
 totemist: nguoi tin nguong totem
 totemistic: (thuoc) tin nguong totem
-tother: totter /'tɔtə/
 tottering: lung lay, sap do
 tottery: lung lay, sap do
 toucan: (dong vat hoc) chim tucang
@@ -52005,25 +51268,18 @@ tourney: (su hoc) cuoc dau thuong tren ngua ((nhu) tournament)
 tourniquet: (y hoc) cai quay cam mau,  garo
 tousle: lam bu, lam roi (toc)
 tousy: bu xu, xom xoam
-tout: tautə/
-touter: tautə/
 tow: xo (lanh, gai)
 tow-boat: tau keo
-tow-line: touiɳlain/ (towing-rope) 
-tow-rope: touiɳlain/ (towing-rope) 
 towage: su dat, su lai, su keo (tau, thuyen, xe)
 toward: (tu co,nghia co) de bao, de day, ngoan
 towards: (tu co,nghia co) de bao, de day, ngoan
 towel: khan lau; khan tam
-towel-rack: tauəlræk/
 toweling: su lau bang khan, su cha xat bang khan
 towelling: su lau bang khan, su cha xat bang khan
 tower: thap
 towered: co thap
 towering: cao, cao ngat, cao vuot han len
 towery: co thap
-towing-line: touiɳlain/ (towing-rope) 
-towing-rope: touiɳlain/ (towing-rope) 
 town: thanh pho, thi xa
 town: thu ky toa thi chinh
 town: hoi dong thanh pho
@@ -52070,8 +51326,6 @@ trachyte: (khoang chat) Trachit
 tracing: su vach, su ke
 tracing-paper: giay can
 track: dau, vet
-track-and-field: trækənd'fi:ldæθ'letiks/
-track-and-field: trækənd'fi:ldæθ'letiks/
 trackage: su keo tau, su lai tau
 tracker: nguoi san thu; nguoi bat thu
 tracklayer: tho dat duong ray
@@ -52086,8 +51340,6 @@ traction-engine: may keo
 tractional: keo
 tractive: keo
 tractor: may keo
-tractor-driver: træktə,ɔpəreitə/
-tractor-operator: træktə,ɔpəreitə/
 trade: nghe, nghe nghiep
 trade: ten thuong nghiep
 trade: gia thanh pham; gia buon
@@ -52582,9 +51834,7 @@ trombonist: nguoi thoi trombon
 trommel: (nganh mo) sang quay, thung sang
 troop: doan, lu, dan, dam, bon, toan
 troop-horse: ngua cua ky binh
-troop-transport: tru:ptræns'pɔ:t/
 trooper: ky binh; linh don vi thiet giap
-troopship: tru:ptræns'pɔ:t/
 trope: (van hoc) phep chuyen nghia
 trophic: dinh duong
 trophy: vat ky niem chien cong, chien tich ((nghia den) & (nghia bong))
@@ -52627,7 +51877,6 @@ truckage: su cho bang xe ba gac
 trucker: (tu My,nghia My) nguoi trong rau (de ban)
 truckful: xe (day)
 truckle: (nhu) truckle-bed
-truckle-bed: trʌndl'bed/
 truckler: nguoi luon cui, nguoi xu phu
 truckman: (tu My,nghia My) nguoi trong rau (de ban)
 truculence: tinh tan bao, tinh tan nhan
@@ -52657,7 +51906,6 @@ truncated: chat cut, cat cut
 truncation: su chat cut, su cat cut
 truncheon: dui cui (cua canh sat)
 trundle: banh xe nho
-trundle-bed: trʌndl'bed/
 trunk: than (cay, cot, nguoi, thu)
 trunk: quan coc
 trunk: (su hoc) quan dui ((the ky) 16 17)
@@ -52700,8 +51948,6 @@ tsarism: che do Nga hoang
 tsarist: nguoi ung ho che do Nga hoang
 tsetse: (dong vat hoc) ruoi xexe
 tu:  Anh cung the ; anh cung lam the (cau dap lai)
-tu-whit: u'witʃ/
-tu-whoo: u'witʃ/
 tub: chau, bon
 tub-thumper: nha thuyet phap khoa truong; dien gia khoa truong rong tuech
 tuba: (am nhac) ken tuba
@@ -52731,8 +51977,6 @@ tubuliflorous: (thuc vat hoc) co hoa hinh ong
 tubulous: hinh ong
 tubulure: (hoa hoc) mieng de lap ong (o binh)
 tuck: nep gap len (o quan ao, de cho ngan bot)
-tuck-in: tʌk'aut/
-tuck-out: tʌk'aut/
 tuck-shop: cua hang banh keo
 tucker: khan choang (dan ba)
 tuesday: ngay thu ba (trong tuan)
@@ -52871,7 +52115,6 @@ turriculate: co xoan dai (oc)
 turriculated: co xoan dai (oc)
 turtle: (nhu) turtle-dove
 turtle-dove: (dong vat hoc) chim sen; chim gay
-turtle-shell: tə:tlʃel/
 turtler: nguoi cau rua, nguoi bat rua
 tush: (dong vat hoc) rang ranh (ngua)
 tusk: (dong vat hoc) nga (voi); rang ranh (loi loi)
@@ -52886,8 +52129,6 @@ tussle: cuoc au da, cuoc danh nhau
 tussock: bui (co); mo (toc)
 tussore: lua tuytxo ((tu My,nghia My) (cung) tussah)
 tussur: lua tuytxo ((tu My,nghia My) (cung) tussah)
-tut: ʌt'tʌt/
-tut-tut: ʌt'tʌt/
 tutelage: su giam ho
 tutelar: (thuoc) su giam ho
 tutelary: (thuoc) su giam ho
@@ -52970,7 +52211,6 @@ twofold: gap doi
 twopence: hai xu (Anh)
 twopenny: gia hai xu (Anh)
 twosome: cho hai nguoi (dieu mua, tro choi)
-twould: twyer /twi:'jeə/ (twyer) /'twaiə/
 tycoon: (tu My,nghia My) trum tu ban, vua tu ban
 tying: tyke /taik/ (tike) /taik/
 tymbal: (am nhac) trong dinh am
@@ -53019,9 +52259,7 @@ tyranny: su bao nguoc, su chuyen che
 tyrant: bao chua, keo bao nguoc
 tyre: ban (cao su, sat...) cap vanh (banh xe); lop xe
 tyre-gauge: dong ho thu lop
-tyre-inflator: taiə'pʌmp/
 tyre-lever: cai thao lop xe
-tyre-pump: taiə'pʌmp/
 tyreless: khong co cap vanh; khong co lop
 tyring: su lap cap vanh; su lap lop
 tyro: (nhu) tiro
@@ -53757,7 +52995,6 @@ understate: noi bot, noi giam di, bao cao khong dung su that
 understatement: su noi bot, su noi giam di; su noi khong dung su that
 understock: cap thieu, cap khong du (dung cu cho mot nong truong, hang hoa cho mot cua hang...)
 understood: hieu, nam duoc y, biet
-understrapper: kuom thong['ʌndə'strɑ:təm]
 understratum: (dia ly,dia chat) tang duoi
 understroke: gach duoi
 understudy: (san khau) nguoi dong thay
@@ -53860,8 +53097,6 @@ undone:  tinh tu
 undoubted: khong nghi ngo duoc, chac chan
 undoubting: khong nghi ngo
 undraped: khong treo man, khong treo truong; khong trang tri bang man, khong trang tri bang truong
-undreamed-of: n'dremtɔv/
-undreamt-of: n'dremtɔv/
 undress: quan ao thuong (trai voi dong phuc)
 undressed: da coi quan ao, da lot ao quan
 undried: khong phoi kho
@@ -53967,7 +53202,6 @@ unexampled: khong tien khoang hau, vo song
 unexcelled: khong ai hon, khong ai vuot
 unexceptionable: khong the che trach duoc, khong the bat be duoc
 unexceptionableness: tinh khong the che trach duoc, tinh khong the bat be duoc
-unexcised: khong bi danh thue mon bai['ʌnek'saizd]
 unexclusive: khong bi loai tru
 unexcusable: khong the tha loi duoc
 unexcusableness: tinh khong the tha loi duoc
@@ -55535,8 +54769,6 @@ vacuum: phich, binh tecmot
 vacuum-clean: quet sach bang may hut bui
 vacuum-gauge: (vat ly) cai do chan khong
 vacuum-pump: bom chan khong
-vacuum-tube: vækjuəm'vælv/
-vacuum-valve: (radio) den chan khong vade-mecum /'veidi'mi:kəm/
 vagabond: lang thang, leu long, cau bo cau bat
 vagabondage: thoi lang thang leu long, thoi du dang; loi song cau bo cau bat
 vagabondism: thoi lang thang leu long, thoi du dang; loi song cau bo cau bat
@@ -55564,9 +54796,7 @@ vale: (tho ca) thung lung
 valediction: su tu biet, su tam biet
 valedictorian: (tu My,nghia My) dai bieu hoc sinh doc dien van tu biet (trong le tot nghiep)
 valedictory: tu biet
-valence: veilənsi/
 valenciennes: dang ten valangxien
-valency: veilənsi/
 valerian: (thuc vat hoc) cay nu lang
 valerianic: (hoa hoc) Valerianic
 valeric: (hoa hoc) Valerianic
@@ -55637,8 +54867,6 @@ vanquish: thang, danh bai
 vanquishable: co the bi danh bai, co the chien thang
 vanquisher: nguoi chien thang
 vantage: su thuan loi, su hon the
-vantage-ground: vɑ:ntidʤpɔint/
-vantage-point: vɑ:ntidʤpɔint/
 vapid: nhat, nhat nheo
 vapidity: tinh chat nhat nheo
 vapidness: tinh chat nhat nheo ((cung) vapidity)
@@ -55944,8 +55172,6 @@ vert: (su hoc),  (phap ly) cay xanh trong rung
 vertebra: (giai phau) dot (xuong) song
 vertebrae: (giai phau) dot (xuong) song
 vertebral: (thuoc) dot xuong song
-vertebrate: və:tibritid/
-vertebrated: və:tibritid/
 vertex: dinh, chom, chop, ngon
 vertical: thang dung, dung
 verticality: tinh chat thang dung
@@ -56369,8 +55595,6 @@ volvulus: (y hoc) chung xoan ruot
 vomer: (giai phau) xuong la mia
 vomica: (y hoc) hang (trong phoi bi lao)
 vomit: chat non mua ra
-vomitive: vɔmitiv/
-vomitory: vɔmitiv/
 vomitting: (y hoc) su non oe, su mua
 vomiturition: (y hoc) su o
 voodoo: su dung ta thuat, su tin ta thuat
@@ -56454,13 +55678,11 @@ wage: tien luong, tien cong
 wage: (tu My,nghia My) (nhu) wage-rise
 wage-earner: nguoi lam cong an luong
 wage-freeze: su han muc tien luong
-wage-fund: weidʤfʌnd/
 wage-rise: su tang luong
 wage-scale: thang luong
 wage-sheet: giay tra luong
 wager: su danh cuoc
 wagerer: nguoi danh cuoc
-wages-fund: weidʤfʌnd/
 waggery: thoi dua dai
 waggish: noi dua; tinh nghich
 waggishness: tinh bong dua; tinh tinh nghich
@@ -56488,9 +55710,7 @@ wait: su cho doi; thoi gian cho doi
 wait-and-see: wait-and-see policy chinh sach cho xem
 waiter: nguoi hau ban
 waiting: su doi, su cho; thoi gian doi
-waiting-maid: weitiɳmeid/
 waiting-room: phong doi
-waiting-woman: weitiɳmeid/
 waitress: chi hau ban
 waive: (phap ly) bo, tu bo, khuoc tu
 waiver: (phap ly) su bo, su tu bo, su khuoc tu
@@ -56512,10 +55732,7 @@ walkie-lookie: (tu long) dai truyen hinh xach tay
 walkie-talkie: (tu My,nghia My),  (quan su),  (tu long) dien dai xach tay
 walking: su di, su di bo
 walking-dress: quan ao mac di pho
-walking-orders: wɔ:kiɳ'ɔ:dəz/ (walking-ticket) 
-walking-papers: wɔ:kiɳ'ɔ:dəz/ (walking-ticket) 
 walking-stick: gay, can
-walking-ticket: wɔ:kiɳ'ɔ:dəz/ (walking-ticket) 
 walking-tour: cuoc di choi bo
 wall: tuong, vach
 wall: (tu My,nghia My) pho Uon (o Niu-ooc, khu tap trung nhung nha tu ban tai chinh My)
@@ -56596,11 +55813,9 @@ warlike: (thuoc) chien tranh
 warm: am; lam cho am
 warm-blooded: (dong vat hoc) co mau nong
 warm-hearted: nhiet tam, nhiet tinh; tot bung
-warm-up: wɔ:mʌp/
 warmer: long ap
 warming: su lam am, su ham, su ho, su suoi am
 warming-pan: long ap
-warming-up: wɔ:mʌp/
 warmish: hoi am
 warmonger: ke hieu chien, ke gay chien
 warmth: hoi nong (lua, mat troi), nhiet; su am ap
@@ -56625,42 +55840,31 @@ wary: than trong, can than, canh giac
 was: thi, la
 wash: su tam rua, su tam goi, su rua ray
 wash: giat kho ngay khong can la
-wash-basin: wɔʃhænd,beisn/
 wash-board: van giat
 wash-boiler: thung nau quan ao
 wash-bowl: (tu My,nghia My) (nhu) wash-basin
 wash-cloth: (tu My,nghia My) khan rua mat
-wash-hand-basin: wɔʃhænd,beisn/
-wash-hand-stand: wɔʃhænd,stænd/ (washing-stand) 
-wash-house: wɔʃiɳhaus/
 wash-leather: da samoa (dung de lau cua kinh...)
 wash-out: cho xoi lo (o duong)
 wash-pot: (tu co,nghia co) chau rua bat
 wash-room: (tu My,nghia My) phong rua ray
-wash-stand: wɔʃhænd,stænd/ (washing-stand) 
 wash-tub: chau giat
 wash-up: (nhu) washing-up
 washable: co the giat duoc (vai)
-washday: wɔʃiɳdei/
 washer: nguoi giat, nguoi rua
 washer-up: nguoi rua bat dia
 washerman: tho giat
 washerwoman: chi tho giat
 washiness: tinh chat loang, tinh chat nhat (do an, ruou, ca phe...)
 washing: su tam rua, su tam goi, su rua ray
-washing-day: wɔʃiɳdei/
-washing-house: wɔʃiɳhaus/
 washing-machine: may giat
-washing-stand: wɔʃhænd,stænd/ (washing-stand) 
 washing-up: viec rua bat (sau bua com) ((cung) wash-up)
 : loang, nhat, vo vi
-wasn't: wasp /wɔsp/
 wasp-waist: lung ong
 wasp-waisted: that day lung ong
 waspish: gat gong, de cau, ban tinh
 waspishness: tinh gat gong, tinh cau kinh
 wassail: tiec ruou vui
-wast: wastage /'weistidʤ/
 waste: bo hoang, hoang vu (dat)
 waste-basket: (tu My,nghia My) (nhu) waste-paper-basket
 waste-book: (ke toan) so ghi tam
@@ -56697,7 +55901,6 @@ water-borne: cho bang duong thuy (hang)
 water-bottle: binh dung nuoc,  carap (o ban an...); bi dong
 water-buffalo: (dong vat hoc) con trau
 water-carriage: su van tai bang duong thuy
-water-cart: wɔ:tə,wægən/ (water-waggon) 
 water-closet: nha xi may
 water-colour: hoa mau nuoc
 water-cooled: (ky thuat) lam lanh bang nuoc (may)
@@ -56733,8 +55936,6 @@ water-soluble: hoa tan trong nuoc
 water-supply: viec cung cap nuoc
 water-table: muc nuoc ngam
 water-tower: thap nuoc
-water-waggon: wɔ:tə,wægən/ (water-waggon) 
-water-wagon: wɔ:tə,wægən/ (water-waggon) 
 water-wall: de, dap
 water-waving: su uon lan song (toc)
 water-wheel: banh xe nuoc
@@ -56749,10 +55950,8 @@ waterfall: thac nuoc
 waterfowl: (dong vat hoc) chim o nuoc (mong ket, le le...)
 wateriness: tinh chat uot, tinh chat co nuoc
 watering: su tuoi, su tuoi nuoc
-watering-can: wɔ:təriɳpɔt/
 watering-cart: xe tuoi duong
 watering-place: noi cho suc vat uong nuoc
-watering-pot: wɔ:təriɳpɔt/
 waterish: lam nuoc (qua)
 waterless: khong co nuoc; kho, han
 waterlogged: nang vi day nuoc (go)
@@ -57529,8 +56728,6 @@ woken: (hang hai) lan tau
 wold: truong; vung dat hoang
 wolf: (dong vat hoc) cho soi
 wolf's-bane: (thuc vat hoc) cay phu tu
-wolf's-claw: wulfs,klɔ:z/
-wolf's-claws: wulfs,klɔ:z/
 wolf-call: (tu My,nghia My),  (thong tuc) tieng huyt sao (cua anh chang theo gai)
 wolf-cub: cho soi con
 wolf-dog: giong cho canh cuu (phong cho soi)
@@ -57557,9 +56754,6 @@ womb: (giai phau) da con, tu cung
 women: dan ba, phu nu
 womenfolk: nu gioi, gioi dan ba
 won: su thang cuoc
-won't: wonder /'wʌndə/
-wonder-stricken: wʌndə,strikən/
-wonder-struck: wʌndə,strikən/
 wonder-work: ky quan
 wonderful: ky la, phi thuong; ky dieu, than ky
 wondering: ngac nhien, kinh ngac
@@ -57670,7 +56864,6 @@ worm-powder: (y hoc) bot tay giun
 worm-wheel: (ky thuat) banh vit
 wormwood: (thuc vat hoc) cay ngai apxin, cay ngai tay
 wormy: co giun, co san
-worn: worriment /'wʌrimənt/
 worry: su lo lang; dieu lo nghi
 worse: xau hon, toi hon, do hon
 worsen: lam cho xau hon, lam cho toi hon, lam cho te hon
@@ -57837,8 +57030,6 @@ yarovization: (nong nghiep) su xuan hoa
 yarovize: xuan hoa (hat giong)
 yarrow: (thuc vat hoc) co thi
 yashmak: mang che mat (dan ba Hoi giao)
-yaw: jɔ:iɳ/
-yawing: jɔ:iɳ/
 yawl: xuong yon (co 4 hoac 6 mai cheo)
 yawn: ngap (nguoi)
 yawner: nguoi hay ngap
@@ -57888,8 +57079,6 @@ yeomanry: tang lop tieu chu (o nong thon)
 yes: vang, phai, da, duoc, u, co, co chu
 yes-man: (thong tuc) nguoi cai gi cung u, nguoi ba phai
 yeses: vang, phai, da, duoc, u, co, co chu
-yester-eve: jestər'i:vən/ (yester-evening) 
-yester-even: jestər'i:vən/ (yester-evening) 
 yester-evening: (tho ca) (nhu) yester-eve
 yester-year: (tho ca) nam ngoai, nam truoc
 yesterday: hom qua
@@ -57994,8 +57183,6 @@ zinnia: (thuc vat hoc) cuc zinnia
 zionism: chu nghia phuc quoc (Do thai)
 zionist: nguoi theo chu nghia phuc quoc (Do thai)
 zip: tieng rit (cua dan bay); tieng xe vai
-zip-fastener: zip,fɑ:snə/
-zipper: zip,fɑ:snə/
 zircon: (khoang chat) ziricon
 zirconium: (hoa hoc) ziriconi
 zither: dan tam thap luc
