@@ -5439,7 +5439,7 @@ chieu binh: to raise troops
 chieu bai: signboard, label, hint statement
 chieu hien: to recruit talents
 chieu hang: to call for surrender
-chieu hoi: "open arms" policy
+chieu hoi: open arms policy
 chieu hon: to call up the soul of a dead person
 chieu le: as a matter of form, in form only, follow the letter and not the spirit of sth
 chieu mo: to recruit, enlist
@@ -12484,7 +12484,7 @@ da khuc: serenade
 da lu vien: inn, doss-house
 da minh chau: luminous precious stone, gem
 da quang: fire-fly, glow-worm
-da ran: shout "yes" repeatedly
+da ran: shout yes repeatedly
 da thua: polite expression
 da vu: nocturnal rain
 da xoa: night demon
@@ -19698,7 +19698,7 @@ kien bo: tingling after a body part falls asleep
 kien cang: big ant
 kien canh: winged ant, ant-fly
 kien can: ant bite
-kien gio: "wind" ant
+kien gio: wind ant
 kien hieu: effective, efficacious
 kien lua: fireant
 kien nghi: petition
@@ -36746,7 +36746,7 @@ thanh Dong: bronze
 thanh don chon: menu bar
 thanh dam: frugal pure and noble
 thanh dau cho doc lap: to struggle for independence
-thanh doi: vocal "cords", vocal bands
+thanh doi: vocal cords, vocal bands
 thao:  raw silk, silk tassle;  sheath;  to hold tight, squeeze, clasp;  to exercise, drill
 thao dien: maneuver, exercise; to maneuver, demonstrate
 thao luyen: to drill, train
@@ -41194,7 +41194,7 @@ treo cay: to climb a tree
 treo leo: to climb
 treo len: to climb up
 treo treo: screenchingly, continually
-trem: brag, boast, "swank"
+trem: brag, boast, swank
 treo: cross, set or lay crosswise
 treo khoeo: cross one’s legs
 treo ngoe: opposite, reversed
@@ -54230,7 +54230,7 @@ ung doi: to retort, riposte, engage in repartee
 u: to consent; yes
 u hu: answer evasively
 u nhi: okay, yes
-u ao: say "yes" and not mean it
+u ao: say yes and not mean it
 u e: to give an evasive answer
 u u ao ao: say yes to everything and do nothing
 ung uc: gulp down, swallow

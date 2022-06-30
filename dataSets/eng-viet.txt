@@ -1554,7 +1554,7 @@ americanization: su My hoa
 americanize: My hoa
 americium: (hoa hoc) Ameridi
 amerind: nguoi tho dan da do (My); nguoi Et-ki-mo
-ames-ace: hai con "mot" (danh suc sac)
+ames-ace: hai con mot (danh suc sac)
 amethyst: (khoang chat) Ametit, thach anh tim
 amethystine: (thuoc) thach anh tim, bang thach anh tim
 ametropy: (y hoc) chung loan khuc xa
@@ -5777,7 +5777,7 @@ brine: ruong muoi
 brine-pan: chao lam muoi
 bring: rɔ:t/
 brink: bo mieng (vuc)
-brinkmanship: chinh sach "ben mieng ho chien tranh" 
+brinkmanship: chinh sach ben mieng ho chien tranh 
 briny: man
 briony: (thuc vat hoc) cay nhang
 briquette: than banh
@@ -7290,8 +7290,8 @@ chalk: da phan
 chalk: day bat phan
 chalk: buoi noi chuyen co minh hoa tren bang den
 chalky: co da phan (dat)
-challenge: (quan su) tieng ho "dung lai" (cua linh dung gac)
-challengeable: (quan su) co the bi ho "dung lai" 
+challenge: (quan su) tieng ho dung lai (cua linh dung gac)
+challengeable: (quan su) co the bi ho dung lai 
 challenger: nguoi thach
 chalybeate: co chat sat (nuoc suoi...)
 cham: Great cham chua te (noi ve bac si Gion-xon, chua te cac nha phe binh van hoc thoi truoc)
@@ -11011,7 +11011,7 @@ dandyish: an dien, banh bao, an mac dung mot, co ve cong tu bot
 dandyism: tinh thich an dien, tinh thich an mac banh bao
 dane: nguoi Dan-mach
 danger: su nguy hiem, moi hiem ngheo
-danger-signal: tin hieu "nguy hiem" ; (nganh duong sat) tin hieu "ngung lai" 
+danger-signal: tin hieu nguy hiem ; (nganh duong sat) tin hieu ngung lai 
 dangerous: nguy hiem; hiem ngheo, nguy ngap, nguy cap (benh)
 dangerously: nguy hiem; hiem ngheo
 dangle: luc lac, du dua
@@ -12163,7 +12163,7 @@ detritus: vat vun (nhu cat, soi...); manh vun
 detruck: (tu My,nghia My) do (hang) o xe tai xuong
 detruncate: chat cut, cat cut
 detune: (radio) lam mat dieu huong
-deuce: hai; mat nhi (con suc sac); quan bai "hai" 
+deuce: hai; mat nhi (con suc sac); quan bai hai 
 deuced: ray ra, rac roi, gay go, phien phuc; qua doi, qua chung
 deuteragonist: dien vien dong vai chinh thu hai
 deuterium: (hoa hoc) doteri
@@ -13667,7 +13667,7 @@ doubtful: nghi ngo, ngo vuc, ho nghi
 doubtfulness: su nghi ngo, su ngo vuc, su ho nghi
 doubtless: chac chan khong con nghi ngo gi nua, khong con ho nghi gi nua
 douce: (E-cot) nhe nhang, em diu, diu dang
-douceur: tien thuong; tien dai them, tien "diem thuoc" 
+douceur: tien thuong; tien dai them, tien diem thuoc 
 douche: voi tam huong sen; su tam bang voi huong sen
 dough: bot nhao
 dough: may nhao bot
@@ -15892,7 +15892,7 @@ ethically: co dao duc, theo dung luan thuong dao ly, hop voi luan thuong dao ly
 ethicize: lam cho hop voi dao duc, lam cho hop voi luan thuong dao ly
 ethics: dao duc, luan thuong dao ly
 ethiopian: (thuoc) E-ti-o-pi
-ethiopianism: phong trao " Chau phi cua nguoi Chau phi" 
+ethiopianism: phong trao  Chau phi cua nguoi Chau phi 
 ethmoid: (giai phau) (thuoc) xuong sang
 ethnarch: thong doc; tinh truong
 ethnic: thuoc dan toc, thuoc toc nguoi
@@ -17226,7 +17226,7 @@ fellow-citizenship: tinh dong bao
 fellow-countryman: dong bao, nguoi cung xu
 fellow-creature: dong loai
 fellow-feeling: su thong cam, su hieu nhau
-fellow-my-leader: (thong tuc) theo sau, "bam dit"
+fellow-my-leader: (thong tuc) theo sau, bam dit
 fellow-passenger: ban di duong ((cung) fellow-traveller)
 fellow-traveller: (nhu) fellow-passenger
 fellow-worker: ban cung nghe, ban dong nghiep
@@ -18416,7 +18416,7 @@ folksy: (tu My,nghia My),  (thong tuc) binh dan
 follicle: (giai phau) nang
 follicular: (giai phau) co nang
 follow: cu danh theo (bi-a)
-follow-my-leader: tro choi "rong ran len may" 
+follow-my-leader: tro choi rong ran len may 
 follower: nguoi theo, nguoi theo doi; nguoi theo (dang, phai...)
 following: su theo, su noi theo
 folly: su dien ro; hanh dong dai dot, y nghi dien ro, loi noi dai dot; dieu nuc cuoi, vat nuc cuoi
@@ -21780,7 +21780,7 @@ hector: ke bat nat, ke an hiep
 hectowatt: (dien hoc) hectooat
 heddles: (nghanh det) day go (o khung cui)
 hedge: hang rao, bo giau; (nghia bong) hang rao ngan cach
-hedge: (quan su) kieu phong ngu "con chim" 
+hedge: (quan su) kieu phong ngu con chim 
 hedge-hop: (hang khong),  (thong tuc) bay la sat mat dat va chom len khi co chuong ngai
 hedge-hopper: (hang khong),  (thong tuc) may bay bay la sat mat dat
 hedge-marriage: dam cuoi bi mat; dam cuoi len lut
@@ -22959,7 +22959,7 @@ humpbacked: gu lung; co buou o lung
 humped: co buou
 humph: hu!, hum! (to y khong tin, khong bang long)
 humpless: khong co buou
-humpty-dumpty: cau "qua trung" (ten mot nhan vat trong truyen tre em o Chau-au)
+humpty-dumpty: cau qua trung (ten mot nhan vat trong truyen tre em o Chau-au)
 humpy: (Uc) tup leu
 humus: mun, dat mun
 hun: (su hoc) ro Hung
@@ -35307,7 +35307,7 @@ panegyrist: nguoi ca ngoi, nguoi tan tung
 panegyrize: ca ngoi, tan tung
 panel: can o (cua, tuong),  pano; o vai khac mau (tren quan ao dan ba); manh da (cuu, de... de viet)
 panel: bac si hao hiem trong danh sach dang ky nhan chua benh nhan theo che do bao hiem o Anh)
-panellist: nguoi trong nhom tham gia cuoc hoi thao, nguoi trong nhom tham gia tiet muc "tra loi cau do" ... (o dai phat thanh, dai truyen hinh)
+panellist: nguoi trong nhom tham gia cuoc hoi thao, nguoi trong nhom tham gia tiet muc tra loi cau do ... (o dai phat thanh, dai truyen hinh)
 panful: xoong (day), chao (day)
 pang: su dau nhoi, su dau don; su gian vat, su day dut (cua luong tam)
 pangolin: (dong vat hoc) con te te
@@ -36929,7 +36929,7 @@ picul: ta Trung quoc
 picul-stick: don ganh
 piddle: (tu co,nghia co) lam nhung chuyen do dan
 piddock: (dong vat hoc) so folat (lam moi cau)
-pidgin: pidgin English tieng Anh "boi" 
+pidgin: pidgin English tieng Anh boi 
 pie: (dong vat hoc) ac la
 pie-dog:  danh tu
 piebald: va, khoang
@@ -36965,7 +36965,7 @@ pig: lon heo
 pig's: nuoc gao vo, nuoc rua bat
 pig-iron: gang
 pigeon: chim bo cau
-pigeon: tieng Anh "boi" ((cung) pidgin English)
+pigeon: tieng Anh boi ((cung) pidgin English)
 pigeon's: sua bo cau (chat nhuyen trang nhu sua, bo cau mom cho con)
 pigeon-breast: nguc nho ra (nhu uc bo cau)
 pigeon-breasted: co nguc nho ra (nhu uc bo cau)
@@ -37255,7 +37255,7 @@ placebo: (y hoc) thuoc tran yen (de lam yen long nguoi benh hon la de chua benh)
 placeman: placenta /plə'sentə/
 placentae: nhau (dan ba de)
 placer: lop soi cat co vang
-placet: su bieu quyet "dong y" 
+placet: su bieu quyet dong y 
 placid: diem tinh
 placidity: tinh binh tinh, tinh tram tinh, tinh tram lang, tinh binh than, tinh thanh than, tinh diu dang, tinh nhe nhang
 placket: tui vay
@@ -37399,7 +37399,7 @@ plaudit: trang phao tay hon ho
 plausibility: su co ve hop ly, su co ve dung
 plausible: co ve hop ly, co ve dung (loi noi, ly le)
 play: su vui choi, su no dua, su dua gion; tro choi, tro dua
-play-act: gia doi, mau me, vo vit, "dong kich" ((nghia bong))
+play-act: gia doi, mau me, vo vit, dong kich ((nghia bong))
 play-actor: (nghia xau) kep hat
 play-boy: ke ham vui; nguoi an choi
 play-by-play: (tu My,nghia My) play-by-play story bai phong su tren dai phat thanh; bai tuong thuat tren dai phat thanh
@@ -37931,7 +37931,7 @@ pontificate: chuc giao hoang; nhiem ky cua giao hoang
 pontify: lam ra ve giao hoang
 ponton: (tu My,nghia My) cau phao
 pontoneer: nguoi phu trach cau phao
-pontoon: loi choi bai " 21" 
+pontoon: loi choi bai  21 
 pony: ngua nho
 pony-tail: kieu toc cap duoi ngua (cua con gai)
 pooch: (tu My,nghia My),  (tu long) ch
@@ -38161,7 +38161,7 @@ postscript: tai but
 postulant: nguoi xin vao giao hoi
 postulate: (toan hoc) dinh de
 posture: tu the; dang dieu, dang bo
-posture-maker: dien vien nhao lon; nguoi lam tro uon minh, "nguoi ran" 
+posture-maker: dien vien nhao lon; nguoi lam tro uon minh, nguoi ran 
 posture-master: huan luyen vien the duc mem deo
 posy: bo hoa
 pot: am, binh, lo, chau, hu, vai, ca (uong nuoc); am (day), binh (day), lo (day), chau (day), hu (day), ca (day)
@@ -38268,7 +38268,7 @@ powdering-room:  danh tu
 powdery: day bot; day bui
 power: kha nang, tai nang, nang luc
 power: (the duc,the thao) luc cang nhat (trong cuoc dau, phai tap trung het suc)
-power: (chinh tri) chinh sach suc manh, chinh sach "dui cui" 
+power: (chinh tri) chinh sach suc manh, chinh sach dui cui 
 power-boat: xuong may
 power-dive: (hang khong) su bo nhao xuong khong tat may
 power-house:  danh tu
@@ -38916,7 +38916,7 @@ procurator: (phap ly) kiem sat truong, bien ly
 procuratory: giay uy quyen, giay uy nhiem
 procure: kiem, thu duoc, mua duoc (vat gi)
 procurer: nguoi kiem, nguoi mua duoc
-procuress: mu trum gai diem, mu "tu ba"
+procuress: mu trum gai diem, mu tu ba
 prod: vat nhon, gay nhon dau, cai thuc
 prodelision: (ngon ngu hoc) hien tuong bo nguyen am (vi du I am thanh I'm)
 prodigal: hoang toang; hoang phi, pha cua, tieu tien vung vai
@@ -42357,7 +42357,7 @@ rouble: dong rup (tien Lien-xo)
 roucou: thuoc nhuom rucu (mau da cam)
 roue: thang vo lai, thang deu, ke du dang; ke trac tang
 rouge: phan hong, sap moi (dung trang diem)
-rouge-et-noir: loi choi bai "do va den" 
+rouge-et-noir: loi choi bai do va den 
 rough: rap, nham, xu xi, go ghe, bom xom, lom chom
 rough: (tu long) su am i, su om som; su no dua am i
 rough-and-ready: qua loa dai khai nhung duoc viec
@@ -43924,7 +43924,7 @@ second: thu hai, thu nhi
 second-best: hang hai, hang nhi
 second-class: loai hai, hang nhi
 second-hand: cu, mua lai (quan ao, sach vo)
-second-mark: dau giay (")
+second-mark: dau giay ()
 second-rate: hang nhi, loai thuong (hang hoa)
 secondary: thu hai, thu nhi, thu, phu, khong quan trong
 seconde: the do, the tranh (trong dau guom)
@@ -48693,7 +48693,7 @@ strap-oil: tran don day da
 strap-work: trang tri theo kieu day da ben
 straphanger: (thong tuc) hanh khach dung nam tay vao day da (tren xe buyt..., vi khong du cho ngoi)
 strapless: khong co day buoc
-strappado: kieu tra tan "cho di tau bay" 
+strappado: kieu tra tan cho di tau bay 
 strapper: nguoi vam vo
 strapping: su buoc bang day da
 strass: bot lam ngoc gia
@@ -50800,7 +50800,7 @@ telecontrol: su dieu khien tu xa
 telegram: buc dien, buc dien tin
 telegraph: may dien bao
 telegrapher: nhan vien dien bao
-telegraphese: van "dien bao" 
+telegraphese: van dien bao 
 telegraphic: (thuoc) dien bao, gui bung dien bao
 telegraphically: bang dien bao
 telegraphist: nhan vien dien bao
@@ -52699,7 +52699,7 @@ tsar: (su hoc) vua Nga,  Nga hoang
 tsarism: che do Nga hoang
 tsarist: nguoi ung ho che do Nga hoang
 tsetse: (dong vat hoc) ruoi xexe
-tu: " Anh cung the" ; "anh cung lam the" (cau dap lai)
+tu:  Anh cung the ; anh cung lam the (cau dap lai)
 tu-whit: u'witʃ/
 tu-whoo: u'witʃ/
 tub: chau, bon
@@ -54737,7 +54737,7 @@ unreasoning: khong suy xet, khong suy nghi ky
 unrebuked: khong bi khien trach, khong bi quo trach
 unrecallable: khong the goi ve, khong the trieu ve
 unrecalled: khong bi goi ve, khong duoc trieu ve
-unreceipted: chua ky nhan so tien d  tr (tren mot bien lai, hoa dn); chua dong dau nhan thuc "d  tr" (tren mot hoa dn)
+unreceipted: chua ky nhan so tien d  tr (tren mot bien lai, hoa dn); chua dong dau nhan thuc d  tr (tren mot hoa dn)
 unreceived: chua nhan, chua linh
 unreciprocated: khong duoc den dap lai; khong duoc dap lai
 unreckoned: khong tinh, khong dem
@@ -57814,7 +57814,7 @@ yachtsmanship: thuat lai thuyen buom
 yaffil: (dong vat hoc) chim go kien xanh
 yaffle: (dong vat hoc) chim go kien xanh
 yah: ai!, ui cha cha!
-yahoo: Io-hu (mot giong thu mang hinh nguoi trong tieu thuyet " Nhung cuoc du hanh cua Guy-li-ve")
+yahoo: Io-hu (mot giong thu mang hinh nguoi trong tieu thuyet  Nhung cuoc du hanh cua Guy-li-ve)
 yak: (dong vat hoc) bo Tay tang
 yale: o khoa (hinh) ong
 yam: (thuc vat hoc) cu tu; khoai mo
