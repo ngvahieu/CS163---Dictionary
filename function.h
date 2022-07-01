@@ -43,7 +43,7 @@ public:
 
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
     Node* searchByKey(Node* tree, string key);
-    string searchByDef(string def, Node*& tree, int choice);
+    bool searchByDef(string def, Node*& tree,string& ans);
     void viewHistoryWords(int choice);
     void addNewWord(string word, string def, Node*& tree, int choice);
     void editKey(Dictionary dict, int choice, string key, string newKey);

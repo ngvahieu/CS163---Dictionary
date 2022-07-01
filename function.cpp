@@ -52,7 +52,6 @@ vector<Word> getWordsFromFile(int choice) {
         Word temp;
         char check;
         string firstTaken, secondTaken, s;
-        wstring w;
         while (!fin.eof()) {
             getline(fin, firstTaken, ':');
             fin.get(check);
@@ -82,9 +81,9 @@ vector<Word> getWordsFromFile(int choice) {
     case 2: { // Eng to Eng
         ifstream fin; fin.open("dataSets/eng-eng.txt", ios::in);
         Word temp;
-        string s;
         while (!fin.eof()) {
             getline(fin, temp.key, ':');
+            fin.ignore(1);
             getline(fin, temp.def, '\n');
             dict.push_back(temp);
         }
@@ -162,4 +161,17 @@ void Dictionary :: getAllWordsToTree(Node*& tree, int choice) {
     for (int i = 0; i < dic.size(); i++) {
         inputWordToTree(tree, dic[i]);
     }
+}
+bool Dictionary :: searchByDef(string def, Node*& tree,string& ans){
+    int index = charToIndex(def[0]);
+    Node* cur = tree->child[index];
+    if(cur){
+        for(auto x : cur->defList){
+            if(strlen(strstr(x.first.c_str(),def.c_str())) > 0){
+                ans = x.second;
+                return true;
+            }
+        }
+    }
+    return false;
 }
