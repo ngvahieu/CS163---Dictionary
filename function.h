@@ -13,16 +13,14 @@ using namespace std;
 struct Node {
     Node* child[95]; // from 32->126 in ASCII
     bool isLastChar;
-    bool add;
-    bool remove;
-    vector<vector<string>> def;
+    vector<string> def;
     // vector<string> saves definitions.
     // just push if a node is a last character of a specific word.
 
-    vector<pair<vector<string>, string>> defList;
+    vector<pair<string,string>> defList;
     // only save to first character Node for searching definition.
     Node() {
-        isLastChar = false; add = false; remove = false;
+        isLastChar = false;
         for (int i = 0; i < 95; i++) child[i] = nullptr;
     }
 };
@@ -32,11 +30,17 @@ struct Word {
 };
 class Dictionary {
 public:
-     Dictionary() {
+    vector<Node*> tree;
+    // tree[0] stores emotional data set.
+    // tree[1] stores slang words data set
+    // tree[2] stores English to English data set.
+    // tree[3] stores English to Vietnamese data set.
+    // tree[4] stores VietNamese to English data set.
+    Dictionary() {
         tree.resize(5);
         for (auto x : tree) x = nullptr;
     }
-    vector<Node*> tree;
+
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
     Node* searchByKey(Node* tree, string key);
     string searchByDef(string def, Node*& tree, int choice);
