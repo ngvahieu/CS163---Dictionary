@@ -162,15 +162,59 @@ void Dictionary :: getAllWordsToTree(Node*& tree, int choice) {
         inputWordToTree(tree, dic[i]);
     }
 }
-bool Dictionary :: searchByDef(string def, Node*& tree,string& ans){
+bool Dictionary :: searchByDef(string def, Node*& tree,string& ans, int& positionInDefList) {
     int index = charToIndex(def[0]);
     Node* cur = tree->child[index];
     if(cur){
-        for(auto x : cur->defList){
-            if(strlen(strstr(x.first.c_str(),def.c_str())) > 0){
-                ans = x.second;
+//        for(auto x : cur->defList){
+//            if(strlen(strstr(x.first.c_str(),def.c_str())) > 0){
+//                ans = x.second;
+//                return true;
+//            }
+//        }
+        for(int i = 0; i < cur->defList.size(); ++i) {
+            if(cur->defList[i].first == def) {
+                ans = cur->defList[i].second;
+                positionInDefList = i;
                 return true;
             }
+        }
+    }
+    return false;
+}
+Node* Dictionary::searchByKey(Node* tree, string key) {
+    if(!tree) return NULL;
+    Node* pCrawl = tree;
+    for(int i = 0; i < key.length(); ++i) {
+        int index = charToIndex(key[i]);
+        if(!pCrawl->child[index]) return NULL;
+        pCrawl = pCrawl->child[index];
+    }
+    if(pCrawl->isLastChar) {
+        return pCrawl;
+    }
+    else return NULL;
+}
+bool Dictionary::editDef(Dictionary& dict, int choice, string def, string newDef) {
+    string key;
+    int pos;
+    // search the position in defList
+    if(dict.searchByDef(def, dict.tree[choice], key, pos)) {
+        // delete the old pair(def,key) that the deList contained
+        dict.tree[choice]->child[def[0]]->defList.erase(dict.tree[choice]->child[def[0]]->defList.begin()+pos);
+        // delete def in last node
+        Node* last = dict.searchByKey(dict.tree[choice], key);
+        if(last) {
+            for(int i = 0; i < last->def.size(); ++i) {
+                if(last->def[i] == def) {
+                    last->def.erase(last->def.begin()+i);
+                    break;
+                }
+            }
+            // add new word to tree
+            Word w; w.key = key; w.def = newDef;
+            inputWordToTree(dict.tree[choice], w);
+            return true;
         }
     }
     return false;
