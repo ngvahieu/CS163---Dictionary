@@ -45,8 +45,9 @@ public:
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
     Node* searchByKey(Node* tree, string key);
     bool searchByDef(string def, Node*& tree, string& ans, int& positionInDefList);
+    bool addNewWord(Word newWord, Dictionary& dict, int choice);
     void viewHistoryWords(int choice);
-    void addNewWord(string word, string def, Node*& tree, int choice);
+    bool addNewWord(Word newWord, Node*& tree);
     void editDef(Dictionary& dict, int choice, string key);
     void removeWord(string word, Node*& tree, int choice);
     void resetDictionary(Node*& tree, int choice);

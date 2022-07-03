@@ -10,7 +10,7 @@ vector<char> splitWord(string word) {
     while (ss >> a) result.push_back(a);
     return result;
 }
-
+// Hung
 vector<Word> getWordsFromFile(int choice) {
     vector<Word> dict;
 
@@ -125,6 +125,7 @@ void deleteTree(Node*& tree) {
     delete tree;
 }
 // main functions
+// V.Hieu
 void inputWordToTree(Node*& root, Word word)
 {
     if (!root) root = new Node();
@@ -155,59 +156,79 @@ void inputWordToTree(Node*& root, Word word)
     pCrawl->isLastChar = true;
     pCrawl->def.push_back(word.def);
 }
-
-void Dictionary :: getAllWordsToTree(Node*& tree, int choice) {
+// V.Hieu
+void Dictionary::getAllWordsToTree(Node*& tree, int choice) {
     vector<Word> dic = getWordsFromFile(choice);
     for (int i = 0; i < dic.size(); i++) {
         inputWordToTree(tree, dic[i]);
     }
 }
-bool Dictionary :: searchByDef(string def, Node*& tree,string& ans, int& positionInDefList) {
+// V.Hieu
+bool Dictionary::searchByDef(string def, Node*& tree, string& ans, int& positionInDefList) {
     int index = charToIndex(def[0]);
     Node* cur = tree->child[index];
-    if(cur){
-       for(int i = 0; i < cur->defList.size(); ++i){
-           if(strstr(cur->defList[i].first.c_str(),def.c_str())){
-               ans = cur->defList[i].second;
-               positionInDefList = i;
-               return true;
-           }
-       }
+    if (cur) {
+        for (int i = 0; i < cur->defList.size(); ++i) {
+            if (strstr(cur->defList[i].first.c_str(), def.c_str())) {
+                ans = cur->defList[i].second;
+                positionInDefList = i;
+                return true;
+            }
+        }
     }
     return false;
 }
+// V.Hieu
+bool Dictionary::addNewWord(Word newWord,Dictionary& dict,int choice) {
+    Node* lastChar = searchByKey(dict.tree[choice], newWord.key);
+    if (lastChar) {
+        for (int i = 0; i < lastChar->def.size(); i++) {
+            if (strstr(lastChar->def[i].c_str(), newWord.def.c_str())) return false; // already exists in the tree
+        }
+    }
+    inputWordToTree(dict.tree[choice], newWord);
+}
+// Hung
 Node* Dictionary::searchByKey(Node* tree, string key) {
-    if(!tree) return NULL;
+    if (!tree) return NULL;
     Node* pCrawl = tree;
-    for(int i = 0; i < key.length(); ++i) {
+    for (int i = 0; i < key.length(); ++i) {
         int index = charToIndex(key[i]);
-        if(!pCrawl->child[index]) return NULL;
+        if (!pCrawl->child[index]) return NULL;
         pCrawl = pCrawl->child[index];
     }
-    if(pCrawl->isLastChar) {
+    if (pCrawl->isLastChar) {
         return pCrawl;
     }
     else return NULL;
 }
+// Hung
 void Dictionary::editDef(Dictionary& dict, int choice, string key) {
     int pos, select;
     string oldDef, newDef;
     // search key
-    Node*last = dict.searchByKey(dict.tree[choice], key);
-    if(last) {
-        for(int i = 0; i < last->def.size(); ++i) {
-            cout << i+1 << ". " << last->def[i] << endl;
+    Node* last = dict.searchByKey(dict.tree[choice], key);
+    if (last) {
+        for (int i = 0; i < last->def.size(); ++i) {
+            cout << i + 1 << ". " << last->def[i] << endl;
         }
         cout << "Which one do you want to edit?(Enter a number)" << endl;
-        cin >> select;
-        oldDef = last->def[select-1];
+        do {
+            cin >> select;
+            if (select < 1 || select > last->def.size()) {
+                cout << "invalid choice ! input again" << endl;
+            }
+        } while (select < 1 || select > last->def.size());
+        oldDef = last->def[select - 1];
         cout << "Change " << select << " to: ";
-        getline(cin, newDef);
+        cin.ignore();
+        getline(cin, newDef,'\n');
         // delete the old def in def(lastNode)
-        last->def.erase(last->def.begin()+select-1);
+        last->def.erase(last->def.begin() + select - 1);
         // delete the old def in defList(Node has a list of defs start by that Node's character)
         dict.searchByDef(oldDef, dict.tree[choice], key, pos);
-        dict.tree[choice]->defList.erase(dict.tree[choice]->defList.begin()+pos);
+        int index = charToIndex(oldDef[0]);
+        dict.tree[choice]->child[index]->defList.erase(dict.tree[choice]->child[index]->defList.begin() + pos);
         // add newWord into tree
         Word w; w.key = key; w.def = newDef;
         inputWordToTree(dict.tree[choice], w);

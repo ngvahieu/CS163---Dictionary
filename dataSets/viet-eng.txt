@@ -40,7 +40,6 @@ Bien Phong Phu: Mare Foecondatus
 Bien Thai Binh Duong: the Pacific Ocean
 Bien Trong: Mare Seranitatis
 Bien Tram Lang: Mare Traquilitatis
-Bien Ðong: South China Sea
 Bien Dong: South China Sea
 Bien Dia Trung Hai: Mediterranean Sea
 Brazin: Brazil
@@ -52,7 +51,7 @@ Bat Quai Dai: octagonal palace Cao Dai
 Binh Nhuong: Pyongyang
 Binh Dinh: province name
 Bang Coc: Bangkok
-Bang Ðao: Iceland
+Bang Dao: Iceland
 Bach Cung: the White House
 Bach Mi: God of Prostitutes
 Bach Nga: White Russian, Byelorussian
@@ -81,7 +80,7 @@ Bac Phan: Northern part of Vietnam
 Bac Trieu Tien: North Korea
 Bac Viet: Northern Vietnam
 Bac Au: Northern Europe, Scandinavia
-Bac Ðau Boi Tinh: French Legion of Honor medal
+Bac Dau Boi Tinh: French Legion of Honor medal
 Bac Dai Tay Duong: North Atlantic Ocean
 Bac Dau: Ursa Major constellation
 Be Ha: Sire, Your Majesty
@@ -419,7 +418,7 @@ Nho phong: scholarly tradition
 Nho sinh: student of Confucianism
 Nho si: Confucian scholar
 Nho dao: Confucianism
-Nha Ðien: Athens
+Nha Dien: Athens
 Nhat: Japan, Japanese
 Nhat Ban: Japan, Japanese
 Nhat Hoang: Japanese emperor
@@ -639,7 +638,7 @@ Viet-Phap: Vietnamese-French
 Van Nam: Yunnan
 Van Tuong: Vientiane
 Vang a: Yes sir
-Ve Ða: Veda
+Ve Da: Veda
 Vinh Ba Tu: Persian Gulf
 Vinh Thai Lan: Gulf of Thailand
 Vong Cac: Bangkok
@@ -1612,7 +1611,7 @@ buot tay: slip, loose hold
 buot tay danh roi cai chen: to let a cup slip down from one's hand
 buom: butterfly
 buc boi: discomfort
-bu‎yt: bus
+buyt: bus
 ba: grandmother; Mrs. form of address for a woman
 ba ba: south Vietnamese pajamas
 ba bong: medium
@@ -5481,7 +5480,6 @@ chiem mot vai tro quan trong: to play a vital role
 chiem phan lon: to make up a majority
 chiem vao khoang %: to make up approximately %
 chiem vi tri quan trong: to occupy an important position
-chiem da so /: to make up a / majority
 chiem da so: to make up the majority
 chiem doat: to appropriate, usurp, seize
 chiem doat hai phan Vietnamese: to seize VN's territorial waters
@@ -7962,8 +7960,7 @@ con rong chau a: Asian dragon
 con so: first child, oldest child
 con suot: quill, spindle, bobbin
 con song: river
-con song phan cach hai lang, the river separates the two villages
-con se: sparrow
+con song phan cach hai lang: the river separates the two villages
 con so: number, digit, figure
 con so chinh xac: exact number
 con so khong lo: tremendous, huge number
@@ -14361,7 +14358,7 @@ giu gia: to keep prices stable
 giu gin: to preserve, guard, maintain
 giu gin bo coi: to protect the country
 giu gin di san: to preserve one's heritage
-giu gin pham cach, to preserve one's human dignity
+giu gin pham cach: to preserve one's human dignity
 giu im lang: to keep quiet, hold one's tongue
 giu kin: to hide, keep secret, keep confidential
 giu ke: show excessive caution in one's dealings, be overcautious
@@ -15388,7 +15385,7 @@ hien vat: things in nature; in kind payment
 hien diem: to manifest itself; manifestation
 hien dai: modern, present time, modern times, contemporary
 hien dai hoa: to modernize; modernization
-hien ‎‎‎y: present intention
+hien y: present intention
 hiep: to unite, join, come together; round in boxing, trip; gorge, straits; chivalrous
 hiep bien: high ranking court official
 hiep che: to coerce, force
@@ -16957,7 +16954,7 @@ hai luu: sea current
 hai lo: sea route
 hai luc khong quan: army, navy, and air force
 hai luc: sea forces
-hai l‎y gio: knot unit of speed
+hai ly gio: knot unit of speed
 hai mien: sponge
 hai ma: sea horse, hippocampus
 hai ma ngu: hippocampus
@@ -17506,7 +17503,7 @@ hoi vai cau: to ask a few questions
 hoi van: cross-examine, cross-question
 hoi ve: to ask about
 hoi y kien: to ask sb's opinion
-hoi ‎ kien: to consult, ask someone's opinion
+hoi kien: to consult, ask someone's opinion
 hon hen: to give a shy smile
 hong: to break down, fail, miss
 hong bet: to fail completely
@@ -19024,7 +19021,7 @@ khong nho: to not remember, forget
 khong nhung: not only
 khong nhung chi: not only
 khong nhung pho thong: it is not only universal
-khong nhung … ma con: not only … but also
+khong nhung ... ma con: not only but also
 khong nai kho nhoc: not to mind hard work, insist, tie; jockey
 khong nen: should not
 khong noi gi: to not say anything
@@ -27163,7 +27160,7 @@ nguoi dung dau: leader, head, chief
 nguoi dung o dang kia la ai vay?: who's the man standing over there?
 nguoi uu tu: person, talented person
 nguoi A Rap: Arab person
-nguoi An Ðo: Indian person
+nguoi An Do: Indian person
 nguoi ay: that person
 nguoi om: thin body
 nguoi o: servant, domestic help
@@ -29254,7 +29251,7 @@ nho nhoi: make a slip of the tongue
 nho thi: of women too old to get married
 nho thoi: miss a chance
 nho tau: to miss the boat literally and figuratively
-nho … thi sao: what if
+nho ... thi sao: what if
 nhon cau: eyeball
 nho: rope, string, fine cord; sweetish
 nhot: pale
@@ -29651,7 +29648,7 @@ neu len nhung nghi van: to raise questions
 neu ra: to bring up a subject, note, point out
 neu ra o tren: mentioned above, aforementioned
 neu ten: to name names, mention somebody or something by name
-neu y‎ kien: to express an idea
+neu y kien: to express an idea
 ni: here
 nich: to cram, stuff, line, pack
 nich nich: full
@@ -31428,8 +31425,7 @@ pha giai: win a prize as a challenger, win a prize from the holder
 pha gioi: unfrock oneself, break one's religious vow
 pha hoang: to break claim virgin land
 pha hoai: to destroy, sabotage, tear down, break up
-pha huy dong tu, to destroy, to demolish, to ruin
-pha hai: to mine, to ravage
+pha huy dong tu: to destroy, to demolish, to ruin
 pha hong: to frustrate, foil, short-circuit
 pha huy: to destroy, demolish, annul
 pha ky luc: to break a record
@@ -33261,7 +33257,7 @@ quy vat: valuable thing, precious thing, thing of great value
 quy vi: you esteemed person
 quy ong: gentleman
 quynh quang: be careless
-quy‎ hoa: precious, good, nice
+quy hoa: precious, good, nice
 quan: to curl hair
 quan queo: tortuous, twisted
 quang: to fling, throw, hurl, toss
@@ -33321,7 +33317,7 @@ qua tua: tassel
 qua ta: dumb-bell
 qua vay: truly
 qua dung nhu: just like, exactly like
-qua dung nhu toi doan	: exactly as I had expected
+qua dung nhu toi doan: exactly as I had expected
 qua dam: fist, blow, knob
 qua dat: globe, earth
 qua oi: guava fruit
@@ -38157,7 +38153,7 @@ thang dong: to come out of a trance
 tho: letter, mail; poetry, verse; to be young, tender
 tho Nom: Nom poetry
 tho han: welder
-tho k‎y: secretary
+tho ky: secretary
 tho lai: secretary
 tho luc bat: six-eight meter
 tho mong: poetic, dreamlike
@@ -39611,7 +39607,7 @@ thuc thu: full, official
 thuc tien: practical; reality
 thuc trang: actual situation state, reality
 thuc tai: real talent
-thuc té: reality
+thuc te: reality
 thuc tinh: real situation, reality
 thuc tai: reality
 thuc tai ao: virtual
@@ -42845,7 +42841,7 @@ tai xanh: green-white as a sheet, pale as a ghost
 tai xuat: to re-export
 tai xuat hien: to reappear
 tai xu li: to reprocess
-tai dac cuàng thang: normally, under normal circumstances
+tai dac cuang thang: normally, under normal circumstances
 tai dac cu: to be reelected
 tai dinh cu: to resettle
 tam: eight
@@ -45365,7 +45361,7 @@ ven duong: roadside, on the side of a road
 veo: very, very much, plenty of
 vet: to court, woo, flirt
 vet gai: to flirt with a female
-vet̉ mat ao nao: a doleful face
+vet mat ao nao: a doleful face
 vi: to surround; to act as; small, subtle, delicate, tiny, micro; to disobey; shark's fin
 vi ba: microwave
 vi bang: evidence, certificate
@@ -47286,7 +47282,6 @@ xao dong: agitate
 xay: to grind, husk
 xe: automobile, vehicle; to transport, take
 xe ba gac: delivery tricycle
-xe buyt: bus
 xe buyt dien: electric bus, streetcar
 xe bo: oxcart
 xe boc thep: armored vehicle or car
@@ -48370,7 +48365,7 @@ Da Lat: Dalat
 Dai Loan: Taiwan
 Dong Nam A: Southeast Asia, Southeast Asian
 Dong A: East Asia, East Asian
-Dong Ðuc: East Germany
+Dong Duc: East Germany
 Dai Han: Korean
 Duc: Germany, German
 Ong But: Buddha
@@ -49042,8 +49037,7 @@ on: to review a lesson
 on con: little devil, imp
 on co tri tan: to revise the old in order to know the new
 on dich: epidemic, plague
-on hoa tinh tu, equable, temperate, moderate, mild, gentle
-on hoa: formal, moderate, temperate, calm, poised, peaceful, non-violent
+on hoa tinh tu: equable, temperate, moderate, mild, gentle
 on hau: gentle and honest
 on luyen: review revise and drill
 on lai: to review

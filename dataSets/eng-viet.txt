@@ -1117,10 +1117,7 @@ ait: cu lao, hon dao nho (giua dong song)
 aitchbone: xuong dui (bo)
 ajar: mo he, dong ho, khep ho (cua)
 ajog: di nuoc kieu nho (ngua)
-ajutage
-???
-
-@akene: (thuc vat hoc) qua be
+akene: (thuc vat hoc) qua be
 akimbo: chong nanh
 akin: than thuoc, ba con, co ho
 alabaster: (khoang chat) thach cao tuyet hoa
@@ -1290,8 +1287,7 @@ alleviate: lam nhe bot, lam giam bot, lam do, lam diu, lam khuay (su dau, noi da
 alleviation: su lam nhe bot, su lam giam bot, su lam do, su lam diu, su lam khuay (su dau, noi dau kho, noi phien muon)
 alleviative: lam giam dau, lam diu, lam khuay
 alleviator: nguoi an ui, nguon an ui
-alleyway
--: (thuc vat hoc) (thuoc) loai hanh toi
+alleyway: (thuc vat hoc) (thuoc) loai hanh toi
 alliance: su lien minh, khoi lien minh khoi dong minh
 allied: lien minh, dong minh
 alligator: ca sau My
@@ -1306,11 +1302,9 @@ allodium: thai ap, thai ap khong phai nop thue (thoi phong kien)
 allogamy: (thuc vat hoc) su giao phan, su thu tinh khac hoa
 allomeric: khac chat
 allomerism: tinh chat khac
-allomerous
--: (y hoc) thay thuoc chua theo phuong phap doi chung
+allomerous: (y hoc) thay thuoc chua theo phuong phap doi chung
 allopathic: (y hoc) (thuoc) phep chua doi chung
-allopathist
--: (y hoc) phep chua doi chung
+allopathist: (y hoc) phep chua doi chung
 allot: phan cong, giao (phan viec cho ai); dinh dung (mot so tien vao viec gi)
 allotment: su phan cong, su giao viec (phan viec); su dinh dung (mot so tien vao viec gi)
 allotropic: khac hinh
@@ -4721,10 +4715,7 @@ bite: su can, su ngoam; mieng can; vet can
 biter: nguoi can, vat can
 bitiminize: rai nhua duong, quet bitum
 biting: lam cho dau don, lam buot, lam nhuc nhoi; chua cay, day nghien
-bitten
-???
-
-@bitter: dang
+bitter: dang
 bitter-sweet: vua ngot, vua dang ((nghia den) & (nghia bong))
 bitterly: (nhu) bitter
 bittern: (dong vat hoc) con vac
@@ -4732,10 +4723,7 @@ bitterness: vi dang
 bittock: (E-cot) ti chut, mau nho
 bitts: (hang hai) coc buoc day cap
 bitumen: nhua rai duong bitum
-bituminise
-???
-
-@bituminous: co nhua rai duong, co bitum
+bituminous: co nhua rai duong, co bitum
 bivalent: (hoa hoc) co hoa tri hai
 bivalve: (sinh vat hoc) hai manh vo
 bivouac: (quan su) trai quan dong ngoai troi buoi toi
@@ -5632,10 +5620,7 @@ britannic: (thuoc) nuoc Anh
 briticism: tu ngu dac Anh
 british: (thuoc) Anh
 britisher: (tu My,nghia My) nguoi Anh
-britishism
-???
-
-@briton: nguoi Bri-to (mot dan toc song o nuoc Anh thoi La ma do ho, cach day 2000 nam)
+briton: nguoi Bri-to (mot dan toc song o nuoc Anh thoi La ma do ho, cach day 2000 nam)
 brittle: gion, de gay, de vo
 brittleness: tinh gion, tinh de gay, tinh de vo
 broach: cai xien (de nuong thit)
@@ -6336,10 +6321,7 @@ campus: (tu My,nghia My) khu san bai (cua cac truong trung hoc, dai hoc)
 can: binh, bi dong, ca (dung nuoc)
 canaille: lop nguoi thap hen, tien dan
 canal: kenh, song dao
-canalise
-???
-
-@canalization: su dao kenh
+canalization: su dao kenh
 canard: tin vit
 canary: chim bach yen ((cung) canary bird)
 canary-coloured: mau vang nhat
@@ -6642,10 +6624,7 @@ carriageable: xe chay duoc (duong sa)
 carriagge-drive: duong di (trong vuon hoa...)
 carrier-borne: duoc cho tren tau san bay
 carrier-nation: nuoc chuyen cho thue tau van chuyen
-carrier-pigeon
-???
-
-@carriole: xe doc ma
+carriole: xe doc ma
 carrion: xac chet da thoi
 carrion-crow: con qua
 carrot: cay ca rot; cu ca rot
@@ -9452,8 +9431,7 @@ conversational: (thuoc) su noi chuyen, (thuoc) su chuyen tro
 conversationalist: nguoi co tai noi chuyen, nguoi hay noi chuyen, nguoi vui chuyen
 conversationist: nguoi co tai noi chuyen, nguoi hay noi chuyen, nguoi vui chuyen
 conversazione: buoi da hoi van hoc nghe thuat
-conversazioni
--: nguoi cai dao, nguoi thay doi tin nguong; nguoi theo dao (nguyen khong theo dao nao)
+conversazioni: nguoi cai dao, nguoi thay doi tin nguong; nguoi theo dao (nguyen khong theo dao nao)
 converted: da cai dao; theo dao
 converter: (ky thuat) lo chuyen
 convertibility: su co the doi, su co the hoan cai duoc
@@ -9935,7 +9913,6 @@ courtyard: san nho; san trong
 cousin: anh (em ho); anh con bac, em con chu; anh (em) con co con cau; anh (em) con di; anh chau bac, em chau chu
 cousinhood: tinh anh em ho, tinh ho hang
 cousinly: nhu anh em ho; co ho; than thuoc
-coûte: bang moi gia, voi bat cu gia nao
 cove: (dia ly,dia chat) vinh nho, vung
 covenant: hiep uoc, hiep dinh, thoa uoc; dieu khoan (cua ban hiep uoc...)
 covenanted: bi hiep uoc rang buoc, bi giao keo rang buoc; co ky giao keo
@@ -10294,8 +10271,7 @@ crucifixion: su dong dinh (mot nguoi) vao gia chu thap
 crucify: dong dinh (mot nguoi) vao gia chu thap
 crude: nguyen, song, tho, chua luyen
 crude: gang
-crudity
--: tinh con nguyen, tinh con song
+crudity: tinh con nguyen, tinh con song
 cruel: doc ac, du ton, hung ac, ac nghiet, tan ac, tan bao, tan nhan
 cruelly: doc ac, du ton, hung ac, ac nghiet, tan ac, tan bao, tan nhan
 cruelty: su hung ac, su tan ac, su tan bao, su tan nhan, tinh doc ac, tinh ac nghiet
@@ -17081,10 +17057,7 @@ fiction: dieu hu cau, dieu tuong tuong
 fictional: hu cau, tuong tuong
 fictionalise: viet thanh tieu thuyet, tieu thuyet hoa
 fictionalize: viet thanh tieu thuyet, tieu thuyet hoa
-fictionise
-fictionise
-
-@fictionist: nguoi viet tieu thuyet
+fictionist: nguoi viet tieu thuyet
 fictionize: viet thanh tieu thuyet, tieu thuyet hoa
 fictitious: hu cau, tuong tuong, khong co thuc
 fictitiousness: tinh chat hu cau, tinh chat tuong tuong, tinh chat khong co thuc
@@ -17470,9 +17443,7 @@ fishmonger: nguoi ban ca, nguoi buon ca
 fishwife: ba hang ca
 fishworm: giun lam moi cau
 fishy: (thuoc) ca; co mui ca
-fisk
-
-@fissidactyl: co ngon te ra
+fissidactyl: co ngon te ra
 fissile: co the tach ra duoc
 fissility: tinh trang co the tach ra duoc
 fission: (sinh vat hoc) su sinh san phan doi
@@ -17484,9 +17455,7 @@ fistic: dua cot) dam da
 fistical: dua cot) dam da
 fisticuffs: cuoc dam da
 fistula: (y hoc) ro
-fistulous
-
-@fit: (tu co,nghia co) doan tho ((cung) fytte)
+fit: (tu co,nghia co) doan tho ((cung) fytte)
 fit-out: thiet bi, trang bi
 fit-up: san khau luu dong
 fitch: da long chon putoa
@@ -18290,9 +18259,7 @@ form-master: ngon ngu nha truong) thay chu nhiem lop
 formal: hinh thuc
 formaldehyde: hoa fomanddehyt
 formalin: hoa fomanlin
-formalise
-
-@formalism: thoi hinh thuc, chu nghia hinh thuc
+formalism: thoi hinh thuc, chu nghia hinh thuc
 formalist: nguoi theo chu nghia hinh thuc
 formalistic: hinh thuc, hinh thuc chu nghia
 formality: su theo dung quy cach, su theo dung thu tuc
@@ -18858,9 +18825,7 @@ fuelling: tram cung cap chat dot
 fug: mui am moc, mui hoi (buong dong kin)
 fugacious: chong tan, phu du, thoang qua
 fugacity: tinh chong tan, tinh phu du, tinh thoang qua
-fugal
-
-@fugally: (am nhac) bang fuga, duoi hinh thuc fuga
+fugally: (am nhac) bang fuga, duoi hinh thuc fuga
 fuggy: co mui am moc, co mui hoi
 fugitive: tron tranh, chay tron, bo tron, lanh nam
 fugle: huong dan
@@ -19743,10 +19708,7 @@ glassmaker: nguoi lam kinh, nguoi lam thuy tinh
 glassman: nguoi ban do thuy tinh
 glassy: nhu thuy tinh
 glauber's: (hoa hoc) natri sunfat ngam 10 nuoc
-glauber'ssalts
-glauber'ssalts
-
-@glaucoma: (y hoc) benh glocom, benh tang nhan ap
+glaucoma: (y hoc) benh glocom, benh tang nhan ap
 glaucomatous: (thuoc) benh glocom
 glaucous: xanh xam; luc xam
 glaze: men, nuoc men (do su, do gom)
@@ -20720,9 +20682,7 @@ had: co
 haddock: (dong vat hoc) ca efin (mot loai ca tuyet)
 hade: (dia ly,ddia chat) do nghieng; goc doc (cua mach mo)
 hades: am ty, am phu
-hadn't
-
-@haemal: (giai phau) (thuoc) mau; (thuoc) mach mau ((cung) haematic)
+haemal: (giai phau) (thuoc) mau; (thuoc) mach mau ((cung) haematic)
 haematic: (y hoc) thuoc ve mau
 haematin: (hoa hoc) Hematin
 haematite: (khoang chat) Hematit
@@ -21729,9 +21689,7 @@ hey: o!, o! (ngac nhien)
 hey-day: A a!, a! (vui mung, ngac nhien)
 heyday: thoi cuc thinh, thoi hoang kim
 hi: (tu My,nghia My) nay!, e! (goi, chao)
-hi-fi
-
-@hiatus: cho gian doan, cho dut quang, cho thieu sot (trong mot loat su vat, mot bai tuong thuat, mot loat chung co...)
+hiatus: cho gian doan, cho dut quang, cho thieu sot (trong mot loat su vat, mot bai tuong thuat, mot loat chung co...)
 hiatuses: cho gian doan, cho dut quang, cho thieu sot (trong mot loat su vat, mot bai tuong thuat, mot loat chung co...)
 hibernal: (thuoc) mua dong; ve mua dong
 hibernant: ngu dong (dong vat)
@@ -21893,10 +21851,7 @@ hippocampi: (dong vat hoc) ca ngua
 hippocampus: (dong vat hoc) ca ngua
 hippocras: (su hoc) ruou vang pha chat thom
 hippodrome: truong dua ngua
-hippopotami
-hippopotami
-
-@hippopotamus: (dong vat hoc) lon nuoc, ha ma
+hippopotamus: (dong vat hoc) lon nuoc, ha ma
 hippy: (tu My,nghia My) thanh nien lap di chong lai nhung qui uoc xa hoi, hip pi
 hipster: nguoi me nhac ja
 hirable: co the thue, co the cho thue
@@ -24183,9 +24138,7 @@ indefensibility: tinh chat (tinh trang) khong the bao ve duoc, tinh chat (tinh t
 indefensible: khong the bao ve duoc, khong the phong thu duoc; khong the chong giu duoc
 indefinability: tinh khong the dinh nghia duoc
 indefinable: khong the dinh nghia duoc
-indefinableness
-
-@indefinite: map mo, khong ro rang, khong dut khoat
+indefinite: map mo, khong ro rang, khong dut khoat
 indefiniteness: tinh map mo, tinh khong ro rang, tinh khong dut khoat
 indefinitive: khong dut khoat, khong dinh ro
 indefinitiveness: tinh khong dut khoat, tinh khong dinh ro
@@ -25297,10 +25250,7 @@ interchangeableness: tinh co the thay cho nhau
 interchurch: chung vao cac giao phai; giua cac giao phai
 interclass: giua cac loai; giua cac lop
 intercollege: giua cac dai hoc
-intercollegiate
-intercollegiate
-
-@intercolonial: giua cac thuoc dia
+intercolonial: giua cac thuoc dia
 intercolumniation: su dung cot cach quang
 intercom: he thong lien lac giua hai bo phan
 intercommunicability: su co lien lac voi nhau, su co duong thong voi nhau
@@ -25456,10 +25406,7 @@ intermixture: su tron lan
 intermodulation: (raddio) su dieu bien qua lai
 intermolecular: giua cac phan tu, gian phan tu
 intermontane: giua cac nui, gian son
-intermountain
-intermountain
-
-@intermundane: giua cac thien the
+intermundane: giua cac thien the
 intermural: giua nhung buc tuong (cua mot ngoi nha...)
 intern: (nhu) interne
 internal: o trong, noi bo
@@ -25673,10 +25620,7 @@ intramolecular: (vat ly) trong phan tu, noi phan tu
 intramural: cua noi bo (mot truong, thanh pho, khoi nha...)
 intramuscullar: (giai phau) trong co
 intranational: trong nuoc
-intransigeancy
-???
-
-@intransigent: khong khoan nhuong (ve chinh tri)
+intransigent: khong khoan nhuong (ve chinh tri)
 intransigentism: tinh khong khoan nhuong
 intransitive: (ngon ngu hoc) noi dung (dong tu)
 intransitiveness: (ngon ngu hoc) tinh chat noi dong tu
@@ -26299,11 +26243,7 @@ jaggery: duong thot not
 jaggy: co mep lom chom (nhu rang cua)
 jaguar: (dong vat hoc) bao dom My
 jail: (nhu) goal
-jail-bird
-
-@jailer
-
-@jalap: (duoc hoc) thuoc tay jalap
+jalap: (duoc hoc) thuoc tay jalap
 jaloppy: (tu My,nghia My),  (tu long) xe o to coc cach; may bay op ep
 jalopy: (tu My,nghia My),  (tu long) xe o to coc cach; may bay op ep
 jalousie: buc manh, manh manh
@@ -29448,9 +29388,7 @@ manger: mang an (ngua, trau, bo...)
 mangle: (nghanh det) may can la
 mango: qua xoai
 mangold:  danh tu
-mangold-wurzel
-
-@mangosteen: (thuc vat hoc) cay mang cut
+mangosteen: (thuc vat hoc) cay mang cut
 mangrove: (thuc vat hoc) cay duoc
 mangy: ghe lo
 manhood: nhan cach, nhan tinh
@@ -30167,13 +30105,9 @@ messenger: nguoi dua tin, su gia
 messenger-pigeon: bo cau dua thu
 messiah: Chua cuu the
 messianic: (thuoc) Chua cuu the, nhu Chua Cuu the
-messieurs
-
-@messiness: su hon don, su lon xon, su bua bai, su ban thiu
+messiness: su hon don, su lon xon, su bua bai, su ban thiu
 messmate: nguoi an cung ban (o tren tau, trong quan doi...)
-messrs
-
-@messuage: (phap ly) khu nha (nha o cung voi nha phu va dat dai vuon tuoc)
+messuage: (phap ly) khu nha (nha o cung voi nha phu va dat dai vuon tuoc)
 messy: hon don, lon xon, bua bai, ban thiu
 mestizo: nguoi lai ((thuong) dung de chi nguoi Bo-ddao-nha,  Tay-ban-nha lai tho dan My)
 met: cuoc gap go (cua nhung nguoi di san o mot noi da hen truoc, cua nhung nha the thao de thi dau)
@@ -30282,9 +30216,7 @@ mezzanine: (kien truc) gac lung
 mezzo-soprano: (am nhac) giong nu trung
 mezzotint: phuong phap khac nao
 menage: phuong phap khac nao
-mesalliance
-
-@mi: (am nhac) Mi
+mi: (am nhac) Mi
 miaow: keu meo meo (meo)
 miasma: khi doc, chuong khi, am khi
 miasmal: co khi doc, day chuong khi, day am khi
@@ -30570,9 +30502,7 @@ minuteness: tinh nho be, tinh vun vat
 minutiae: nhung chi tiet vun vat
 minx: nguoi dan ba lang loan, nguoi dan ba chua ngoa
 miocen: (dia ly,ddia chat) the mioxen
-mioses
-
-@miracle: phep mau, phep than dieu
+miracle: phep mau, phep than dieu
 miracle: thuoc tien
 miraculous: than dieu, huyen dieu
 miraculousness: tinh than dieu, tinh huyen dieu
@@ -31292,9 +31222,7 @@ motor: tau phong ngu loi ((cung) motor_torpedo-boat)
 motor-bike: (thong tuc) xe mo to, xe may
 motor-boat: di thuyen may, di xuong may
 motor-car: xe o to
-motor-coach
-
-@motor-cycle: xe mo to
+motor-cycle: xe mo to
 motor-cyclist: nguoi di xe mo to, nguoi lai xe mo to
 motor-scooter: xe mo to banh nho (loai vetpa)
 motor-ship: thuyen may
@@ -31659,9 +31587,7 @@ mythmaker: nguoi sang tac chuyen than thoai
 mythmaking: su sang tac chuyen than thoai
 mythographer: nha chep than thoai
 mythography: nghe thuat mo ta chuyen than thoai
-mythologer
-
-@mythologic: (thuoc) than thoai hoc; (thuoc) than thoai
+mythologic: (thuoc) than thoai hoc; (thuoc) than thoai
 mythological: (thuoc) than thoai hoc; (thuoc) than thoai
 mythologist: nha nghien cuu than thoai, nha than thoai hoc
 mythologize: than thoai hoa
@@ -31885,9 +31811,7 @@ nebulae: (thien van hoc) tinh van
 nebular: (thien van hoc) (thuoc) tinh van
 nebulosity: may mu
 nebulous: am u, u am
-necessarian
-
-@necessarily: tat yeu, nhat thiet
+necessarily: tat yeu, nhat thiet
 necessary: can, can thiet, thiet yeu
 necessitarian: (triet hoc) (thuoc) thuyet tat yeu, (thuoc) thuyet dinh menh
 necessitarianism: (triet hoc) thuyet tat yeu, thuyet dinh menh
@@ -33793,9 +33717,7 @@ orthogamy: (sinh vat hoc) su truc giao
 orthogenesis: su phat sinh thang, su phat sinh dinh huong
 orthogenetic: truc sinh
 orthogenic: truc sinh
-orthognathic
-
-@orthognathism: tinh trang co ham thang
+orthognathism: tinh trang co ham thang
 orthognathous: co ham thang
 orthogonal: (toan hoc) truc giao
 orthogonality: (toan hoc) tinh truc giao
@@ -34022,9 +33944,7 @@ outflow: su chay manh ra (cua nuoc); su di ra, su thoat ra, su chay ra
 outflown: bay cao hon, bay xa hon, bay nhanh hon
 outfly: bay cao hon, bay xa hon, bay nhanh hon
 outfoot: di nhanh hon (thuyen, nguoi), chay nhanh hon (nguoi)
-outfought
-
-@outfox: thang, cao gia hon, lau ca hon
+outfox: thang, cao gia hon, lau ca hon
 outgaze: nhin (lam ai phai luong cuong)
 outgeneral: hon (ve chien luoc)
 outgo: di truoc, vuot len truoc
@@ -34231,9 +34151,7 @@ overarch: uon thanh vom o tren
 overarm: (the duc,the thao) tung cao, danh bang tay gio cao hon vai (cricke)
 overate: an qua nhieu, an qua muc
 overawe: qua so, qua kinh ne
-overbade
-
-@overbalance: trong luong thua; so luong thua (sau khi can, so sanh...)
+overbalance: trong luong thua; so luong thua (sau khi can, so sanh...)
 overbear: de xuong, nen xuong
 overbearing: hong hach
 overbearingness: tinh hong hach
@@ -35563,9 +35481,7 @@ peddling: nghe ban rong, nghe ban rao
 pederasty: thoi dong dam nam
 pedestal: be, don
 pedestrian: bang chan, bo
-pedestrician
-
-@pediatrics: (y hoc) khoa tre em
+pediatrics: (y hoc) khoa tre em
 pediatrist: bac si khoa tre em
 pedicab: xe xich lo
 pedicel: (thuc vat hoc) cuong nho
@@ -36713,9 +36629,7 @@ piperazin: (duoc hoc) piperazin
 pipette: pipet (dung trong thi nghiem hoa hoc)
 piping: su thoi sao, su thoi tieu; su thoi ken tui
 pipistrel: (dong vat hoc) doi muoi
-pipistrelle
-
-@pipit: (dong vat hoc) chim se dong
+pipit: (dong vat hoc) chim se dong
 pipkin: noi dat nho; chao dat nh
 pippin: tao pipin (co dom ngoai vo)
 pipy: co nhieu ong dan
@@ -38275,7 +38189,7 @@ price: gia ((nghia den) & (nghia bong))
 price: praislist/
 price-boom: muc gia ca tang vot; su tang vot gia ca
 price-list: praislist/
-@price-ring: hoi lien hiep gia ca (giua bon tu ban doc quyen de nang hoac giu gia)
+price-ring: hoi lien hiep gia ca (giua bon tu ban doc quyen de nang hoac giu gia)
 price-wave: su dao dong gia ca
 priced: co gia, co de gia
 priceless: vo gia; khong dinh gia duoc
@@ -38439,8 +38353,7 @@ procession: dam ruoc; cuoc dieu hanh; doan dieu hanh (nguoi, xe, thuyen...)
 processional: (thuoc) dam ruoc; dung trong dam ruoc; mang trong dam ruoc, hat trong dam ruoc
 processionist: nguoi di trong dam ruoc, nguoi di theo dam ruoc; nguoi dieu hanh
 processionize: di trong dam ruoc, di theo dam ruoc; dieu hanh
-proces-verbal
-*: proces-verbaux
+proces-verbal: proces-verbaux
 proclaim: cong bo, tuyen bo
 proclaimation: su cong bo, su tuyen bo
 proclitic: (ngon ngu hoc) ghep truoc
@@ -38821,8 +38734,7 @@ protester: nguoi phan doi, nguoi phan khang, nguoi khang nghi
 protestingly: phan doi, phan khang, khang nghi
 protestor: nguoi phan doi, nguoi phan khang, nguoi khang nghi
 proteus: (than thoai,than hoc) than Pro-te
-protege
-*: protegee
+protege: protegee
 prothallium: (thuc vat hoc) nguyen tan
 prothesis: (ton giao) ban de do le
 protista: (sinh vat hoc) sinh vat nguyen sinh
@@ -38862,8 +38774,7 @@ pround-stomached: praud'spiritid/ (pround-stomached)
 provable: co the chung to, co the chung minh
 provableness: su chung to, su chung minh
 provenance: nguon goc, lai lich, noi phat hanh
-provenAal
-*: co kho (cho suc vat)
+provenAal: co kho (cho suc vat)
 provenience: nguon goc, lai lich, noi phat hanh
 proverb: tuc ngu, cach ngon
 proverbial: (thuoc) tuc ngu, (thuoc) cach ngon
@@ -38902,8 +38813,7 @@ prowess: su anh dung, su dung cam; long can dam
 prowl: su di lang vang, su di rinh mo (kiem moi, an trom...); su di vo van
 prowl: xe di tuan (cua cong an)
 prowler: thu di rinh mo kiem moi
-prox.
-*: (giai phau) o dau gan
+prox: (giai phau) o dau gan
 proximate: gan, gan nhat, sat gan
 proximity: trang thai gan (ve khong gian, thoi gian...))
 proximity: (quan su) thiet bi dieu khien ten lua no khi toi gan dich
@@ -39144,9 +39054,7 @@ punchinello: (Punchinello) Pun-si-ne-lo (nhan vat chinh trong vo mua roi Y)
 punchy: (thong tuc),  (nhu) drunk
 puncta: dom, diem, cham
 punctate: (dong vat hoc) co dom nho
-punctated
-
-@punctilio: chi tiet ti mi, hinh thuc vun vat (nghi le...)
+punctilio: chi tiet ti mi, hinh thuc vun vat (nghi le...)
 punctilious: chu y den nhung chi tiet ti mi, hay hinh thuc vun vat, ky tinh, cau ne
 punctiliousness: tinh hay chu y den chi tiet ti mi, tinh hinh thuc vun vat, tinh cau ne
 punctual: (thuoc) diem; nhu mot diem
@@ -39194,9 +39102,7 @@ pupilize: day, kem (hoc sinh)
 pupillage: (phap ly) thoi ky duoc giam ho; tinh trang duoc giam ho; thoi ky vi thanh nien
 pupillarity: (phap ly) thoi ky duoc giam ho; thoi ky vi thanh nien
 pupillary: (thuoc) hoc sinh
-pupillize
-
-@pupilship: tu cach hoc sinh, thau nhan hoc sinh
+pupilship: tu cach hoc sinh, thau nhan hoc sinh
 pupiparous: de au trung (sau bo)
 puppet: con roi
 puppet-play:  danh tu
@@ -39391,9 +39297,7 @@ pyroconductivity: tinh dan hoa dien
 pyroelectric: hoa dien
 pyroelectricity: hien tuong hoa dien
 pyrogenetic: (y hoc) gay sot
-pyrogenic
-
-@pyrogenous: (dia ly,dia chat) hoa sinh, do lua
+pyrogenous: (dia ly,dia chat) hoa sinh, do lua
 pyrographer: tho khac nung
 pyrographic: (thuoc) thuat khac nung
 pyrography: thuat khac nung
@@ -40041,9 +39945,7 @@ rat-catcher: nguoi bat chuot
 rat-face: (tu My,nghia My),  (tu long) nguoi xao quyet nguy hiem
 rat-poison: ba chuot, thuoc diet chuot
 rat-race: cuoc ganh dua quyet liet
-rat-tat
-
-@rat-trap: cai bay chuot
+rat-trap: cai bay chuot
 ratable: co the danh gia duoc
 ratafee: ruou hanh
 ratafia: ruou hanh
@@ -40503,11 +40405,7 @@ red-light: den do (tin hieu bao nguy, tin hieu bao dung lai
 red-necked: co co do
 red-rogue: (tu long) dong tien vang
 red-short: (ky thuat) gion (luc) nong
-red-tapery
-
-@red-tapism
-
-@red-tapist: nguoi quan lieu, nguoi quan lieu giay to
+red-tapist: nguoi quan lieu, nguoi quan lieu giay to
 redact: soan, viet, bien tap (bai bao, bai van)
 redaction: su soan, su viet (bai bao, bai van)
 redactor: nguoi bien tap
@@ -40586,9 +40484,7 @@ reffector: (vat ly) guong, guong phan xa; cai phan xa
 reffex: anh sang phan chieu; vat phan chieu, bong phan chieu trong guong
 reffexibility: tinh phan chieu, tinh phan xa
 reffexible: co the phan chieu, co the phan xa
-reffexion
-
-@reffexive: (ngon ngu hoc) phan than
+reffexive: (ngon ngu hoc) phan than
 refill: cai du tru (de lam day lai); cai de thay the (cho cai gi hong hoac dung het)
 refine: loc, loc trong, luyen tinh, tinh che
 refined: nguyen chat (vang)
@@ -56202,7 +56098,7 @@ welter-weight: (the duc,the thao) vo si hang ban trung
 wen: (y hoc) buou giap
 wench: thieu nu, co gai; thon nu
 wend: huong (buoc di) ve phia
-@went: wept /wi:p/
+went: wept /wi:p/
 were: thi, la
 weren't: werewolf /'w :wulf/ (werewolf) /'w :wulf/
 wert: werwolf /'w :wulf/ (werewolf) /'w :wulf/
@@ -56322,7 +56218,7 @@ whim: y chot ny ra; y thich chot ny ra
 whimper: tieng khoc thut thit; giong ren ri
 whimperer: nguoi khoc thut thit; nguoi ren ri
 whimpering: khoc thut thit; ren ri
-@whimsical: bat thuong, hay thay doi
+whimsical: bat thuong, hay thay doi
 whimsicality: tinh tinh bat thuong, tinh hay thay doi, tinh dong bong
 whimsicalness: tinh tinh bat thuong, tinh hay thay doi, tinh dong bong
 whimsy: (nhu) whim
@@ -57112,7 +57008,7 @@ yonder: kia, dang kia, dang xa kia
 yore: of yore xua, ngay xua
 you: anh, chi, ong, ba, ngai, nguoi, may; cac anh, cac chi, cac ong, cac ba, cac ngai, cac nguoi, chung may
 you'd: you'll /ju:l/
-you're: @you've /ju:v/
+you're: you've /ju:v/
 young: tre, tre tuoi, thieu nien, thanh nien
 younger: ut
 youngish: kha tre, hoi tre
