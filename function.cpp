@@ -166,19 +166,13 @@ bool Dictionary :: searchByDef(string def, Node*& tree,string& ans, int& positio
     int index = charToIndex(def[0]);
     Node* cur = tree->child[index];
     if(cur){
-//        for(auto x : cur->defList){
-//            if(strlen(strstr(x.first.c_str(),def.c_str())) > 0){
-//                ans = x.second;
-//                return true;
-//            }
-//        }
-        for(int i = 0; i < cur->defList.size(); ++i) {
-            if(cur->defList[i].first == def) {
-                ans = cur->defList[i].second;
-                positionInDefList = i;
-                return true;
-            }
-        }
+       for(int i = 0; i < cur->defList.size(); ++i){
+           if(strstr(cur->defList[i].first.c_str(),def.c_str())){
+               ans = cur->defList[i].second;
+               positionInDefList = i;
+               return true;
+           }
+       }
     }
     return false;
 }

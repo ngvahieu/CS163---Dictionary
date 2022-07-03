@@ -17,11 +17,12 @@ struct Node {
     // vector<string> saves definitions.
     // just push if a node is a last character of a specific word.
 
-    vector<pair<string,string>> defList;
+    vector<pair<string, string>> defList;
     // only save to first character Node for searching definition.
     Node() {
         isLastChar = false;
         for (int i = 0; i < 95; i++) child[i] = nullptr;
+        def.resize(0); defList.resize(0);
     }
 };
 struct Word {
@@ -43,10 +44,10 @@ public:
 
     void getAllWordsToTree(Node*& tree, int choice); // get all words in a specific file.
     Node* searchByKey(Node* tree, string key);
-    bool searchByDef(string def, Node*& tree,string& ans, int positionInDefList);
+    bool searchByDef(string def, Node*& tree, string& ans, int& positionInDefList);
     void viewHistoryWords(int choice);
     void addNewWord(string word, string def, Node*& tree, int choice);
-    bool editDef(Dictionary& dict, int choice, string def, string newDef);
+    void editWord(string word, Node*& tree, int choice);
     void removeWord(string word, Node*& tree, int choice);
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
@@ -60,4 +61,4 @@ vector<char> splitWord(string word); // split a word into characters.
 vector<Word> getWordsFromFile(int choice);
 void inputWordToTree(Node*& root, Word word); // put a word to tree
 void saveTreeToFile(Node*& tree, int choice); // save Trie tree to text file.
-void deleteTree(Node*& tree); // delete a Trie tree
+void deleteTree(Node*& tree); // delete a Trie tree 
