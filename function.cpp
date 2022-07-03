@@ -189,27 +189,33 @@ Node* Dictionary::searchByKey(Node* tree, string key) {
     }
     else return NULL;
 }
-bool Dictionary::editDef(Dictionary& dict, int choice, string def, string newDef) {
-    string key;
-    int pos;
-    // search the position in defList
-    if(dict.searchByDef(def, dict.tree[choice], key, pos)) {
-        // delete the old pair(def,key) that the deList contained
-        dict.tree[choice]->child[def[0]]->defList.erase(dict.tree[choice]->child[def[0]]->defList.begin()+pos);
-        // delete def in last node
-        Node* last = dict.searchByKey(dict.tree[choice], key);
-        if(last) {
-            for(int i = 0; i < last->def.size(); ++i) {
-                if(last->def[i] == def) {
-                    last->def.erase(last->def.begin()+i);
-                    break;
-                }
-            }
-            // add new word to tree
-            Word w; w.key = key; w.def = newDef;
-            inputWordToTree(dict.tree[choice], w);
-            return true;
+void Dictionary::editDef(Dictionary& dict, int choice, string key) {
+    int pos, select;
+    string oldDef, newDef;
+    // search key
+    Node*last = dict.searchByKey(dict.tree[choice], key);
+    if(last) {
+        for(int i = 0; i < last->def.size(); ++i) {
+            cout << i+1 << ". " << last->def[i] << endl;
         }
+        cout << "Which one do you want to edit?(Enter a number)" << endl;
+        cin >> select;
+        oldDef = last->def[select-1];
+        cout << "Change " << select << " to: ";
+        getline(cin, newDef);
+        // delete the old def in def(lastNode)
+        last->def.erase(last->def.begin()+select-1);
+        // delete the old def in defList(Node has a list of defs start by that Node's character)
+        dict.searchByDef(oldDef, dict.tree[choice], key, pos);
+        dict.tree[choice]->defList.erase(dict.tree[choice]->defList.begin()+pos);
+        // add newWord into tree
+        Word w; w.key = key; w.def = newDef;
+        inputWordToTree(dict.tree[choice], w);
+        cout << "Editing successed!" << endl;
+        return;
     }
-    return false;
+    else {
+        cout << "Key can't be found" << endl;
+        return;
+    }
 }

@@ -47,7 +47,7 @@ public:
     bool searchByDef(string def, Node*& tree, string& ans, int& positionInDefList);
     void viewHistoryWords(int choice);
     void addNewWord(string word, string def, Node*& tree, int choice);
-    void editWord(string word, Node*& tree, int choice);
+    void editDef(Dictionary& dict, int choice, string key);
     void removeWord(string word, Node*& tree, int choice);
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
