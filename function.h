@@ -46,7 +46,8 @@ public:
     Node* searchByKey(Node* tree, string key);
     bool searchByDef(string def, Node*& tree, string& ans, int& positionInDefList);
     bool addNewWord(Word newWord, Dictionary& dict, int choice);
-    void viewHistoryWords(int choice);
+    void historyOfSearch(vector<pair<string,vector<string>>> &his, string key, Node* pLastChar);// put in the menu of search key(after the searchByKey function)
+    void viewHistoryWords(vector<pair<string,vector<string>>> his);
     bool addNewWord(Word newWord, Node*& tree);
     void editDef(Dictionary& dict, int choice, string key);
     void removeWord(string word, Node*& tree, int choice);

@@ -240,3 +240,17 @@ void Dictionary::editDef(Dictionary& dict, int choice, string key) {
         return;
     }
 }
+// Hung
+void Dictionary::historyOfSearch(vector<pair<string,vector<string>>> &his, string key, Node* pLastChar) {
+    his.push_back({key, pLastChar->def});
+}
+// Hung
+void Dictionary::viewHistoryWords(vector<pair<string,vector<string>>> his) {
+    cout << "HISTORY OF SEARCH WORDS" << endl;
+    for(int i = 0; i < his.size(); ++i) {
+        cout << i+1 << ". " << his[i].first << ":" << end;
+        for(int j = 0; j < his[i].second.size(); ++j) 
+            cout << " " << i+1 << "." << j+1 << " " << his[i].second[j] << endl;
+    }
+    cout << endl;
+}
