@@ -50,7 +50,7 @@ public:
     void viewHistoryWords(vector<pair<string,vector<string>>> his);
     bool addNewWord(Word newWord, Node*& tree);
     void editDef(Dictionary& dict, int choice, string key);
-    void removeWord(string word, Node*& tree, int choice);
+    void removeWord(Dictionary& dict, int choice, string key);
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
     void addFavWord(string word, int choice);
