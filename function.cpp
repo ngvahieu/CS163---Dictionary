@@ -254,3 +254,25 @@ void Dictionary::viewHistoryWords(vector<pair<string,vector<string>>> his) {
     }
     cout << endl;
 }
+void Dictionary::removeWord(Dictionary& dict, int choice, string key) {
+    Node* pLastChar = dict.searchByKey(dict.tree[choice], key);
+    if(pLastChar) {
+        int select = 0, pos;
+        string oldDef;
+        for(int i = 0; i < pLastChar->def.size(); ++i) {
+            cout << i+1 << ": " << pLastChar->def[i] << endl;
+        }
+        cout << "Choose the one you want to remove: "; cin >> select;
+        oldDef = pLastChar->def[select-1];
+        // delete in def
+        pLastChar->def.erase(pLastChar->def.begin()+select-1);
+        // delete in defList
+        dict.searchByDef(oldDef, dict.tree[choice], key, pos);
+        dict.tree[choice]->child[oldDef[0]]->defList.erase(dict.tree[choice]->defList.begin()+pos);
+        if(pLastChar->def.size() == 0) {
+            pLastChar->isLastChar = false;
+        }
+    }
+    else
+        cout << "Not found the word!" << endl;
+}
