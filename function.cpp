@@ -187,6 +187,7 @@ bool Dictionary::addNewWord(Word newWord,Dictionary& dict,int choice) {
         }
     }
     inputWordToTree(dict.tree[choice], newWord);
+    return true;
 }
 // Hung
 Node* Dictionary::searchByKey(Node* tree, string key) {
@@ -275,4 +276,21 @@ void Dictionary::removeWord(Dictionary& dict, int choice, string key) {
     }
     else
         cout << "Not found the word!" << endl;
+}
+
+//Khoa
+int ranNum(int min, int max)
+{
+    return rand() % (max - min + 1) + min;
+}
+
+void Dictionary::viewRanWord(Node& tree)
+{
+    if (!tree) return;
+    int indexChar = ranNum(0, 94);
+    while (!tree.child[indexChar] || tree.child[indexChar]->defList.size() == 0)
+        indexChar = ranNum(0, 94);
+    int indexDef = ranNum(0, tree.child[indexChar]->defList.size() - 1);
+    cout << "Random word: " << tree.child[indexChar]->defList[indexDef].second << "\n";
+    cout << "Definition -> " << tree.child[indexChar]->defList[indexDef].first << "\n";
 }

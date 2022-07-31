@@ -54,10 +54,14 @@ public:
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
     void addFavWord(string word, int choice);
-    void viewRanWord(Node*& tree, int choice);
+
+    /*void viewRanWord(Node*& tree, int choice);*/
+    void viewRanWord(Node& tree);
+
     void guessDef(Node*& tree, int choice);
     void guessWord(Node*& tree, int choice);
 };
+int ranNum(int min, int max); //return a random number in a range
 int charToIndex(char a); // change a character to equivalent index in TrieNode.
 vector<char> splitWord(string word); // split a word into characters.
 vector<Word> getWordsFromFile(int choice);
