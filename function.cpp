@@ -179,7 +179,7 @@ bool Dictionary::searchByDef(string def, Node*& tree, string& ans, int& position
     return false;
 }
 // V.Hieu
-bool Dictionary::addNewWord(Word newWord,Dictionary& dict,int choice) {
+bool Dictionary::addNewWord(Word newWord, Dictionary& dict, int choice) {
     Node* lastChar = searchByKey(dict.tree[choice], newWord.key);
     if (lastChar) {
         for (int i = 0; i < lastChar->def.size(); i++) {
@@ -249,7 +249,7 @@ void Dictionary::historyOfSearch(vector<pair<string,vector<string>>> &his, strin
 void Dictionary::viewHistoryWords(vector<pair<string,vector<string>>> his) {
     cout << "HISTORY OF SEARCH WORDS" << endl;
     for(int i = 0; i < his.size(); ++i) {
-        cout << i+1 << ". " << his[i].first << ":" << end;
+        cout << i+1 << ". " << his[i].first << ":" << endl;
         for(int j = 0; j < his[i].second.size(); ++j) 
             cout << " " << i+1 << "." << j+1 << " " << his[i].second[j] << endl;
     }
@@ -284,13 +284,13 @@ int ranNum(int min, int max)
     return rand() % (max - min + 1) + min;
 }
 
-void Dictionary::viewRanWord(Node& tree)
+void Dictionary::viewRanWord(Node*& tree)
 {
     if (!tree) return;
     int indexChar = ranNum(0, 94);
-    while (!tree.child[indexChar] || tree.child[indexChar]->defList.size() == 0)
+    while (!tree->child[indexChar] || tree->child[indexChar]->defList.size() == 0)
         indexChar = ranNum(0, 94);
-    int indexDef = ranNum(0, tree.child[indexChar]->defList.size() - 1);
-    cout << "Random word: " << tree.child[indexChar]->defList[indexDef].second << "\n";
-    cout << "Definition -> " << tree.child[indexChar]->defList[indexDef].first << "\n";
+    int indexDef = ranNum(0, tree->child[indexChar]->defList.size() - 1);
+    cout << "Random word: " << tree->child[indexChar]->defList[indexDef].second << "\n";
+    cout << "Definition -> " << tree->child[indexChar]->defList[indexDef].first << "\n";
 }

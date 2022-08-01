@@ -56,7 +56,7 @@ public:
     void addFavWord(string word, int choice);
 
     /*void viewRanWord(Node*& tree, int choice);*/
-    void viewRanWord(Node& tree);
+    void viewRanWord(Node*& tree);
 
     void guessDef(Node*& tree, int choice);
     void guessWord(Node*& tree, int choice);
