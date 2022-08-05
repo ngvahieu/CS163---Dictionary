@@ -337,7 +337,59 @@ vector<string> readFavfile(int choice)
 
 void Dictionary::addFavWord(string word, int choice)
 {
+    vector<string> favList = readFavfile(choice);
+    string filename;
 
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "favEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "favSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "favEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "favEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "favViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
+
+    ofstream fout;
+    if (favList.size() < 5)
+    {
+        fout.open("favList/" + filename, ios::app);
+        if (fout)
+        {
+            if (favList.size() != 0) fout << '\n';
+            fout << word;
+            fout.close();
+        }
+    }
+    else
+    {
+        cout << "Favourite list can only store 5 words maximum! Please remove other words first.\n";
+        viewFavList(choice);
+        string str;
+        cout << "Type word you want to remove: ";
+        getline(cin, str, '\n');
+        removeFavWord(str, choice);
+        addFavWord(word, choice);
+    }
+}
+
+void viewFavList(int choice)
+{
+    vector<string> favList = readFavfile(choice);
+    cout << "Your favourite list: " << '\n';
+    for (int i = 0; i < favList.size(); i++)
+        cout << i + 1 << ". " << favList[i] << '\n';
 }
 
 //Khoa
