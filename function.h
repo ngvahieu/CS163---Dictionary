@@ -61,10 +61,12 @@ public:
     void guessDef(Node*& tree, int choice);
     void guessWord(Node*& tree, int choice);
 };
+vector<string> readFavfile(int choice);
+vector<string> readHisfile(int choice);
 int ranNum(int min, int max); //return a random number in a range
 int charToIndex(char a); // change a character to equivalent index in TrieNode.
 vector<char> splitWord(string word); // split a word into characters.
 vector<Word> getWordsFromFile(int choice);
 void inputWordToTree(Node*& root, Word word); // put a word to tree
-void saveTreeToFile(Node*& tree, int choice); // save Trie tree to text file.
+//void saveTreeToFile(Node*& tree, int choice); // save Trie tree to text file.
 void deleteTree(Node*& tree); // delete a Trie tree 

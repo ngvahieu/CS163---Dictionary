@@ -294,3 +294,88 @@ void Dictionary::viewRanWord(Node*& tree)
     cout << "Random word: " << tree->child[indexChar]->defList[indexDef].second << "\n";
     cout << "Definition -> " << tree->child[indexChar]->defList[indexDef].first << "\n";
 }
+
+//Khoa
+vector<string> readFavfile(int choice)
+{
+    vector<string> favList;
+    string filename;
+
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "favEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "favSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "favEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "favEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "favViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
+
+    ifstream fin;
+    string str;
+    fin.open("favList/" + filename, ios::in);
+    if (fin)
+    {
+        while (getline(fin, str, '\n'))
+            favList.push_back(str);
+        fin.close();
+    }
+    
+    return favList;
+}
+
+void Dictionary::addFavWord(string word, int choice)
+{
+
+}
+
+//Khoa
+vector<string> readHisfile(int choice)
+{
+    vector<string> hisList;
+    string filename;
+
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "hisEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "hisSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "hisEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "hisEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "hisViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
+
+    ifstream fin;
+    string str;
+    fin.open("historyList/" + filename, ios::in);
+    if (fin)
+    {
+        while (getline(fin, str, '\n'))
+            hisList.push_back(str);
+        fin.close();
+    }
+
+    return hisList;
+}
