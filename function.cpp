@@ -431,3 +431,179 @@ vector<string> readHisfile(int choice)
 
     return hisList;
 }
+
+
+
+//Q.Hieu 
+vector<Word> getWordsFromfavFile(int choice) {
+    vector<Word> dict;
+
+    switch (choice) {
+    case 0: { // emojis
+        ifstream fin; fin.open("favEmotional.txt", ios::in);
+        char check;
+        string firstTaken, secondTaken;
+        Word temp;
+        while (!fin.eof()) {
+            getline(fin, firstTaken, ':');
+            fin.get(check);
+            if (check != ' ') {
+                if (check == ':') {
+                    getline(fin, secondTaken, '\n');
+                    temp.key = firstTaken + check;
+                    temp.def = secondTaken;
+                }
+                else {
+                    getline(fin, secondTaken, ':');
+                    temp.key = firstTaken + ':' + check + secondTaken;
+                    getline(fin, secondTaken, '\n');
+                    temp.def = secondTaken;
+                }
+            }
+            else { // ...:(space)...
+                getline(fin, secondTaken, '\n');
+                temp.key = firstTaken;
+                temp.def = check + secondTaken;
+            }
+            temp.def.erase(temp.def.begin());
+            dict.push_back(temp);
+        }
+        fin.close();
+    }
+          break;
+    case 1: { // slang
+        ifstream fin; fin.open("favSlang.txt", ios::in);
+        Word temp;
+        char check;
+        string firstTaken, secondTaken, s;
+        while (!fin.eof()) {
+            getline(fin, firstTaken, ':');
+            fin.get(check);
+            if (check != ' ') {
+                if (check == ':') {
+                    getline(fin, secondTaken, '\n');
+                    temp.key = firstTaken + check; temp.def = secondTaken;
+                }
+                else {
+                    getline(fin, secondTaken, ':');
+                    temp.key = firstTaken + ':' + check + secondTaken;
+                    getline(fin, secondTaken, '\n');
+                    temp.def = secondTaken;
+                }
+            }
+            else { // ...:(space)...
+                getline(fin, secondTaken, '\n');
+                temp.key = firstTaken;
+                temp.def = check + secondTaken;
+            }
+            temp.def.erase(temp.def.begin());
+            dict.push_back(temp);
+        }
+        fin.close();
+    }
+          break;
+    case 2: { // Eng to Eng
+        ifstream fin; fin.open("favEng-Eng.txt", ios::in);
+        Word temp;
+        while (!fin.eof()) {
+            getline(fin, temp.key, ':');
+            fin.ignore(1);
+            getline(fin, temp.def, '\n');
+            dict.push_back(temp);
+        }
+        fin.close();
+    }
+          break;
+    case 3: { // Eng to Viet
+        ifstream fin; fin.open("favEng-Viet.txt", ios::in);
+        Word temp;
+        while (!fin.eof()) {
+            getline(fin, temp.key, ':');
+            fin.ignore(1);
+            getline(fin, temp.def, '\n');
+            dict.push_back(temp);
+        }
+        fin.close();
+    }
+          break;
+    case 4: { // Viet to Eng
+        ifstream fin; fin.open("favViet-Eng.txt", ios::in);
+        Word temp;
+        while (!fin.eof()) {
+            getline(fin, temp.key, ':');
+            fin.ignore(1);
+            getline(fin, temp.def, '\n');
+            dict.push_back(temp);
+        }
+        fin.close();
+    }
+          break;
+    }
+    return dict;
+}
+void removeFavWord(string word, int choice) {
+    ifstream fin;
+    ofstream fout;
+    switch (choice) {
+    case 0 : //emotional 
+    {
+        vector<Word> vt = getWordsFromfavFile(0)
+        fout.open("favEmotional.txt" | ios::trunc);
+        if (!fout.is_open() cout << "Can not open the file ";
+        int seclect = 0 ; 
+        for (int i = 0; i < vt.size(); i++) {
+            fout<<i+1 <<": "<< vt->def[i] <<endl ;
+        }
+        cout << "Choose the one you want to remove: "; cin >> select; 
+        vt->def.erase(pLastChar->def.begin() + select - 1);
+        fout.close();
+    }
+    case 1 : // slang
+    {
+        vector<Word> vt = getWordsFromfavFile(1)
+        fout.open("favSlang.txt"|| ios::trunc);
+        if (!fout.is_open() cout << "Can not open the file ";
+        int seclect = 0;
+        for (int i = 0; i < vt.size(); i++) {
+             fout << i + 1 << ": " << vt->def[i] << endl;
+            }
+        cout << "Choose the one you want to remove: "; cin >> select;
+        vt->def.erase(pLastChar->def.begin() + select - 1);
+        fout.close();
+    }
+    case 2: { // eng to eng 
+        vector<Word> vt = getWordsFromfavFile(2)
+        fout.open("favEng-Eng.txt" || ios::trunc);
+        if(!fout.is_open()) cout<<"Can not open the file " ;
+        int seclect = 0;
+        for (int i = 0; i < vt.size(); i++) {
+            fout << i + 1 << ": " << vt->def[i] << endl;
+        }
+        cout << "Choose the one you want to remove: "; cin >> select;
+        vt->def.erase(pLastChar->def.begin() + select - 1);
+        fout.close();
+    }
+    case 3: {// eng to viet 
+        vector<Word> vt = getWordsFromfavFile(3)
+        fout.open("favEng-Viet.txt" || ios::trunc);
+        if (!fout.is_open()) cout << "Can not open the file ";
+        int seclect = 0;
+        for (int i = 0; i < vt.size(); i++) {
+            fout << i + 1 << ": " << vt->def[i] << endl;
+        }
+        cout << "Choose the one you want to remove: "; cin >> select;
+        vt->def.erase(pLastChar->def.begin() + select - 1);
+        fout.close();
+    }
+    case 4: {//viet to eng 
+        vector<Word> vt = getWordsFromfavFile(4)
+        fout.open("favViet-Eng.txt" || ios::trunc);
+        if (!fout.is_open()) cout << "Can not open the file ";
+        int seclect = 0;
+        for (int i = 0; i < vt.size(); i++) {
+            fout << i + 1 << ": " << vt->def[i] << endl;
+        }
+        cout << "Choose the one you want to remove: "; cin >> select;
+        vt->def.erase(pLastChar->def.begin() + select - 1);
+        fout.close();
+}
