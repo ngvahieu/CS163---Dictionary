@@ -553,8 +553,10 @@ void removeFavWord(string word, int choice) {
         int seclect = 0 ; 
         for (int i = 0; i < vt.size(); i++) {
             fout<<i+1 <<": "<< vt->def[i] <<endl ;
+            cout<<i+1 <<": "<< vt->def[i] <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select; 
+        vt.erase(pLastChar->def.begin() + select - 1);
         vt->def.erase(pLastChar->def.begin() + select - 1);
         fout.close();
     }
@@ -566,8 +568,10 @@ void removeFavWord(string word, int choice) {
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
              fout << i + 1 << ": " << vt->def[i] << endl;
+            cout<<i+1 <<": "<< vt->def[i] <<endl ;
             }
         cout << "Choose the one you want to remove: "; cin >> select;
+        vt.erase(pLastChar->def.begin() + select - 1);
         vt->def.erase(pLastChar->def.begin() + select - 1);
         fout.close();
     }
@@ -578,8 +582,10 @@ void removeFavWord(string word, int choice) {
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
             fout << i + 1 << ": " << vt->def[i] << endl;
+            cout<<i+1 <<": "<< vt->def[i] <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select;
+        vt.erase(pLastChar->def.begin() + select - 1);
         vt->def.erase(pLastChar->def.begin() + select - 1);
         fout.close();
     }
@@ -590,8 +596,10 @@ void removeFavWord(string word, int choice) {
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
             fout << i + 1 << ": " << vt->def[i] << endl;
+            cout<<i+1 <<": "<< vt->def[i] <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select;
+        vt.erase(pLastChar->def.begin() + select - 1);
         vt->def.erase(pLastChar->def.begin() + select - 1);
         fout.close();
     }
@@ -602,8 +610,10 @@ void removeFavWord(string word, int choice) {
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
             fout << i + 1 << ": " << vt->def[i] << endl;
+            cout<<i+1 <<": "<< vt->def[i] <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select;
+        vt.erase(pLastChar->def.begin() + select - 1);
         vt->def.erase(pLastChar->def.begin() + select - 1);
         fout.close();
 }
