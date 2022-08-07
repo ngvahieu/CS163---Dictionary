@@ -541,7 +541,7 @@ vector<Word> getWordsFromfavFile(int choice) {
     }
     return dict;
 }
-void removeFavWord(string word, int choice) {
+void Dictionary::removeFavWord(string word, int choice) {
     ifstream fin;
     ofstream fout;
     switch (choice) {
