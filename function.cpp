@@ -552,12 +552,12 @@ void removeFavWord(string word, int choice) {
         if (!fout.is_open() cout << "Can not open the file ";
         int seclect = 0 ; 
         for (int i = 0; i < vt.size(); i++) {
-            fout<<i+1 <<": "<< vt->def[i] <<endl ;
-            cout<<i+1 <<": "<< vt->def[i] <<endl ;
+            fout<<i+1 <<": "<< vt[i]->def <<endl ;
+            cout<<i+1 <<": "<< vt[i]->def <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select; 
-        vt.erase(pLastChar->def.begin() + select - 1);
-        vt->def.erase(pLastChar->def.begin() + select - 1);
+        vt.erase(vt->def.begin() + select - 1);
+        vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
     }
     case 1 : // slang
@@ -567,12 +567,12 @@ void removeFavWord(string word, int choice) {
         if (!fout.is_open() cout << "Can not open the file ";
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
-             fout << i + 1 << ": " << vt->def[i] << endl;
-            cout<<i+1 <<": "<< vt->def[i] <<endl ;
+             fout << i + 1 << ": " << vt[i]->def << endl;
+            cout<<i+1 <<": "<< vt[i]->def <<endl ;
             }
         cout << "Choose the one you want to remove: "; cin >> select;
-        vt.erase(pLastChar->def.begin() + select - 1);
-        vt->def.erase(pLastChar->def.begin() + select - 1);
+        vt.erase(vt->def.begin() + select - 1);
+        vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
     }
     case 2: { // eng to eng 
@@ -581,12 +581,12 @@ void removeFavWord(string word, int choice) {
         if(!fout.is_open()) cout<<"Can not open the file " ;
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
-            fout << i + 1 << ": " << vt->def[i] << endl;
-            cout<<i+1 <<": "<< vt->def[i] <<endl ;
-        }
+             fout << i + 1 << ": " << vt[i]->def << endl;
+            cout<<i+1 <<": "<< vt[i]->def <<endl ;
+            }
         cout << "Choose the one you want to remove: "; cin >> select;
-        vt.erase(pLastChar->def.begin() + select - 1);
-        vt->def.erase(pLastChar->def.begin() + select - 1);
+        vt.erase(vt->def.begin() + select - 1);
+        vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
     }
     case 3: {// eng to viet 
@@ -595,12 +595,12 @@ void removeFavWord(string word, int choice) {
         if (!fout.is_open()) cout << "Can not open the file ";
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
-            fout << i + 1 << ": " << vt->def[i] << endl;
-            cout<<i+1 <<": "<< vt->def[i] <<endl ;
-        }
+             fout << i + 1 << ": " << vt[i]->def << endl;
+            cout<<i+1 <<": "<< vt[i]->def <<endl ;
+            }
         cout << "Choose the one you want to remove: "; cin >> select;
-        vt.erase(pLastChar->def.begin() + select - 1);
-        vt->def.erase(pLastChar->def.begin() + select - 1);
+        vt.erase(vt->def.begin() + select - 1);
+        vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
     }
     case 4: {//viet to eng 
@@ -609,11 +609,11 @@ void removeFavWord(string word, int choice) {
         if (!fout.is_open()) cout << "Can not open the file ";
         int seclect = 0;
         for (int i = 0; i < vt.size(); i++) {
-            fout << i + 1 << ": " << vt->def[i] << endl;
-            cout<<i+1 <<": "<< vt->def[i] <<endl ;
-        }
+             fout << i + 1 << ": " << vt[i]->def << endl;
+            cout<<i+1 <<": "<< vt[i]->def <<endl ;
+            }
         cout << "Choose the one you want to remove: "; cin >> select;
-        vt.erase(pLastChar->def.begin() + select - 1);
-        vt->def.erase(pLastChar->def.begin() + select - 1);
+        vt.erase(vt->def.begin() + select - 1);
+        vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
 }
