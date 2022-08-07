@@ -617,3 +617,61 @@ void Dictionary::removeFavWord(string word, int choice) {
         vt->def.erase(vt->def.begin() + select - 1);
         fout.close();
 }
+void Dictionary::guessDef(Node*& tree) {
+    if (!tree) return;
+    int select;
+    int indexChar1 = ranNum(0, 94);
+    int indexChar2 = ranNum(0, 94); 
+    int indexChar3 = ranNum(0, 94);
+    int indexChar4 = ranNum(0, 94);
+    bool check = false; 
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 || indexChar1 == indexChar2 || indexChar1 = indexChar3 || indexChar1 == indexChar4 || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
+        indexChar1 = ranNum(0, 94);
+        indexChar2 = ranNum(0, 94);
+        indexChar3 = ranNum(0, 94);
+        indexChar4 = ranNum(0, 94);
+    }
+    int indexDef1 = ranNum(0, tree->child[indexChar1]->defList.size() - 1);
+    int indexDef2 = ranNum(0, tree->child[indexChar2]->defList.size() - 1);
+    int indexDef3 = ranNum(0, tree->child[indexChar3]->defList.size() - 1);
+    int indexDef4 = ranNum(0, tree->child[indexChar4]->defList.size() - 1);
+    cout << "Random word: " << tree->child[indexChar1]->defList[indexDef1].second << "\n";
+    cout << "Definition : " << endl;
+    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].first << endl;
+    cout << "2. " << tree->child[indexChar1]->defList[indexDef1].first << endl;
+    cout << "3. " << tree->child[indexChar3]->defList[indexDef3].first << endl;
+    cout << "4. " << tree->child[indexChar4]->defList[indexDef4].first << "\n";
+    cout << "Which the answer you choose : ";
+    cin >> select;
+    if (select == 2) cout << "Correct!";
+    else cout << "Wrong!";
+}
+void Dictionary::guessWord(Node*& tree) {
+    if (!tree) return;
+    int select;
+    int indexChar1 = ranNum(0, 94);
+    int indexChar2 = ranNum(0, 94);
+    int indexChar3 = ranNum(0, 94);
+    int indexChar4 = ranNum(0, 94);
+    bool check = false;
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 || indexChar1 == indexChar2 || indexChar1 = indexChar3 || indexChar1 == indexChar4 || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
+        indexChar1 = ranNum(0, 94);
+        indexChar2 = ranNum(0, 94);
+        indexChar3 = ranNum(0, 94);
+        indexChar4 = ranNum(0, 94);
+    }
+    int indexDef1 = ranNum(0, tree->child[indexChar1]->defList.size() - 1);
+    int indexDef2 = ranNum(0, tree->child[indexChar2]->defList.size() - 1);
+    int indexDef3 = ranNum(0, tree->child[indexChar3]->defList.size() - 1);
+    int indexDef4 = ranNum(0, tree->child[indexChar4]->defList.size() - 1);
+    cout << "Random Definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
+    cout << "Word : " << endl;
+    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].second <<endl;
+    cout << "2. " << tree->child[indexChar3]->defList[indexDef3].second << endl;
+    cout << "3. " << tree->child[indexChar1]->defList[indexDef1].second << endl;
+    cout << "4. " << tree->child[indexChar4]->defList[indexDef4].second << "\n";
+    cout << "Which the answer you choose : ";
+    cin >> select;
+    if (select == 3) cout << "Correct!";
+    else cout << "Wrong!";
+}
