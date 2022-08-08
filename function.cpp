@@ -432,6 +432,63 @@ vector<string> readHisfile(int choice)
     return hisList;
 }
 
+void addHisWord(string word, int choice)
+{
+    vector<string> hisList = readHisfile(choice);
+    string filename;
+
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "hisEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "hisSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "hisEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "hisEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "hisViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
+
+    ofstream fout;
+    if (hisList.size() < 5)
+    {
+        fout.open("hisList/" + filename, ios::app);
+        if (fout)
+        {
+            if (hisList.size() != 0) fout << '\n';
+            fout << word;
+            fout.close();
+        }
+    }
+    else
+    {
+        fout.open("hisList/" + filename);
+        if (fout)
+        {
+            for (int i = 1; i < hisList.size(); i++)
+                fout << hisList[i] << '\n';
+            fout << word;
+            fout.close();
+        }
+    }
+}
+
+void viewHisList(int choice)
+{
+    vector<string> hisList = readHisfile(choice);
+    cout << "Your search history: " << '\n';
+    for (int i = hisList.size() - 1; i >= 0; i--)
+        cout << hisList[i] << '\n';
+}
 
 
 //Q.Hieu 
