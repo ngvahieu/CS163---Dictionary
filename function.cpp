@@ -675,3 +675,23 @@ void Dictionary::guessWord(Node*& tree) {
     if (select == 3) cout << "Correct!";
     else cout << "Wrong!";
 }
+void resetDictionary(Node*& tree, int choice) {
+    deleteTree(tree);
+    switch (choice) {
+    case 0: {
+        getAllWordsToTree(tree, 0);
+    }
+    case 1: {
+        getAllWordsToTree(tree, 1);
+    }
+    case 2: {
+        getAllWordsToTree(tree, 2);
+    }
+    case 3: {
+        getAllWordsToTree(tree, 3);
+    }
+    case 4: {
+        getAllWordsToTree(tree, 4);
+    }
+    }
+}
