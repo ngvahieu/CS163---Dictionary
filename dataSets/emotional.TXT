@@ -651,6 +651,8 @@ YATB: You are the best
 YBS: You'll be sorry
 YG: Young gentleman
 YHBBYBD: You'd have better bet your bottom dollar
+YL: You 'll live
+YM: You meana
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
