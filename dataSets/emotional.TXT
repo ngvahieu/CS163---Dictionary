@@ -653,6 +653,8 @@ YG: Young gentleman
 YHBBYBD: You'd have better bet your bottom dollar
 YL: You 'll live
 YM: You meana
+YMMD: You've made my day
+YMMV: Your mileage may vary
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
