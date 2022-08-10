@@ -657,6 +657,8 @@ YMMD: You've made my day
 YMMV: Your mileage may vary
 YOYO: You're on your own
 YT?: You there?
+YVW: You're very welcome
+YW: You are welcome
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
