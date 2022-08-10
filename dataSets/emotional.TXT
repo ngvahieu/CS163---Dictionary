@@ -659,6 +659,8 @@ YOYO: You're on your own
 YT?: You there?
 YVW: You're very welcome
 YW: You are welcome
+YWIA: You're welcome in advance
+YWTKM: You want to kiss me
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
