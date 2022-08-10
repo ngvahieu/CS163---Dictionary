@@ -645,8 +645,6 @@ WYMM: Will you marry me?
 WYSIWYG: What you see is what you get
 X-(: Net.suicide
 XTLA: Extended three letter acronym
-YL: You 'll live
-YM: You mean
 YMMD: You've made my day
 YMMV: Your mileage may vary
 YOYO: You're on your own
