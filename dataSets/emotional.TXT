@@ -661,6 +661,8 @@ YVW: You're very welcome
 YW: You are welcome
 YWIA: You're welcome in advance
 YWTKM: You want to kiss me
+YWTLM: You want to love me
+YY4U: Two wise for you
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
