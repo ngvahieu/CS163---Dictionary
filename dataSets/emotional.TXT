@@ -645,8 +645,6 @@ WYMM: Will you marry me?
 WYSIWYG: What you see is what you get
 X-(: Net.suicide
 XTLA: Extended three letter acronym
-YWTLM: You want to love me
-YY4U: Two wise for you
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
