@@ -647,6 +647,8 @@ X-(: Net.suicide
 XTLA: Extended three letter acronym
 Y: Why?
 Y2K: You're too kind
+YATB: You are the best
+YBS: You'll be sorry
 [:-): User is wearing a walkman.
 [:]: User is a robot.
 []: Hugs and ...
