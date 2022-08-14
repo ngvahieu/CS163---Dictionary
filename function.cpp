@@ -756,10 +756,12 @@ void Dictionary::guessWord(Node*& tree) {
     }
     cout << "Random definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
     cout << "Word : " << endl;
-    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].second << endl;
-    cout << "2. " << tree->child[indexChar3]->defList[indexDef3].second << endl;
-    cout << "3. " << tree->child[indexChar1]->defList[indexDef1].second << endl;
-    cout << "4. " << tree->child[indexChar4]->defList[indexDef4].second << "\n";
+    for (int i = 1; i < 5; i++) {
+        if (choice1 == i)  cout << i << ". " << tree->child[indexChar1]->defList[indexDef1].second << endl;
+        if (choice2 == i)  cout << i << ". " << tree->child[indexChar2]->defList[indexDef2].second << endl;
+        if (choice3 == i)  cout << i << ". " << tree->child[indexChar3]->defList[indexDef3].second << endl;
+        if (choice4 == i)  cout << i << ". " << tree->child[indexChar4]->defList[indexDef4].second << endl;
+    }
     cout << "Which the answer you choose : ";
     cin >> select;
     if (select == 3) cout << "Correct!";
