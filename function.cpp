@@ -223,7 +223,7 @@ void Dictionary::editDef(Dictionary& dict, int choice, string key) {
         oldDef = last->def[select - 1];
         cout << "Change " << select << " to: ";
         cin.ignore();
-        getline(cin, newDef,'\n');
+        getline(cin, newDef, '\n');
         // delete the old def in def(lastNode)
         last->def.erase(last->def.begin() + select - 1);
         // delete the old def in defList(Node has a list of defs start by that Node's character)
@@ -242,35 +242,35 @@ void Dictionary::editDef(Dictionary& dict, int choice, string key) {
     }
 }
 // Hung
-void Dictionary::historyOfSearch(vector<pair<string,vector<string>>> &his, string key, Node* pLastChar) {
-    his.push_back({key, pLastChar->def});
+void Dictionary::historyOfSearch(vector<pair<string, vector<string>>>& his, string key, Node* pLastChar) {
+    his.push_back({ key, pLastChar->def });
 }
 // Hung
-void Dictionary::viewHistoryWords(vector<pair<string,vector<string>>> his) {
+void Dictionary::viewHistoryWords(vector<pair<string, vector<string>>> his) {
     cout << "HISTORY OF SEARCH WORDS" << endl;
-    for(int i = 0; i < his.size(); ++i) {
-        cout << i+1 << ". " << his[i].first << ":" << endl;
-        for(int j = 0; j < his[i].second.size(); ++j) 
-            cout << " " << i+1 << "." << j+1 << " " << his[i].second[j] << endl;
+    for (int i = 0; i < his.size(); ++i) {
+        cout << i + 1 << ". " << his[i].first << ":" << endl;
+        for (int j = 0; j < his[i].second.size(); ++j)
+            cout << " " << i + 1 << "." << j + 1 << " " << his[i].second[j] << endl;
     }
     cout << endl;
 }
 void Dictionary::removeWord(Dictionary& dict, int choice, string key) {
     Node* pLastChar = dict.searchByKey(dict.tree[choice], key);
-    if(pLastChar) {
+    if (pLastChar) {
         int select = 0, pos;
         string oldDef;
-        for(int i = 0; i < pLastChar->def.size(); ++i) {
-            cout << i+1 << ": " << pLastChar->def[i] << endl;
+        for (int i = 0; i < pLastChar->def.size(); ++i) {
+            cout << i + 1 << ": " << pLastChar->def[i] << endl;
         }
         cout << "Choose the one you want to remove: "; cin >> select;
-        oldDef = pLastChar->def[select-1];
+        oldDef = pLastChar->def[select - 1];
         // delete in def
-        pLastChar->def.erase(pLastChar->def.begin()+select-1);
+        pLastChar->def.erase(pLastChar->def.begin() + select - 1);
         // delete in defList
         dict.searchByDef(oldDef, dict.tree[choice], key, pos);
-        dict.tree[choice]->child[oldDef[0]]->defList.erase(dict.tree[choice]->defList.begin()+pos);
-        if(pLastChar->def.size() == 0) {
+        dict.tree[choice]->child[oldDef[0]]->defList.erase(dict.tree[choice]->defList.begin() + pos);
+        if (pLastChar->def.size() == 0) {
             pLastChar->isLastChar = false;
         }
     }
@@ -331,7 +331,7 @@ vector<string> readFavfile(int choice)
             favList.push_back(str);
         fin.close();
     }
-    
+
     return favList;
 }
 
@@ -679,15 +679,15 @@ void Dictionary::guessDef(Node*& tree) {
     if (!tree) return;
     int select;
     int indexChar1 = ranNum(0, 94);
-    int indexChar2 = ranNum(0, 94); 
+    int indexChar2 = ranNum(0, 94);
     int indexChar3 = ranNum(0, 94);
     int indexChar4 = ranNum(0, 94);
-    bool check = false; 
+    bool check = false;
     while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0
-        || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 
-        || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 
-        || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 
-        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 
+        || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0
+        || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0
+        || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0
+        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4
         || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
         indexChar1 = ranNum(0, 94);
         indexChar2 = ranNum(0, 94);
@@ -741,7 +741,7 @@ void Dictionary::guessWord(Node*& tree) {
     int indexDef4 = ranNum(0, tree->child[indexChar4]->defList.size() - 1);
     cout << "Random Definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
     cout << "Word : " << endl;
-    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].second <<endl;
+    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].second << endl;
     cout << "2. " << tree->child[indexChar3]->defList[indexDef3].second << endl;
     cout << "3. " << tree->child[indexChar1]->defList[indexDef1].second << endl;
     cout << "4. " << tree->child[indexChar4]->defList[indexDef4].second << "\n";
