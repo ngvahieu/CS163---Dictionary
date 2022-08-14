@@ -744,7 +744,17 @@ void Dictionary::guessWord(Node*& tree) {
     int indexDef2 = ranNum(0, tree->child[indexChar2]->defList.size() - 1);
     int indexDef3 = ranNum(0, tree->child[indexChar3]->defList.size() - 1);
     int indexDef4 = ranNum(0, tree->child[indexChar4]->defList.size() - 1);
-    cout << "Random Definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
+    int choice1 = ranNum(1, 4);
+    int choice2 = ranNum(1, 4);
+    int choice3 = ranNum(1, 4);
+    int choice4 = ranNum(1, 4);
+    while (choice1 == choice2 || choice1 == choice3 || choice1 == choice4 || choice2 == choice3 || choice2 == choice4 || choice3 == choice4) {
+        choice1 = ranNum(1, 4);
+        choice2 = ranNum(1, 4);
+        choice3 = ranNum(1, 4);
+        choice4 = ranNum(1, 4);
+    }
+    cout << "Random definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
     cout << "Word : " << endl;
     cout << "1. " << tree->child[indexChar2]->defList[indexDef2].second << endl;
     cout << "2. " << tree->child[indexChar3]->defList[indexDef3].second << endl;
