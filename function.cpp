@@ -409,6 +409,22 @@ void Dictionary::removFavWord(string word, int choice)
     default:
         break;
     }
+
+    ofstream fout;
+    bool check = false;
+    if (favList.size() != 0)
+    {
+        for (int i = 0; i < favList.size(); i++)
+        {
+            if (favList[i] == word)
+            {
+                check = true;
+                break;
+            }
+        }
+    }
+    else
+        cout << "No word is stored in favorite list." << '\n';
 }
 
 void viewFavList(int choice)
