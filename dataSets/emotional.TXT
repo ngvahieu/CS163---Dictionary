@@ -95,6 +95,7 @@
 ?4U: Question for you
 @:-): User is wearing a turban.
 @=: User is pro-nuclear war.
+A/S/L: Age/Sex/Location
 AFK: Away from computer keyboard (for wireless users)
 AIM: AOL Instant Messenger; also verb for FTP'ing files via AIM
 AISI: As I see it
