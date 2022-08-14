@@ -604,7 +604,7 @@ void Dictionary::removeFavWord(string word, int choice) {
     case 0 : //emotional 
     {
         vector<Word> vt = getWordsFromfavFile(0);
-        fout.open("favEmotional.txt" | ios::trunc);
+        fout.open("favEmotional.txt", ios::trunc);
         if (!fout.is_open()) cout << "Can not open the file ";
         int select = 0 ; 
         for (int i = 0; i < vt.size(); i++) {
@@ -618,17 +618,17 @@ void Dictionary::removeFavWord(string word, int choice) {
     }
     case 1 : // slang
     {
-        vector<Word> vt = getWordsFromfavFile(1)
-        fout.open("favSlang.txt"|| ios::trunc);
-        if (!fout.is_open() cout << "Can not open the file ";
-        int seclect = 0;
+        vector<Word> vt = getWordsFromfavFile(1);
+        fout.open("favSlang.txt", ios::trunc);
+        if (!fout.is_open()) cout << "Can not open the file ";
+        int select = 0;
         for (int i = 0; i < vt.size(); i++) {
-             fout << i + 1 << ": " << vt[i]->def << endl;
-            cout<<i+1 <<": "<< vt[i]->def <<endl ;
-            }
+            fout << i + 1 << ": " << vt[i].def << endl;
+            cout << i + 1 << ": " << vt[i].def << endl;
+        }
         cout << "Choose the one you want to remove: "; cin >> select;
-        vt.erase(vt->def.begin() + select - 1);
-        vt->def.erase(vt->def.begin() + select - 1);
+        vt.erase(vt.begin() + select - 1);
+        /*vt->def.erase(vt->def.begin() + select - 1);*/
         fout.close();
     }
     case 2: { // eng to eng 
