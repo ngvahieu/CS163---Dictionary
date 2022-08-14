@@ -48,11 +48,12 @@ public:
     bool addNewWord(Word newWord, Dictionary& dict, int choice);
     void historyOfSearch(vector<pair<string,vector<string>>> &his, string key, Node* pLastChar);// put in the menu of search key(after the searchByKey function)
     void viewHistoryWords(vector<pair<string,vector<string>>> his);
-    bool addNewWord(Word newWord, Node*& tree);
+    /*bool addNewWord(Word newWord, Node*& tree);*/
     void editDef(Dictionary& dict, int choice, string key);
     void removeWord(Dictionary& dict, int choice, string key);
     void resetDictionary(Node*& tree, int choice);
     void removeFavWord(string word, int choice);
+    void removFavWord(string word, int choice);
     void addFavWord(string word, int choice);
 
     /*void viewRanWord(Node*& tree, int choice);*/

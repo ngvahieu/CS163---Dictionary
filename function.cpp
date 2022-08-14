@@ -384,6 +384,11 @@ void Dictionary::addFavWord(string word, int choice)
     }
 }
 
+void Dictionary::removFavWord(string word, int choice)
+{
+
+}
+
 void viewFavList(int choice)
 {
     vector<string> favList = readFavfile(choice);
