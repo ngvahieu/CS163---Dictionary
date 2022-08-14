@@ -729,7 +729,12 @@ void Dictionary::guessWord(Node*& tree) {
     int indexChar3 = ranNum(0, 94);
     int indexChar4 = ranNum(0, 94);
     bool check = false;
-    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 
+        || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 
+        || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0
+        || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 
+        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 
+        || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
         indexChar1 = ranNum(0, 94);
         indexChar2 = ranNum(0, 94);
         indexChar3 = ranNum(0, 94);
