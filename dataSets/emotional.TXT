@@ -98,6 +98,9 @@
 A/S/L: Age/Sex/Location
 AAMOF: As a matter of fact
 ABFL: A big fat lady
+ABT: About
+ADN: Any day now
+AFAIC: As far as I'm concerned
 AFK: Away from computer keyboard (for wireless users)
 AIM: AOL Instant Messenger; also verb for FTP'ing files via AIM
 AISI: As I see it
