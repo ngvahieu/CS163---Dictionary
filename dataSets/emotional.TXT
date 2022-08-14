@@ -101,6 +101,10 @@ ABFL: A big fat lady
 ABT: About
 ADN: Any day now
 AFAIC: As far as I'm concerned
+AFAICS: As far as I can see
+AFAICT: As far as I can tell
+AFAIK: As far as I know
+AFAYC: As far as you're concerned
 AFK: Away from computer keyboard (for wireless users)
 AIM: AOL Instant Messenger; also verb for FTP'ing files via AIM
 AISI: As I see it
