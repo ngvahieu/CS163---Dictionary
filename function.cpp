@@ -683,11 +683,11 @@ void Dictionary::guessDef(Node*& tree) {
     int indexChar3 = ranNum(0, 94);
     int indexChar4 = ranNum(0, 94);
     bool check = false; 
-    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0
         || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 
         || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 
         || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 
-        || indexChar1 == indexChar2 || indexChar1 = indexChar3 || indexChar1 == indexChar4 
+        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 
         || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
         indexChar1 = ranNum(0, 94);
         indexChar2 = ranNum(0, 94);
@@ -698,15 +698,27 @@ void Dictionary::guessDef(Node*& tree) {
     int indexDef2 = ranNum(0, tree->child[indexChar2]->defList.size() - 1);
     int indexDef3 = ranNum(0, tree->child[indexChar3]->defList.size() - 1);
     int indexDef4 = ranNum(0, tree->child[indexChar4]->defList.size() - 1);
+    int choice1 = ranNum(1, 4);
+    int choice2 = ranNum(1, 4);
+    int choice3 = ranNum(1, 4);
+    int choice4 = ranNum(1, 4);
+    while (choice1 == choice2 || choice1 == choice3 || choice1 == choice4 || choice2 == choice3 || choice2 == choice4 || choice3 == choice4) {
+        choice1 = ranNum(1, 4);
+        choice2 = ranNum(1, 4);
+        choice3 = ranNum(1, 4);
+        choice4 = ranNum(1, 4);
+    }
     cout << "Random word: " << tree->child[indexChar1]->defList[indexDef1].second << "\n";
-    cout << "Definition : " << endl;
-    cout << "1. " << tree->child[indexChar2]->defList[indexDef2].first << endl;
-    cout << "2. " << tree->child[indexChar1]->defList[indexDef1].first << endl;
-    cout << "3. " << tree->child[indexChar3]->defList[indexDef3].first << endl;
-    cout << "4. " << tree->child[indexChar4]->defList[indexDef4].first << "\n";
-    cout << "Which the answer you choose : ";
+    cout << "Definitions : " << endl;
+    for (int i = 1; i < 5; i++) {
+        if (choice1 == i)  cout << i << ". " << tree->child[indexChar1]->defList[indexDef1].first << endl;
+        if (choice2 == i)  cout << i << ". " << tree->child[indexChar2]->defList[indexDef2].first << endl;
+        if (choice3 == i)  cout << i << ". " << tree->child[indexChar3]->defList[indexDef3].first << endl;
+        if (choice4 == i)  cout << i << ". " << tree->child[indexChar4]->defList[indexDef4].first << endl;
+    }
+    cout << "Which the answer do you choose : ";
     cin >> select;
-    if (select == 2) cout << "Correct!";
+    if (select == choice1) cout << "Correct!";
     else cout << "Wrong!";
 }
 void Dictionary::guessWord(Node*& tree) {
@@ -717,7 +729,7 @@ void Dictionary::guessWord(Node*& tree) {
     int indexChar3 = ranNum(0, 94);
     int indexChar4 = ranNum(0, 94);
     bool check = false;
-    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 || indexChar1 == indexChar2 || indexChar1 = indexChar3 || indexChar1 == indexChar4 || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0 || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
         indexChar1 = ranNum(0, 94);
         indexChar2 = ranNum(0, 94);
         indexChar3 = ranNum(0, 94);
