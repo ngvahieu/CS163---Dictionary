@@ -490,7 +490,6 @@ void viewHisList(int choice)
         cout << hisList[i] << '\n';
 }
 
-
 //Q.Hieu 
 vector<Word> getWordsFromfavFile(int choice) {
     vector<Word> dict;
@@ -604,17 +603,17 @@ void Dictionary::removeFavWord(string word, int choice) {
     switch (choice) {
     case 0 : //emotional 
     {
-        vector<Word> vt = getWordsFromfavFile(0)
+        vector<Word> vt = getWordsFromfavFile(0);
         fout.open("favEmotional.txt" | ios::trunc);
-        if (!fout.is_open() cout << "Can not open the file ";
-        int seclect = 0 ; 
+        if (!fout.is_open()) cout << "Can not open the file ";
+        int select = 0 ; 
         for (int i = 0; i < vt.size(); i++) {
-            fout<<i+1 <<": "<< vt[i]->def <<endl ;
-            cout<<i+1 <<": "<< vt[i]->def <<endl ;
+            fout<<i+1 <<": "<< vt[i].def << endl;
+            cout<<i+1 <<": "<< vt[i].def <<endl ;
         }
         cout << "Choose the one you want to remove: "; cin >> select; 
-        vt.erase(vt->def.begin() + select - 1);
-        vt->def.erase(vt->def.begin() + select - 1);
+        vt.erase(vt.begin() + select - 1);
+        /*vt->def.erase(vt->def.begin() + select - 1);*/
         fout.close();
     }
     case 1 : // slang
