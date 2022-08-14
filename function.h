@@ -58,8 +58,10 @@ public:
     /*void viewRanWord(Node*& tree, int choice);*/
     void viewRanWord(Node*& tree);
 
-    void guessDef(Node*& tree, int choice);
-    void guessWord(Node*& tree, int choice);
+    /*void guessDef(Node*& tree, int choice);*/
+    void guessDef(Node*& tree);
+    /*void guessWord(Node*& tree, int choice);*/
+    void guessWord(Node*& tree);
 };
 vector<string> readFavfile(int choice);
 void viewFavList(int choice);
