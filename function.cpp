@@ -729,11 +729,11 @@ void Dictionary::guessWord(Node*& tree) {
     int indexChar3 = ranNum(0, 94);
     int indexChar4 = ranNum(0, 94);
     bool check = false;
-    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0 
-        || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0 
+    while (!tree->child[indexChar1] || tree->child[indexChar1]->defList.size() == 0
+        || !tree->child[indexChar2] || tree->child[indexChar2]->defList.size() == 0
         || !tree->child[indexChar3] || tree->child[indexChar3]->defList.size() == 0
-        || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0 
-        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4 
+        || !tree->child[indexChar4] || tree->child[indexChar4]->defList.size() == 0
+        || indexChar1 == indexChar2 || indexChar1 == indexChar3 || indexChar1 == indexChar4
         || indexChar2 == indexChar3 || indexChar2 == indexChar4 || indexChar3 == indexChar4) {
         indexChar1 = ranNum(0, 94);
         indexChar2 = ranNum(0, 94);
@@ -755,16 +755,16 @@ void Dictionary::guessWord(Node*& tree) {
         choice4 = ranNum(1, 4);
     }
     cout << "Random definition: " << tree->child[indexChar1]->defList[indexDef1].first << "\n";
-    cout << "Word : " << endl;
+    cout << "Words : " << endl;
     for (int i = 1; i < 5; i++) {
         if (choice1 == i)  cout << i << ". " << tree->child[indexChar1]->defList[indexDef1].second << endl;
         if (choice2 == i)  cout << i << ". " << tree->child[indexChar2]->defList[indexDef2].second << endl;
         if (choice3 == i)  cout << i << ". " << tree->child[indexChar3]->defList[indexDef3].second << endl;
         if (choice4 == i)  cout << i << ". " << tree->child[indexChar4]->defList[indexDef4].second << endl;
     }
-    cout << "Which the answer you choose : ";
+    cout << "Which the answer do you choose : ";
     cin >> select;
-    if (select == 3) cout << "Correct!";
+    if (select == choice1) cout << "Correct!";
     else cout << "Wrong!";
 }
 void Dictionary::resetDictionary(Node*& tree, int choice) {
