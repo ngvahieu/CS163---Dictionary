@@ -386,7 +386,29 @@ void Dictionary::addFavWord(string word, int choice)
 
 void Dictionary::removFavWord(string word, int choice)
 {
+    vector<string> favList = readFavfile(choice);
+    string filename;
 
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "favEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "favSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "favEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "favEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "favViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
 }
 
 void viewFavList(int choice)
