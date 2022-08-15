@@ -70,6 +70,7 @@ vector<string> readHisfile(int choice);
 void viewHisList(int choice);
 void addHisWord(string word, int choice);
 string tolowercase(string word);
+void clearHistory(int choice);
 int ranNum(int min, int max); //return a random number in a range
 int charToIndex(char a); // change a character to equivalent index in TrieNode.
 vector<char> splitWord(string word); // split a word into characters.

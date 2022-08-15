@@ -553,6 +553,31 @@ void viewHisList(int choice)
         cout << hisList[i] << '\n';
 }
 
+void clearHistory(int choice)
+{
+    string filename;
+    switch (choice)
+    {
+    case 0:  // emojis
+        filename = "hisEmotional.txt";
+        break;
+    case 1: // slang
+        filename = "hisSlang.txt";
+        break;
+    case 2: // Eng to Eng
+        filename = "hisEng-Eng.txt";
+        break;
+    case 3: // Eng to Viet
+        filename = "hisEng-Viet.txt";
+        break;
+    case 4: // Viet to Eng
+        filename = "hisViet-Eng.txt";
+        break;
+    default:
+        break;
+    }
+}
+
 //Q.Hieu 
 vector<Word> getWordsFromfavFile(int choice) {
     vector<Word> dict;
