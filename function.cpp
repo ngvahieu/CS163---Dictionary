@@ -337,7 +337,10 @@ vector<string> readFavfile(int choice)
 
 string tolowercase(string word)
 {
-
+    for (int i = 0; i <= word.size(); i++)
+        if (word[i] >= 65 && word[i] <= 90)
+            word[i] = word[i] + 32;
+    return word;
 }
 
 void Dictionary::addFavWord(string word, int choice)
@@ -384,7 +387,7 @@ void Dictionary::addFavWord(string word, int choice)
         string str;
         cout << "Type word you want to remove: ";
         getline(cin, str, '\n');
-        removeFavWord(str, choice);
+        removFavWord(str, choice);
         addFavWord(word, choice);
     }
 }
