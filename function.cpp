@@ -576,6 +576,11 @@ void clearHistory(int choice)
     default:
         break;
     }
+
+    ofstream fout;
+    fout.open("hisList/" + filename);
+    if (fout)
+        fout.close();
 }
 
 //Q.Hieu 
