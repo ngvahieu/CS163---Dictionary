@@ -335,6 +335,11 @@ vector<string> readFavfile(int choice)
     return favList;
 }
 
+string tolowercase(string word)
+{
+
+}
+
 void Dictionary::addFavWord(string word, int choice)
 {
     vector<string> favList = readFavfile(choice);
